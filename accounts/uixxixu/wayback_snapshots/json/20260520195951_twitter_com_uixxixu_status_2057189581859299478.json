@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057185674261115169",
+    "created_at": "2026-05-20T19:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T20:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057189581859299478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806453255754723328",
+          "start": 0,
+          "username": "realwei900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057189581859299478",
+    "in_reply_to_user_id": "1806453255754723328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057189039959400666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realwei900 感谢你！！✧⁺⸜(˙▾˙)⸝⁺✧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057185674261115169",
+        "created_at": "2026-05-20T19:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057189581859299478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806453255754723328",
+              "start": 0,
+              "username": "realwei900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057189581859299478",
+        "in_reply_to_user_id": "1806453255754723328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057189039959400666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realwei900 感谢你！！✧⁺⸜(˙▾˙)⸝⁺✧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806453255754723328",
+        "conversation_id": "2057185674261115169",
+        "created_at": "2026-05-20T19:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T20:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057189039959400666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057189039959400666",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057185674261115169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 😂是我啦 熊霸头像的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 428,
+          "like_count": 5403,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3117
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T22:23:19.000Z",
+        "description": "",
+        "id": "1806453255754723328",
+        "name": "Maoooooooo",
+        "pinned_tweet_id": "1928289775024247067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820688999792713728/iGxUSKop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 97,
+          "like_count": 70,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "realwei900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057367193973932433",
+    "created_at": "2026-05-21T07:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T08:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057367193973932433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/12sygdsbi/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/12sygdsbi/status/2057366686211428663",
+          "start": 6,
+          "url": "https://t.co/61R4vTQ95B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057367193973932433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057366686211428663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又炸了12 https://t.co/61R4vTQ95B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057366675889258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F2EbAAAaws7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057366676568674304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F4maEAAjhkB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057366677038514177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F6WbQAEEidL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2057366677994749952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI08F96aQAASxjD.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057367193973932433",
+        "created_at": "2026-05-21T07:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057367193973932433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/12sygdsbi/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/12sygdsbi/status/2057366686211428663",
+              "start": 6,
+              "url": "https://t.co/61R4vTQ95B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057367193973932433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057366686211428663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又炸了12 https://t.co/61R4vTQ95B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057366675889258496",
+            "3_2057366676568674304",
+            "3_2057366677038514177",
+            "3_2057366677994749952"
+          ]
+        },
+        "author_id": "2057363646423117824",
+        "conversation_id": "2057366686211428663",
+        "created_at": "2026-05-21T07:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T08:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057366686211428663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366675889258496",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366676568674304",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366677038514177",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            },
+            {
+              "display_url": "pic.x.com/MvVYdlV5zJ",
+              "end": 167,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057366686211428663/photo/1",
+              "media_key": "3_2057366677994749952",
+              "start": 144,
+              "url": "https://t.co/MvVYdlV5zJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057366686211428663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自介/嗯对我的号又炸了\n12 黄家盛（安）[我爹说我可能压不住这个名字，改名ing]/叫我12或者小黄~阿盛/小安/目前在干烟袋，需要问我^有点缺钱/。\n双相，可能带点阴性精神分裂。\n没有什么爱好，之前喜欢看大陆哲学。（这个海洋哲学中的智力太低下了🥵）\n刚洗完澡拍出来好看点 讨个口子先 https://t.co/MvVYdlV5zJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 413,
+          "like_count": 5405,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3119
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "",
+        "id": "2057363646423117824",
+        "name": "12",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057364210636795904/QHdjezBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

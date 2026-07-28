@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2040217897746960609",
+    "created_at": "2026-04-04T00:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T01:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040217897746960609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040217897746960609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040108146333753814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite: 因为常常在ngl问答里收到一些基础的od问题，推测我互fo里有很多是刚入圈的小oder，所以我要再强调一次，x上药商都鱼龙混杂，尤其是账号不稳定的人，可信度很低，90%+是骗子。\n私自购买精神药品在法律解释上是毒品交易，没人会愿意为了那点…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2040217897746960609",
+        "created_at": "2026-04-04T00:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040217897746960609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040217897746960609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040108146333753814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite: 因为常常在ngl问答里收到一些基础的od问题，推测我互fo里有很多是刚入圈的小oder，所以我要再强调一次，x上药商都鱼龙混杂，尤其是账号不稳定的人，可信度很低，90%+是骗子。\n私自购买精神药品在法律解释上是毒品交易，没人会愿意为了那点…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2040108146333753814",
+        "created_at": "2026-04-03T16:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040108146333753814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2040105675511210399",
+              "start": 141,
+              "url": "https://t.co/kH8uIcaQhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040108146333753814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1308,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040105675511210399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为常常在ngl问答里收到一些基础的od问题，推测我互fo里有很多是刚入圈的小oder，所以我要再强调一次，x上药商都鱼龙混杂，尤其是账号不稳定的人，可信度很低，90%+是骗子。\n私自购买精神药品在法律解释上是毒品交易，没人会愿意为了那点利润顶着贩毒标签担着法律风险给你们邮这些。 https://t.co/kH8uIcaQhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040134929758261475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 265,
+          "like_count": 4196,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2209
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/08/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助/引路人:@futi999139732\n/Thrillingly pointless",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "futi999139732"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2037864634766815691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 780,
+          "like_count": 1953,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 1123
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

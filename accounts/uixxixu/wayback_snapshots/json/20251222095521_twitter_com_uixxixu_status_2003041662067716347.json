@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2003041662067716347",
+    "created_at": "2025-12-22T09:55:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T10:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003041662067716347"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003041662067716347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞巴林让我想吃东西，愈美片抑制食欲。我现在到底要不要吃饭！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2003041662067716347",
+        "created_at": "2025-12-22T09:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T10:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003041662067716347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003041662067716347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林让我想吃东西，愈美片抑制食欲。我现在到底要不要吃饭！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 103,
+          "like_count": 652,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 255
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

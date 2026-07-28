@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2063800714183290902",
+    "created_at": "2026-06-08T10:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063938268602007897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1598976218715803648",
+          "start": 0,
+          "username": "Knn_zZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063938268602007897",
+    "in_reply_to_user_id": "1598976218715803648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063922214278496703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Knn_zZZ 好辛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2063800714183290902",
+        "created_at": "2026-06-08T10:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063938268602007897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1598976218715803648",
+              "start": 0,
+              "username": "Knn_zZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063938268602007897",
+        "in_reply_to_user_id": "1598976218715803648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063922214278496703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Knn_zZZ 好辛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598976218715803648",
+        "conversation_id": "2063800714183290902",
+        "created_at": "2026-06-08T09:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063922214278496703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063922214278496703",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063800714183290902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 我高中天天："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2062439161882452136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 473,
+          "like_count": 5950,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3597
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T09:43:50.000Z",
+        "description": "有无恋尸癖",
+        "id": "1598976218715803648",
+        "name": "我想改名",
+        "pinned_tweet_id": "2060681820308713757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799892620598276096/IJLGuVkj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 1521,
+          "like_count": 29361,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 3090
+        },
+        "username": "Knn_zZZ",
+        "verified": false
+      }
+    ]
+  }
+}

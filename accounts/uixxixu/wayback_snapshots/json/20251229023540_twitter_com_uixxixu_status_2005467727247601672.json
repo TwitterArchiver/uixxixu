@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2005009368421728390",
+    "created_at": "2025-12-29T02:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T03:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005467727247601672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268491001951219712",
+          "start": 0,
+          "username": "Xaiforever11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005467727247601672",
+    "in_reply_to_user_id": "1268491001951219712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005009368421728390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xaiforever11 祝福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2212,
+        "media_key": "3_2005009365062090754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M5ZP_bgAIPs1p.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2005009365074669568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M5ZQCbcAAVHcW.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2208,
+        "media_key": "3_2005009364562968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9M5ZOIbgAA_0My.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2005009368421728390",
+        "created_at": "2025-12-29T02:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T03:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005467727247601672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268491001951219712",
+              "start": 0,
+              "username": "Xaiforever11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005467727247601672",
+        "in_reply_to_user_id": "1268491001951219712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005009368421728390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xaiforever11 祝福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005009365062090754",
+            "3_2005009365074669568",
+            "3_2005009364562968576"
+          ]
+        },
+        "author_id": "1268491001951219712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2005009368421728390",
+        "created_at": "2025-12-27T20:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005009368421728390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/54bo1Ch2s2",
+              "end": 50,
+              "expanded_url": "https://x.com/Xaiforever11/status/2005009368421728390/photo/1",
+              "media_key": "3_2005009365062090754",
+              "start": 27,
+              "url": "https://t.co/54bo1Ch2s2"
+            },
+            {
+              "display_url": "pic.x.com/54bo1Ch2s2",
+              "end": 50,
+              "expanded_url": "https://x.com/Xaiforever11/status/2005009368421728390/photo/1",
+              "media_key": "3_2005009365074669568",
+              "start": 27,
+              "url": "https://t.co/54bo1Ch2s2"
+            },
+            {
+              "display_url": "pic.x.com/54bo1Ch2s2",
+              "end": 50,
+              "expanded_url": "https://x.com/Xaiforever11/status/2005009368421728390/photo/1",
+              "media_key": "3_2005009364562968576",
+              "start": 27,
+              "url": "https://t.co/54bo1Ch2s2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005009368421728390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1993,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被治愈被理解被爱，世界哪有那么多巧合一切都是命中注定 https://t.co/54bo1Ch2s2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2003285496676642857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709456648122368/F6HXQJOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 98,
+          "like_count": 836,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 330
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T10:33:24.000Z",
+        "description": "有主 勿扰",
+        "id": "1268491001951219712",
+        "location": "亮晶晶布丁城堡",
+        "name": "愛",
+        "pinned_tweet_id": "1994968048839922140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997904057940520960/_Tot9owS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5239,
+          "following_count": 401,
+          "like_count": 54131,
+          "listed_count": 7,
+          "media_count": 1075,
+          "tweet_count": 13319
+        },
+        "username": "Xaiforever11",
+        "verified": false
+      }
+    ]
+  }
+}

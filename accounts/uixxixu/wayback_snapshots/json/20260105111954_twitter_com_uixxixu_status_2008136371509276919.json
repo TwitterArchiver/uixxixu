@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2008136371509276919",
+    "created_at": "2026-01-05T11:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T12:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008136371509276919"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008136371509276919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么一喝酒就想自残"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2008136371509276919",
+        "created_at": "2026-01-05T11:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T12:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008136371509276919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008136371509276919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么一喝酒就想自残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007981543965470720/9kOXSI7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 102,
+          "like_count": 1014,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 428
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

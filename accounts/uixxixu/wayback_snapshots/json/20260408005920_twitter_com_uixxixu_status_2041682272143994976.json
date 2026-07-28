@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2041682272143994976",
+    "created_at": "2026-04-08T00:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041682272143994976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dxmdusk/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/dxmdusk/status/2041482860260204781",
+          "start": 7,
+          "url": "https://t.co/hdMfMeQiqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041682272143994976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041482860260204781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看meme中 https://t.co/hdMfMeQiqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2041481227618893824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTMXDvaQAAKppL.jpg",
+        "width": 2051
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2041481453041860609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTMkLgbwAEJYxi.jpg",
+        "width": 2035
+      },
+      {
+        "height": 1531,
+        "media_key": "3_2041481501871919104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTMnBabUAAa7Dc.jpg",
+        "width": 2046
+      },
+      {
+        "height": 1530,
+        "media_key": "3_2041481517810192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTMn8yaEAApQLb.jpg",
+        "width": 2037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2041682272143994976",
+        "created_at": "2026-04-08T00:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041682272143994976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dxmdusk/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/dxmdusk/status/2041482860260204781",
+              "start": 7,
+              "url": "https://t.co/hdMfMeQiqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041682272143994976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041482860260204781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看meme中 https://t.co/hdMfMeQiqf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041481227618893824",
+            "3_2041481453041860609",
+            "3_2041481501871919104",
+            "3_2041481517810192384"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2041482860260204781",
+        "created_at": "2026-04-07T11:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041482860260204781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxFDWCv3CD",
+              "end": 39,
+              "expanded_url": "https://x.com/DXMDusk/status/2041482860260204781/photo/1",
+              "media_key": "3_2041481227618893824",
+              "start": 16,
+              "url": "https://t.co/IxFDWCv3CD"
+            },
+            {
+              "display_url": "pic.x.com/IxFDWCv3CD",
+              "end": 39,
+              "expanded_url": "https://x.com/DXMDusk/status/2041482860260204781/photo/1",
+              "media_key": "3_2041481453041860609",
+              "start": 16,
+              "url": "https://t.co/IxFDWCv3CD"
+            },
+            {
+              "display_url": "pic.x.com/IxFDWCv3CD",
+              "end": 39,
+              "expanded_url": "https://x.com/DXMDusk/status/2041482860260204781/photo/1",
+              "media_key": "3_2041481501871919104",
+              "start": 16,
+              "url": "https://t.co/IxFDWCv3CD"
+            },
+            {
+              "display_url": "pic.x.com/IxFDWCv3CD",
+              "end": 39,
+              "expanded_url": "https://x.com/DXMDusk/status/2041482860260204781/photo/1",
+              "media_key": "3_2041481517810192384",
+              "start": 16,
+              "url": "https://t.co/IxFDWCv3CD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041482860260204781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 33903,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "用了这个东西后，你会变成什么样 https://t.co/IxFDWCv3CD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 277,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2342
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 1100,
+          "like_count": 2069,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 2124
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

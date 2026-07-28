@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038990704505196544",
+        "3_2038990704501039105"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038990712197501184",
+    "created_at": "2026-03-31T14:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038990712197501184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZK2g5sDUA2",
+          "end": 37,
+          "expanded_url": "https://x.com/uixxixu/status/2038990712197501184/photo/1",
+          "media_key": "3_2038990704505196544",
+          "start": 14,
+          "url": "https://t.co/ZK2g5sDUA2"
+        },
+        {
+          "display_url": "pic.x.com/ZK2g5sDUA2",
+          "end": 37,
+          "expanded_url": "https://x.com/uixxixu/status/2038990712197501184/photo/1",
+          "media_key": "3_2038990704501039105",
+          "start": 14,
+          "url": "https://t.co/ZK2g5sDUA2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038990712197501184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很坏念23年思诺思的那种幻 https://t.co/ZK2g5sDUA2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_2038990704505196544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvzPiJbEAArzcB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1909,
+        "media_key": "3_2038990704501039105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvzPiIboAE3S34.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038990704505196544",
+            "3_2038990704501039105"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038990712197501184",
+        "created_at": "2026-03-31T14:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038990712197501184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZK2g5sDUA2",
+              "end": 37,
+              "expanded_url": "https://x.com/uixxixu/status/2038990712197501184/photo/1",
+              "media_key": "3_2038990704505196544",
+              "start": 14,
+              "url": "https://t.co/ZK2g5sDUA2"
+            },
+            {
+              "display_url": "pic.x.com/ZK2g5sDUA2",
+              "end": 37,
+              "expanded_url": "https://x.com/uixxixu/status/2038990712197501184/photo/1",
+              "media_key": "3_2038990704501039105",
+              "start": 14,
+              "url": "https://t.co/ZK2g5sDUA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038990712197501184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很坏念23年思诺思的那种幻 https://t.co/ZK2g5sDUA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 248,
+          "like_count": 4073,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2104
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

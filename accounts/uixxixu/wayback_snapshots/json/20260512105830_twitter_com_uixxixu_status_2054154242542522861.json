@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2054154242542522861",
+    "created_at": "2026-05-12T10:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T11:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054154242542522861"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/12sgcsb/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/12sgcsb/status/2054095984649736594",
+          "start": 6,
+          "url": "https://t.co/WS84rOdUsH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054154242542522861",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054095984649736594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人转生了 https://t.co/WS84rOdUsH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2054154242542522861",
+        "created_at": "2026-05-12T10:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054154242542522861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/12sgcsb/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/12sgcsb/status/2054095984649736594",
+              "start": 6,
+              "url": "https://t.co/WS84rOdUsH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054154242542522861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054095984649736594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人转生了 https://t.co/WS84rOdUsH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039759562815733760",
+        "conversation_id": "2054094373688868965",
+        "created_at": "2026-05-12T07:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T08:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054095984649736594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054095984649736594",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054094373688868965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想咨询yindai还是可以来咨询，但是不能给你们发表了，要加V，我只能说吕口挺全的而且便宜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 379,
+          "like_count": 5247,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 2912
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "cn",
+        "name": "12（已老实）",
+        "pinned_tweet_id": "2054094373688868965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 24,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

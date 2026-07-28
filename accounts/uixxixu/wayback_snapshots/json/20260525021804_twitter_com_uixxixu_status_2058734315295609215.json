@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2058145367003381933",
+    "created_at": "2026-05-25T02:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T03:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058734315295609215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1916474271213506560",
+          "start": 0,
+          "username": "Nuki_520"
+        },
+        {
+          "end": 20,
+          "id": "2057363646423117824",
+          "start": 10,
+          "username": "12sygdsbi"
+        },
+        {
+          "end": 29,
+          "id": "2058484419581870080",
+          "start": 21,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058734315295609215",
+    "in_reply_to_user_id": "1916474271213506560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058583972456931663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuki_520 @12sygdsbi @12S1dsb 这里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2058145367003381933",
+        "created_at": "2026-05-25T02:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T03:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058734315295609215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1916474271213506560",
+              "start": 0,
+              "username": "Nuki_520"
+            },
+            {
+              "end": 20,
+              "id": "2057363646423117824",
+              "start": 10,
+              "username": "12sygdsbi"
+            },
+            {
+              "end": 29,
+              "id": "2058484419581870080",
+              "start": 21,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058734315295609215",
+        "in_reply_to_user_id": "1916474271213506560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058583972456931663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuki_520 @12sygdsbi @12S1dsb 这里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916474271213506560",
+        "conversation_id": "2058145367003381933",
+        "created_at": "2026-05-24T16:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058583972456931663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 19,
+              "id": "2057363646423117824",
+              "start": 9,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058583972456931663",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058145367003381933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @12sygdsbi 哪里可以买到？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 438,
+          "like_count": 5497,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 3212
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T12:47:49.000Z",
+        "description": "",
+        "id": "1916474271213506560",
+        "name": "振辉朱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916474364217937921/VSZOAvrs_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Nuki_520",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "mtm/mua/mao/神秘烟男/我脑子有病，健全人最好还是别看我的空间了",
+        "id": "2057363646423117824",
+        "name": "12",
+        "pinned_tweet_id": "2058675904679960742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 145,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 185
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "12/发一些照片在这里",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2058494473458634979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 61,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 20
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

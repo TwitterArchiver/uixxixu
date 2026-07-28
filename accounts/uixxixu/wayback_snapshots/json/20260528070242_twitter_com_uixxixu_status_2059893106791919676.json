@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2059893046167420928"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2059893106791919676",
+    "created_at": "2026-05-28T07:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T08:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059893106791919676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9vl7mDMSNA",
+          "end": 31,
+          "expanded_url": "https://x.com/uixxixu/status/2059893106791919676/video/1",
+          "media_key": "13_2059893046167420928",
+          "start": 8,
+          "url": "https://t.co/9vl7mDMSNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059893106791919676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁说我像十八岁 https://t.co/9vl7mDMSNA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8093,
+        "height": 1280,
+        "media_key": "13_2059893046167420928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059893046167420928/img/eIMoVHRxMYZVbjL_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059893046167420928/vid/avc1/320x568/3cav-qVMNrR_EvG7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059893046167420928/vid/avc1/480x852/7t9NwnF7YUBo1e7H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059893046167420928/vid/avc1/720x1280/rYfoUYGUWj7IJU-X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059893046167420928/pl/gSktjMYnLnOKhUM5.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059893046167420928"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2059893106791919676",
+        "created_at": "2026-05-28T07:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T08:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059893106791919676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vl7mDMSNA",
+              "end": 31,
+              "expanded_url": "https://x.com/uixxixu/status/2059893106791919676/video/1",
+              "media_key": "13_2059893046167420928",
+              "start": 8,
+              "url": "https://t.co/9vl7mDMSNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059893106791919676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁说我像十八岁 https://t.co/9vl7mDMSNA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 453,
+          "like_count": 5647,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 3311
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

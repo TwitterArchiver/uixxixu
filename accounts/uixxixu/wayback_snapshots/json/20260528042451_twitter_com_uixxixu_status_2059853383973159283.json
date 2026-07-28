@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2059849526907920668",
+    "created_at": "2026-05-28T04:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059853383973159283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1827754267551395840",
+          "start": 0,
+          "username": "MosaicIceRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059853383973159283",
+    "in_reply_to_user_id": "1827754267551395840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059852213418422742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosaicIceRoll 里面挺多层布料的就要趁不是很热的时候穿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2059849526907920668",
+        "created_at": "2026-05-28T04:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059853383973159283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1827754267551395840",
+              "start": 0,
+              "username": "MosaicIceRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059853383973159283",
+        "in_reply_to_user_id": "1827754267551395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059852213418422742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosaicIceRoll 里面挺多层布料的就要趁不是很热的时候穿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827754267551395840",
+        "conversation_id": "2059849526907920668",
+        "created_at": "2026-05-28T04:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059852213418422742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852213418422742",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059849526907920668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 太可爱了软乎乎啊...这条裙子感觉夏天穿也太舒服..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 451,
+          "like_count": 5643,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 3304
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T17:06:04.000Z",
+        "description": "我是冰卷，叫我冰就行，\nshtwt/overdosetwt/edtwt,\n互fo希望，喜欢装熟...",
+        "id": "1827754267551395840",
+        "location": "大电池鲶鱼保护中心",
+        "name": "_(:3」∠)_",
+        "pinned_tweet_id": "2058425911452807222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830319129904975873/HzgrEU7m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 234,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1143
+        },
+        "username": "MosaicIceRoll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2015379199075446983",
+    "created_at": "2026-01-26T10:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T11:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015728050076537241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268401906210095104",
+          "start": 0,
+          "username": "Laowang_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015728050076537241",
+    "in_reply_to_user_id": "1268401906210095104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015690500272013631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laowang_nya 真好看起来没有耐药！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2015379199075446983",
+        "created_at": "2026-01-26T10:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015728050076537241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1268401906210095104",
+              "start": 0,
+              "username": "Laowang_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015728050076537241",
+        "in_reply_to_user_id": "1268401906210095104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015690500272013631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laowang_nya 真好看起来没有耐药！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268401906210095104",
+        "conversation_id": "2015379199075446983",
+        "created_at": "2026-01-26T07:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015690500272013631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015690500272013631",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015379199075446983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 幹拎娘的只會讓我傻笑逼話多還站不穩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 145,
+          "like_count": 2146,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1097
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T04:39:23.000Z",
+        "description": "老王 Beta V2.0 圆角版 自傷癖 系統Windows10LTSC 人機 血圖⚠️ 請給我打賞🚪30獲取聯絡方式 可線下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/SHLxd7n-wz",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/SHLxd7n-wz",
+                "start": 0,
+                "url": "https://t.co/XI7PmzrDj0"
+              }
+            ]
+          }
+        },
+        "id": "1268401906210095104",
+        "location": "台北市, 台灣",
+        "name": "神楽坂 老王🍥",
+        "pinned_tweet_id": "1967375025499222398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000804696475553792/HVGlKynb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 437,
+          "like_count": 4659,
+          "listed_count": 2,
+          "media_count": 422,
+          "tweet_count": 2545
+        },
+        "url": "https://t.co/XI7PmzrDj0",
+        "username": "Laowang_nya",
+        "verified": false
+      }
+    ]
+  }
+}

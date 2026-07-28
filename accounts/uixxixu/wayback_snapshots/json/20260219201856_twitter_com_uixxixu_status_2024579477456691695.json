@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2024530631963947077",
+    "created_at": "2026-02-19T20:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T21:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024579477456691695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024579477456691695",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024530631963947077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 选择一台大电视"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2024530626490355712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiT4NzbUAACycc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2024530631963947077",
+        "created_at": "2026-02-19T20:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024579477456691695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024579477456691695",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024530631963947077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 选择一台大电视"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024530626490355712"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2024530631963947077",
+        "created_at": "2026-02-19T17:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024530631963947077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zyWskcir9b",
+              "end": 30,
+              "expanded_url": "https://x.com/hg3551019177402/status/2024530631963947077/photo/1",
+              "media_key": "3_2024530626490355712",
+              "start": 7,
+              "url": "https://t.co/zyWskcir9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024530631963947077",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初四来福？！ https://t.co/zyWskcir9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注 提问箱：https://t.co/x0cgvD82pi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 51,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 28,
+                "url": "https://t.co/x0cgvD82pi"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 203,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1716
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "偏执狂人机/抱歉我现在的精神状态可能没办法一条一条回复你们的消息。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2018954597268947226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022230905885282304/O_Zn4ntj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 245,
+          "like_count": 17630,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 6017
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

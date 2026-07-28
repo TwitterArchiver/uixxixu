@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003615762536079360",
+        "3_2003615762523590656",
+        "3_2003615762544537600"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003615773819093415",
+    "created_at": "2025-12-23T23:56:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T00:56:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003615773819093415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7fKMnsyAp",
+          "end": 78,
+          "expanded_url": "https://x.com/uixxixu/status/2003615773819093415/photo/1",
+          "media_key": "3_2003615762536079360",
+          "start": 55,
+          "url": "https://t.co/Y7fKMnsyAp"
+        },
+        {
+          "display_url": "pic.x.com/Y7fKMnsyAp",
+          "end": 78,
+          "expanded_url": "https://x.com/uixxixu/status/2003615773819093415/photo/1",
+          "media_key": "3_2003615762523590656",
+          "start": 55,
+          "url": "https://t.co/Y7fKMnsyAp"
+        },
+        {
+          "display_url": "pic.x.com/Y7fKMnsyAp",
+          "end": 78,
+          "expanded_url": "https://x.com/uixxixu/status/2003615773819093415/photo/1",
+          "media_key": "3_2003615762544537600",
+          "start": 55,
+          "url": "https://t.co/Y7fKMnsyAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003615773819093415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也没想到有一天我的部屋会挤进来三个人（包括我在内），有人愿意在这里休息挂机让我感觉不错。非常好的社交距离。 https://t.co/Y7fKMnsyAp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2003615762536079360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85F66BWIAA34fB.jpg",
+        "width": 1576
+      },
+      {
+        "height": 812,
+        "media_key": "3_2003615762523590656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85F65-XkAAs0aD.jpg",
+        "width": 1460
+      },
+      {
+        "height": 924,
+        "media_key": "3_2003615762544537600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G85F66DXMAA_0LP.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003615762536079360",
+            "3_2003615762523590656",
+            "3_2003615762544537600"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003615773819093415",
+        "created_at": "2025-12-23T23:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003615773819093415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7fKMnsyAp",
+              "end": 78,
+              "expanded_url": "https://x.com/uixxixu/status/2003615773819093415/photo/1",
+              "media_key": "3_2003615762536079360",
+              "start": 55,
+              "url": "https://t.co/Y7fKMnsyAp"
+            },
+            {
+              "display_url": "pic.x.com/Y7fKMnsyAp",
+              "end": 78,
+              "expanded_url": "https://x.com/uixxixu/status/2003615773819093415/photo/1",
+              "media_key": "3_2003615762523590656",
+              "start": 55,
+              "url": "https://t.co/Y7fKMnsyAp"
+            },
+            {
+              "display_url": "pic.x.com/Y7fKMnsyAp",
+              "end": 78,
+              "expanded_url": "https://x.com/uixxixu/status/2003615773819093415/photo/1",
+              "media_key": "3_2003615762544537600",
+              "start": 55,
+              "url": "https://t.co/Y7fKMnsyAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003615773819093415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也没想到有一天我的部屋会挤进来三个人（包括我在内），有人愿意在这里休息挂机让我感觉不错。非常好的社交距离。 https://t.co/Y7fKMnsyAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "2003285496676642857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 107,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 266
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

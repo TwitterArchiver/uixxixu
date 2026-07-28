@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057440791392567732",
+    "created_at": "2026-05-21T16:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057497007602942456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953859279003561984",
+          "start": 0,
+          "username": "hKa8cKjZtF32839"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057497007602942456",
+    "in_reply_to_user_id": "1953859279003561984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057494127089267110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hKa8cKjZtF32839 到底怎么问出这个问题的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057440791392567732",
+        "created_at": "2026-05-21T16:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057497007602942456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953859279003561984",
+              "start": 0,
+              "username": "hKa8cKjZtF32839"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057497007602942456",
+        "in_reply_to_user_id": "1953859279003561984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057494127089267110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hKa8cKjZtF32839 到底怎么问出这个问题的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953859279003561984",
+        "conversation_id": "2057440791392567732",
+        "created_at": "2026-05-21T16:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057494127089267110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057494127089267110",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057440791392567732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 你有？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 417,
+          "like_count": 5424,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 3132
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-08T16:42:26.000Z",
+        "description": "宅/合肥银/阳痿/滚",
+        "id": "1953859279003561984",
+        "name": "468",
+        "pinned_tweet_id": "2057285111377518921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039319061059002369/CIeLrZoi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 26,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 124
+        },
+        "username": "hKa8cKjZtF32839",
+        "verified": false
+      }
+    ]
+  }
+}

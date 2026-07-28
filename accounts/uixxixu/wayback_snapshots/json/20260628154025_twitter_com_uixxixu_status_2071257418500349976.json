@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2071253836048826708",
+    "created_at": "2026-06-28T15:40:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:40:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071257418500349976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071257418500349976",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071253836048826708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家只要活下去 会有的都会有的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071253827005894656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6SYbZa0AApCZU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071253826984960000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6SYbUbYAAqS37.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071253827014275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6SYbbasAAv2LC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2071253826976595968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6SYbSbwAAfl__.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2071253836048826708",
+        "created_at": "2026-06-28T15:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071257418500349976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071257418500349976",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071253836048826708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家只要活下去 会有的都会有的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071253827005894656",
+            "3_2071253826984960000",
+            "3_2071253827014275072",
+            "3_2071253826976595968"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071253836048826708",
+        "created_at": "2026-06-28T15:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071253836048826708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeuVN3cqiM",
+              "end": 70,
+              "expanded_url": "https://x.com/uixxixu/status/2071253836048826708/photo/1",
+              "media_key": "3_2071253827005894656",
+              "start": 47,
+              "url": "https://t.co/YeuVN3cqiM"
+            },
+            {
+              "display_url": "pic.x.com/YeuVN3cqiM",
+              "end": 70,
+              "expanded_url": "https://x.com/uixxixu/status/2071253836048826708/photo/1",
+              "media_key": "3_2071253826984960000",
+              "start": 47,
+              "url": "https://t.co/YeuVN3cqiM"
+            },
+            {
+              "display_url": "pic.x.com/YeuVN3cqiM",
+              "end": 70,
+              "expanded_url": "https://x.com/uixxixu/status/2071253836048826708/photo/1",
+              "media_key": "3_2071253827014275072",
+              "start": 47,
+              "url": "https://t.co/YeuVN3cqiM"
+            },
+            {
+              "display_url": "pic.x.com/YeuVN3cqiM",
+              "end": 70,
+              "expanded_url": "https://x.com/uixxixu/status/2071253836048826708/photo/1",
+              "media_key": "3_2071253826976595968",
+              "start": 47,
+              "url": "https://t.co/YeuVN3cqiM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071253836048826708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得住跃层在trip的时候很好玩 因为空间大 还可以坐台阶上看整个房间 \n危险动作请勿模仿 https://t.co/YeuVN3cqiM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 523,
+          "like_count": 6320,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 3993
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

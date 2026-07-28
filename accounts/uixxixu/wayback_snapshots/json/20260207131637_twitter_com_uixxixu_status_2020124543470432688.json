@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2019929371222634612",
+    "created_at": "2026-02-07T13:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T14:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020124543470432688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "ming_akira0423"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020124543470432688",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019929371222634612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_akira0423 你回来啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2019929371222634612",
+        "created_at": "2026-02-07T13:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020124543470432688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "ming_akira0423"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020124543470432688",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019929371222634612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_akira0423 你回来啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832308955852500995",
+        "conversation_id": "2019929371222634612",
+        "created_at": "2026-02-07T00:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019929371222634612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019929371222634612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1167,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熬通宵吃的早饭 和饿了一天的晚饭 谁更带派？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注我 想和同类互fo 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 183,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1467
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/WWRcHh4ytv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 98,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 75,
+                "url": "https://t.co/WWRcHh4ytv"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "明",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009957760268648448/PFnjP22P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 157,
+          "like_count": 1562,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1106
+        },
+        "username": "ming_akira0423",
+        "verified": false
+      }
+    ]
+  }
+}

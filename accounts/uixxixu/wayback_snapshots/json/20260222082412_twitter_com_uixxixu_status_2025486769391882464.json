@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2025465631014092824",
+    "created_at": "2026-02-22T08:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T09:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025486769391882464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912471464093110272",
+          "start": 0,
+          "username": "sheshe230926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025486769391882464",
+    "in_reply_to_user_id": "1912471464093110272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025467828913275340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheshe230926 谢谢女神꒰՞&gt; · &lt;𓈒՞꒱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2025465631014092824",
+        "created_at": "2026-02-22T08:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025486769391882464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912471464093110272",
+              "start": 0,
+              "username": "sheshe230926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025486769391882464",
+        "in_reply_to_user_id": "1912471464093110272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025467828913275340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheshe230926 谢谢女神꒰՞&gt; · &lt;𓈒՞꒱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912471464093110272",
+        "conversation_id": "2025465631014092824",
+        "created_at": "2026-02-22T07:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025467828913275340"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "宝宝好美",
+              "probability": 0.2613,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025467828913275340",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025465631014092824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 宝宝好美腻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 56,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 33,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 215,
+          "like_count": 3311,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 1768
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T11:42:10.000Z",
+        "description": "08｜🚺｜自傷｜ed｜病み垢｜男性❌｜DM⭕️｜求老婆们和我互fo 我想交朋友",
+        "id": "1912471464093110272",
+        "name": "石頭蛇",
+        "pinned_tweet_id": "2025106958911697356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025102994296217600/3HSYGElH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 260,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 36
+        },
+        "username": "sheshe230926",
+        "verified": false
+      }
+    ]
+  }
+}

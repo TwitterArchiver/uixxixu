@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2002564888556941803",
+    "created_at": "2025-12-21T02:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T03:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002564888556941803"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002564888556941803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "右美沙芬半衰期。刚加了8t普瑞，有点神经兮兮的感觉，我像只警觉的兔子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2002564888556941803",
+        "created_at": "2025-12-21T02:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T03:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002564888556941803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002564888556941803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "右美沙芬半衰期。刚加了8t普瑞，有点神经兮兮的感觉，我像只警觉的兔子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。暂时看不到私信抱歉！",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 229
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

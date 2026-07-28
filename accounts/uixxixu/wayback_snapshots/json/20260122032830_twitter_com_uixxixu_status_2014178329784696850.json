@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2014159684555391381",
+    "created_at": "2026-01-22T03:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T04:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014178329784696850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1958896241158299650",
+          "start": 0,
+          "username": "Cyb4rEnt1ty"
+        },
+        {
+          "end": 19,
+          "id": "1744961946863247360",
+          "start": 13,
+          "username": "9sNcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014178329784696850",
+    "in_reply_to_user_id": "1958896241158299650",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014160924442251651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyb4rEnt1ty @9sNcy 你请我吃哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2014159684555391381",
+        "created_at": "2026-01-22T03:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T04:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014178329784696850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1958896241158299650",
+              "start": 0,
+              "username": "Cyb4rEnt1ty"
+            },
+            {
+              "end": 19,
+              "id": "1744961946863247360",
+              "start": 13,
+              "username": "9sNcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014178329784696850",
+        "in_reply_to_user_id": "1958896241158299650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014160924442251651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyb4rEnt1ty @9sNcy 你请我吃哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958896241158299650",
+        "conversation_id": "2014159684555391381",
+        "created_at": "2026-01-22T02:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014160924442251651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1744961946863247360",
+              "start": 0,
+              "username": "9sNcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014160924442251651",
+        "in_reply_to_user_id": "1744961946863247360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014159684555391381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9sNcy 要是有人请我吃疯狂星期四就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 142,
+          "like_count": 2141,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1053
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-22T14:17:29.000Z",
+        "description": "Alostsadspirit…",
+        "id": "1958896241158299650",
+        "location": "距离你0.1km",
+        "name": "實體",
+        "pinned_tweet_id": "2010588685348335855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 335,
+          "like_count": 2351,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 2946
+        },
+        "username": "Cyb4rEnt1ty",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T05:58:58.000Z",
+        "description": "小乔",
+        "id": "1744961946863247360",
+        "location": " 🚪88/520",
+        "name": "第三人称",
+        "pinned_tweet_id": "2005641987987562888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008539435785453568/iEl9nasX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 122,
+          "like_count": 3903,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 668
+        },
+        "username": "9sNcy",
+        "verified": false
+      }
+    ]
+  }
+}

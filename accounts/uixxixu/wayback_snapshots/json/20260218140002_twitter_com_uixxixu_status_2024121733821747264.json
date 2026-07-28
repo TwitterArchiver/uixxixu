@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2024108105525563395",
+    "created_at": "2026-02-18T14:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024121733821747264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1774644159976210432",
+          "start": 0,
+          "username": "USCoXfsEhB27848"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024121733821747264",
+    "in_reply_to_user_id": "1774644159976210432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024108105525563395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@USCoXfsEhB27848 手好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024108097032314880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcTlw6aYAAOY51.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024108097028161536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcTlw5bAAAph3F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2024108105525563395",
+        "created_at": "2026-02-18T14:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024121733821747264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1774644159976210432",
+              "start": 0,
+              "username": "USCoXfsEhB27848"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024121733821747264",
+        "in_reply_to_user_id": "1774644159976210432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024108105525563395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USCoXfsEhB27848 手好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024108097032314880",
+            "3_2024108097028161536"
+          ]
+        },
+        "author_id": "1774644159976210432",
+        "conversation_id": "2024108105525563395",
+        "created_at": "2026-02-18T13:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024108105525563395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8709DWDdJf",
+              "end": 29,
+              "expanded_url": "https://x.com/USCoXfsEhB27848/status/2024108105525563395/photo/1",
+              "media_key": "3_2024108097032314880",
+              "start": 6,
+              "url": "https://t.co/8709DWDdJf"
+            },
+            {
+              "display_url": "pic.x.com/8709DWDdJf",
+              "end": 29,
+              "expanded_url": "https://x.com/USCoXfsEhB27848/status/2024108105525563395/photo/1",
+              "media_key": "3_2024108097028161536",
+              "start": 6,
+              "url": "https://t.co/8709DWDdJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024108105525563395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这么喝 https://t.co/8709DWDdJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注 提问箱：https://t.co/x0cgvD82pi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 51,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 28,
+                "url": "https://t.co/x0cgvD82pi"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 200,
+          "like_count": 3131,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1705
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:45:20.000Z",
+        "description": "155/29kg ip北京 @yi_smokq 看到我的求你们入这个萌女孩!线下私信🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "yi_smokq"
+              }
+            ]
+          }
+        },
+        "id": "1774644159976210432",
+        "location": "🚪25 (ᐡ т  ̫ т ᐡ)",
+        "name": "我一直在被回忆追着单杀",
+        "pinned_tweet_id": "1961607013042958820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019574829859631108/Fz9Cxf9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1063,
+          "like_count": 10961,
+          "listed_count": 4,
+          "media_count": 390,
+          "tweet_count": 3662
+        },
+        "username": "USCoXfsEhB27848",
+        "verified": false
+      }
+    ]
+  }
+}

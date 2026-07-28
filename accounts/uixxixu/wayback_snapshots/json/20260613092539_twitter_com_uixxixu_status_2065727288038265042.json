@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2065727288038265042",
+    "created_at": "2026-06-13T09:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065727288038265042"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kk_paqu/status…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/kk_paqu/status/2065707758150910104",
+          "start": 55,
+          "url": "https://t.co/wRsBOpGZMK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065727288038265042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065707758150910104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小盐让我能第一次这么近距离看演唱会 真的对我超好 你也超级萌˶&gt;ᗜ&lt;˶和你在一起好开心……\n爱你 https://t.co/wRsBOpGZMK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065707746524332033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKreQDlbAAE94CV.jpg",
+        "width": 576
+      },
+      {
+        "height": 768,
+        "media_key": "3_2065707746515877888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKreQDjaAAAEbv2.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2065727288038265042",
+        "created_at": "2026-06-13T09:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065727288038265042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kk_paqu/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/kk_paqu/status/2065707758150910104",
+              "start": 55,
+              "url": "https://t.co/wRsBOpGZMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065727288038265042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065707758150910104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小盐让我能第一次这么近距离看演唱会 真的对我超好 你也超级萌˶&gt;ᗜ&lt;˶和你在一起好开心……\n爱你 https://t.co/wRsBOpGZMK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065707746524332033",
+            "3_2065707746515877888"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "conversation_id": "2065707758150910104",
+        "created_at": "2026-06-13T08:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065707758150910104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1128010587089264640",
+              "start": 22,
+              "username": "uixxixu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u7vhkZiBA",
+              "end": 58,
+              "expanded_url": "https://x.com/KK_Paqu/status/2065707758150910104/photo/1",
+              "media_key": "3_2065707746524332033",
+              "start": 35,
+              "url": "https://t.co/7u7vhkZiBA"
+            },
+            {
+              "display_url": "pic.x.com/7u7vhkZiBA",
+              "end": 58,
+              "expanded_url": "https://x.com/KK_Paqu/status/2065707758150910104/photo/1",
+              "media_key": "3_2065707746515877888",
+              "start": 35,
+              "url": "https://t.co/7u7vhkZiBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065707758150910104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很高兴让第一次未来姐姐的面基很愉快 姐姐好萌@uixxixu 最爱你 https://t.co/7u7vhkZiBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 488,
+          "like_count": 6005,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 3680
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 169,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 449
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

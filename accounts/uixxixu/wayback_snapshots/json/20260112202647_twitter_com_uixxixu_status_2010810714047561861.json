@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2010690005828866294",
+    "created_at": "2026-01-12T20:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T21:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010810714047561861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "ZJURsNvP5K25665"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010810714047561861",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010690005828866294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZJURsNvP5K25665 辛苦了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2010690005828866294",
+        "created_at": "2026-01-12T20:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T21:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010810714047561861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "ZJURsNvP5K25665"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010810714047561861",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010690005828866294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZJURsNvP5K25665 辛苦了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974865605204586498",
+        "conversation_id": "2010690005828866294",
+        "created_at": "2026-01-12T12:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010690005828866294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010690005828866294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老冯生病反应跟我刚开始od误食1500mg普瑞一样濒死我从下午照顾她到晚上      刚输完液出医院打个特惠订单回去     司机少开了一百米扯了下皮她马上像犯躁狂一样生龙活虎的开始在车上骂街   下了车车都开动了她拉开车门继续骂\n我好崩溃我真想装不认识她你以后生病就骂人去行不跟我出去就这么闹事？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2010612646484328877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 112,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 669
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大御神\n@wwwjssns 这是我的契约者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "wwwjssns"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "不/存在的第一共和国",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009353414531272708/t0GiNRNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 1010,
+          "like_count": 15811,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1710
+        },
+        "username": "ZJURsNvP5K25665",
+        "verified": false
+      }
+    ]
+  }
+}

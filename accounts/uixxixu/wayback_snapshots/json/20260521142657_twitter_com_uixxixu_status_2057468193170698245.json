@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057440791392567732",
+    "created_at": "2026-05-21T14:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T15:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057468193170698245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1730288727271075840",
+          "start": 0,
+          "username": "zwzsbytt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057468193170698245",
+    "in_reply_to_user_id": "1730288727271075840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057442060047904815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwzsbytt 哎！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057440791392567732",
+        "created_at": "2026-05-21T14:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057468193170698245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1730288727271075840",
+              "start": 0,
+              "username": "zwzsbytt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057468193170698245",
+        "in_reply_to_user_id": "1730288727271075840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057442060047904815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwzsbytt 哎！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730288727271075840",
+        "conversation_id": "2057440791392567732",
+        "created_at": "2026-05-21T12:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057442060047904815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057442060047904815",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057440791392567732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 骗子4000+了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 417,
+          "like_count": 5418,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3128
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T18:12:43.000Z",
+        "description": "称呼我为121，休学中。精品神药品鉴者，od妹餐券女精神病百合豚滴泪系外星人同类小女孩可直fo。 …祝大家都永远幸福，永远永远幸福。以及我不会打任何预警的，请不要约束我，请安静认识我吧",
+        "id": "1730288727271075840",
+        "location": "ip：天国  🚪88/188/520/1314",
+        "name": "徒步上天堂",
+        "pinned_tweet_id": "1992588634982383839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988988087721160707/ZYifVWy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 400,
+          "like_count": 2055,
+          "listed_count": 0,
+          "media_count": 519,
+          "tweet_count": 4190
+        },
+        "username": "zwzsbytt",
+        "verified": false
+      }
+    ]
+  }
+}

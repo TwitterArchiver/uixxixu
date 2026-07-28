@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2044451524571771347",
+    "created_at": "2026-04-15T16:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044451524571771347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uixxixu/status…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/uixxixu/status/2044305421113143489",
+          "start": 18,
+          "url": "https://t.co/HOx01xNxqG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044451524571771347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044305421113143489",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第九个小时 补了200ug lsd https://t.co/HOx01xNxqG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2044451524571771347",
+        "created_at": "2026-04-15T16:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044451524571771347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uixxixu/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/uixxixu/status/2044305421113143489",
+              "start": 18,
+              "url": "https://t.co/HOx01xNxqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044451524571771347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044305421113143489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第九个小时 补了200ug lsd https://t.co/HOx01xNxqG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2044305421113143489",
+        "created_at": "2026-04-15T06:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044305421113143489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044305421113143489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 451,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "450mg普 600ug lsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 264,
+          "like_count": 4625,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2450
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

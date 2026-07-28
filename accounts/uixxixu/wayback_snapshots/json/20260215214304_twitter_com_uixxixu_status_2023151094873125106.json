@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2023151094873125106",
+    "created_at": "2026-02-15T21:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T22:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023151094873125106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ffscintillant/…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/ffscintillant/status/2023135876935827933",
+          "start": 72,
+          "url": "https://t.co/wxGObe2QKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023151094873125106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023135876935827933",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也这么想。但是死亡有点像游戏里的重开。如果这个角色的剧情实在是糟糕透顶，就想重开试试新档。没有上一世的记忆，那些曾经的痛苦在死后也不存在了。 https://t.co/wxGObe2QKR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2023151094873125106",
+        "created_at": "2026-02-15T21:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T22:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023151094873125106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ffscintillant/…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/ffscintillant/status/2023135876935827933",
+              "start": 72,
+              "url": "https://t.co/wxGObe2QKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023151094873125106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023135876935827933",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也这么想。但是死亡有点像游戏里的重开。如果这个角色的剧情实在是糟糕透顶，就想重开试试新档。没有上一世的记忆，那些曾经的痛苦在死后也不存在了。 https://t.co/wxGObe2QKR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866221225309270016",
+        "conversation_id": "2023135876935827933",
+        "created_at": "2026-02-15T20:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T21:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023135876935827933"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023135876935827933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我不敢死有一个很大的原因是我觉得人有可能会转生，而且没有科学可以证明它是否存在，我不想死完还得活，特别是假如投回古代或者更欠发达地区那更是惨，再者我觉得我这辈子已经算不聪明了，如果转生了更蠢我真的要彻底崩溃了，就是整整一个在现世摆烂中，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注 提问箱：https://t.co/x0cgvD82pi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 51,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 28,
+                "url": "https://t.co/x0cgvD82pi"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 193,
+          "like_count": 2967,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1628
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T20:40:00.000Z",
+        "description": "audhd+？只知道有精神病但没钱就医SOS/無血图/关取随意//在猫和人的之间切换/有时候会完全不知道自己在说什么…//尝试diy自设…/精神状态不稳定//恐回依恋//经常碎碎念//照片p很重/想学乐器……想画画/主页发帖子猫喜欢都会回fo没有就素没看到＞＜/\n外语水平除了英语都需要翻译器喵（",
+        "id": "1866221225309270016",
+        "location": "參宿七",
+        "name": "閃光異色可可芭蕾貓芙芙☆ミ躺下了喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 190,
+          "like_count": 10978,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 2338
+        },
+        "username": "ffscintillant",
+        "verified": false
+      }
+    ]
+  }
+}

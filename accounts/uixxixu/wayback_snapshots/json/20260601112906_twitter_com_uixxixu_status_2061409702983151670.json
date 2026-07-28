@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061409692543574016",
+        "3_2061409692547719168",
+        "3_2061409692539301888",
+        "3_2061409692543528960"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2061409702983151670",
+    "created_at": "2026-06-01T11:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061409702983151670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oE1YQFXH9k",
+          "end": 35,
+          "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+          "media_key": "3_2061409692543574016",
+          "start": 12,
+          "url": "https://t.co/oE1YQFXH9k"
+        },
+        {
+          "display_url": "pic.x.com/oE1YQFXH9k",
+          "end": 35,
+          "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+          "media_key": "3_2061409692547719168",
+          "start": 12,
+          "url": "https://t.co/oE1YQFXH9k"
+        },
+        {
+          "display_url": "pic.x.com/oE1YQFXH9k",
+          "end": 35,
+          "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+          "media_key": "3_2061409692539301888",
+          "start": 12,
+          "url": "https://t.co/oE1YQFXH9k"
+        },
+        {
+          "display_url": "pic.x.com/oE1YQFXH9k",
+          "end": 35,
+          "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+          "media_key": "3_2061409692543528960",
+          "start": 12,
+          "url": "https://t.co/oE1YQFXH9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061409702983151670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个贴票环境巨舒适…… https://t.co/oE1YQFXH9k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061409692543574016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuZMYybYAAjRIq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061409692547719168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuZMYzaoAA77Ke.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061409692539301888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuZMYxaMAAyrfn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061409692543528960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuZMYyasAAmpfY.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061409692543574016",
+            "3_2061409692547719168",
+            "3_2061409692539301888",
+            "3_2061409692543528960"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2061409702983151670",
+        "created_at": "2026-06-01T11:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061409702983151670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oE1YQFXH9k",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+              "media_key": "3_2061409692543574016",
+              "start": 12,
+              "url": "https://t.co/oE1YQFXH9k"
+            },
+            {
+              "display_url": "pic.x.com/oE1YQFXH9k",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+              "media_key": "3_2061409692547719168",
+              "start": 12,
+              "url": "https://t.co/oE1YQFXH9k"
+            },
+            {
+              "display_url": "pic.x.com/oE1YQFXH9k",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+              "media_key": "3_2061409692539301888",
+              "start": 12,
+              "url": "https://t.co/oE1YQFXH9k"
+            },
+            {
+              "display_url": "pic.x.com/oE1YQFXH9k",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2061409702983151670/photo/1",
+              "media_key": "3_2061409692543528960",
+              "start": 12,
+              "url": "https://t.co/oE1YQFXH9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061409702983151670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个贴票环境巨舒适…… https://t.co/oE1YQFXH9k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 456,
+          "like_count": 5875,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 3482
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

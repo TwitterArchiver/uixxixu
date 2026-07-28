@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2068276301396672756",
+    "created_at": "2026-06-20T10:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T11:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068279004319330650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482376531909304326",
+          "start": 0,
+          "username": "Youkoithepony"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068279004319330650",
+    "in_reply_to_user_id": "1482376531909304326",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068278691868910062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youkoithepony 加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2068276301396672756",
+        "created_at": "2026-06-20T10:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068279004319330650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482376531909304326",
+              "start": 0,
+              "username": "Youkoithepony"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068279004319330650",
+        "in_reply_to_user_id": "1482376531909304326",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068278691868910062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youkoithepony 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482376531909304326",
+        "conversation_id": "2068276301396672756",
+        "created_at": "2026-06-20T10:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T11:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068278691868910062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068278691868910062",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068276301396672756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 加油！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 510,
+          "like_count": 6203,
+          "listed_count": 0,
+          "media_count": 273,
+          "tweet_count": 3814
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-15T15:38:14.000Z",
+        "description": "💝Friendship is magic !😺\n\n愛と友達に重度依存中^_^希望交到好朋友//\n05 they/them 互fo大欢迎 会发一些碎碎念和诗//\n很少互动抱歉，会赞/转喜欢的内容！",
+        "id": "1482376531909304326",
+        "location": "Equestria",
+        "name": "youkoi🦄",
+        "pinned_tweet_id": "2038838374577082450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732273166633041920/9G_CW_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 1085,
+          "like_count": 44870,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 959
+        },
+        "url": "",
+        "username": "Youkoithepony",
+        "verified": false
+      }
+    ]
+  }
+}

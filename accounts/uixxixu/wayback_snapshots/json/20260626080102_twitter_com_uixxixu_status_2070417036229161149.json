@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2070159064743674348",
+    "created_at": "2026-06-26T08:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T09:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070417036229161149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897901287834107905",
+          "start": 0,
+          "username": "GrfbB22556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070417036229161149",
+    "in_reply_to_user_id": "1897901287834107905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070159064743674348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrfbB22556 很好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26610,
+        "height": 720,
+        "media_key": "7_2070159033487724544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070159033487724544/pu/img/q106ufAMhNsbWnnC.jpg",
+        "public_metrics": {
+          "view_count": 5
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070159033487724544/pu/vid/avc1/360x270/sCImjpHA_9pxI8AJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070159033487724544/pu/vid/avc1/480x360/kguwpq6z1fPfSp67.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070159033487724544/pu/vid/avc1/960x720/JVUdtBE8LGcmvwv8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070159033487724544/pu/pl/9NnGeFbuUPBC9o7I.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2070159064743674348",
+        "created_at": "2026-06-26T08:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070417036229161149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897901287834107905",
+              "start": 0,
+              "username": "GrfbB22556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070417036229161149",
+        "in_reply_to_user_id": "1897901287834107905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070159064743674348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrfbB22556 很好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070159033487724544"
+          ]
+        },
+        "author_id": "1897901287834107905",
+        "conversation_id": "2070159064743674348",
+        "created_at": "2026-06-25T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070159064743674348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HB7t8b9KJn",
+              "end": 36,
+              "expanded_url": "https://x.com/GrfbB22556/status/2070159064743674348/video/1",
+              "media_key": "7_2070159033487724544",
+              "start": 13,
+              "url": "https://t.co/HB7t8b9KJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070159064743674348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我可太喜欢黑白变彩这一刻 https://t.co/HB7t8b9KJn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 521,
+          "like_count": 6285,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 3957
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:45:12.000Z",
+        "description": "精神边缘人 堪堪废料堆 求得真道理 配作假慈悲",
+        "id": "1897901287834107905",
+        "name": "边缘废料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025686705991495680/iHqitj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 149,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 222
+        },
+        "url": "",
+        "username": "GrfbB22556",
+        "verified": false
+      }
+    ]
+  }
+}

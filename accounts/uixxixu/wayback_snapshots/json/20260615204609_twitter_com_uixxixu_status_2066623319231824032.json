@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066623286650478592",
+        "3_2066623286679937024",
+        "3_2066623286654676992"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066623319231824032",
+    "created_at": "2026-06-15T20:46:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T21:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066623319231824032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/01Hae6jkFN",
+          "end": 45,
+          "expanded_url": "https://x.com/uixxixu/status/2066623319231824032/photo/1",
+          "media_key": "3_2066623286650478592",
+          "start": 22,
+          "url": "https://t.co/01Hae6jkFN"
+        },
+        {
+          "display_url": "pic.x.com/01Hae6jkFN",
+          "end": 45,
+          "expanded_url": "https://x.com/uixxixu/status/2066623319231824032/photo/1",
+          "media_key": "3_2066623286679937024",
+          "start": 22,
+          "url": "https://t.co/01Hae6jkFN"
+        },
+        {
+          "display_url": "pic.x.com/01Hae6jkFN",
+          "end": 45,
+          "expanded_url": "https://x.com/uixxixu/status/2066623319231824032/photo/1",
+          "media_key": "3_2066623286654676992",
+          "start": 22,
+          "url": "https://t.co/01Hae6jkFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066623319231824032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "热气球 还是郁金香 还是海草堆 还是红酒杯 https://t.co/01Hae6jkFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066623286650478592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4e7gVaIAAIlWc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066623286679937024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4e7gcboAAm4LZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066623286654676992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4e7gWaMAAvr07.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066623286650478592",
+            "3_2066623286679937024",
+            "3_2066623286654676992"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066623319231824032",
+        "created_at": "2026-06-15T20:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T21:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066623319231824032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01Hae6jkFN",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2066623319231824032/photo/1",
+              "media_key": "3_2066623286650478592",
+              "start": 22,
+              "url": "https://t.co/01Hae6jkFN"
+            },
+            {
+              "display_url": "pic.x.com/01Hae6jkFN",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2066623319231824032/photo/1",
+              "media_key": "3_2066623286679937024",
+              "start": 22,
+              "url": "https://t.co/01Hae6jkFN"
+            },
+            {
+              "display_url": "pic.x.com/01Hae6jkFN",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2066623319231824032/photo/1",
+              "media_key": "3_2066623286654676992",
+              "start": 22,
+              "url": "https://t.co/01Hae6jkFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066623319231824032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "热气球 还是郁金香 还是海草堆 还是红酒杯 https://t.co/01Hae6jkFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 500,
+          "like_count": 6119,
+          "listed_count": 0,
+          "media_count": 266,
+          "tweet_count": 3770
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

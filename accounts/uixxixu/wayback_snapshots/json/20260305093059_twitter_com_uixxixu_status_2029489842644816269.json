@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2029489842644816269",
+    "created_at": "2026-03-05T09:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T10:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029489842644816269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916543476231208960",
+          "start": 3,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029489842644816269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029411586318954652",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike001: 药物滥用不仅伤害身体还会滋生犯罪\n越往深处探求更会发现，滥用前滥用后的认知差异实在是太大了。最开始恪守的基本道德被破坏，滥用者开始卖淫或盗窃。甚至于从前对于世间抱有各种爱好与兴趣，现今也只剩下了滥用药物。于此，一条可怕的危害，在对比中出现了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2029489842644816269",
+        "created_at": "2026-03-05T09:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T10:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029489842644816269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916543476231208960",
+              "start": 3,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029489842644816269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029411586318954652",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike001: 药物滥用不仅伤害身体还会滋生犯罪\n越往深处探求更会发现，滥用前滥用后的认知差异实在是太大了。最开始恪守的基本道德被破坏，滥用者开始卖淫或盗窃。甚至于从前对于世间抱有各种爱好与兴趣，现今也只剩下了滥用药物。于此，一条可怕的危害，在对比中出现了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2029411586318954652",
+        "created_at": "2026-03-05T04:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T05:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029411586318954652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029411586318954652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 416,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "药物滥用不仅伤害身体还会滋生犯罪\n越往深处探求更会发现，滥用前滥用后的认知差异实在是太大了。最开始恪守的基本道德被破坏，滥用者开始卖淫或盗窃。甚至于从前对于世间抱有各种爱好与兴趣，现今也只剩下了滥用药物。于此，一条可怕的危害，在对比中出现了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 56,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 33,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 227,
+          "like_count": 3660,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1901
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/qEaBUvqWax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/qEaBUvqWax"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "发现女友是地雷女后含泪吞下右美当场升天",
+        "pinned_tweet_id": "2029204482140323890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 214,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 210
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

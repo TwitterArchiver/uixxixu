@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2048211775594881306",
+    "created_at": "2026-04-26T01:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T02:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048211775594881306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uixxixu/status…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/uixxixu/status/2048190005047447832",
+          "start": 72,
+          "url": "https://t.co/aGzygRpMxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048211775594881306",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048190005047447832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "120过去了，此前她也还保留着意识。外卖点了纳洛酮她已吃下。120是经过小盐奶奶同意的……希望顺利 我等着你回来 这次说好了要见面一起玩的哦！ https://t.co/aGzygRpMxq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2048211775594881306",
+        "created_at": "2026-04-26T01:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T02:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048211775594881306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uixxixu/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/uixxixu/status/2048190005047447832",
+              "start": 72,
+              "url": "https://t.co/aGzygRpMxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048211775594881306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048190005047447832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "120过去了，此前她也还保留着意识。外卖点了纳洛酮她已吃下。120是经过小盐奶奶同意的……希望顺利 我等着你回来 这次说好了要见面一起玩的哦！ https://t.co/aGzygRpMxq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2048182042735865938",
+        "created_at": "2026-04-25T23:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048190005047447832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048190005047447832",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048182042735865938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六点前服用60t Pr(耐受一般是8t) ym28t 曲马多300mg 巴氯芬40mg 我怕呼吸抑制\n请告诉我要怎么帮助她 谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 333,
+          "like_count": 4843,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2627
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

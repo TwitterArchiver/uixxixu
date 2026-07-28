@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2047261904759050303",
+    "created_at": "2026-04-23T20:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T21:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047405449776128382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1899078416294715392",
+          "start": 0,
+          "username": "_suki4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047405449776128382",
+    "in_reply_to_user_id": "1899078416294715392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047331366896013745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_suki4ever 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2047261904759050303",
+        "created_at": "2026-04-23T20:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047405449776128382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1899078416294715392",
+              "start": 0,
+              "username": "_suki4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047405449776128382",
+        "in_reply_to_user_id": "1899078416294715392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047331366896013745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_suki4ever 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899078416294715392",
+        "conversation_id": "2047261904759050303",
+        "created_at": "2026-04-23T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047331366896013745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047331366896013745",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047261904759050303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 好米"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998 不混任何圈子 不会介绍渠道 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 309,
+          "like_count": 4796,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2558
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-10T12:42:42.000Z",
+        "description": "你的呼喊我藏着，你的梦我正在敲碎",
+        "id": "1899078416294715392",
+        "location": "火星",
+        "name": "blueblue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045757249235361792/rm4wKj4s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 44,
+          "like_count": 104,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 48
+        },
+        "username": "_suki4ever",
+        "verified": false
+      }
+    ]
+  }
+}

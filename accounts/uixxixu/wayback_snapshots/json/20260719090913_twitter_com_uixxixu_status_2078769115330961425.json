@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2078517530407346619",
+    "created_at": "2026-07-19T09:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078769115330961425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032797563850768384",
+          "start": 0,
+          "username": "CaffFrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078769115330961425",
+    "in_reply_to_user_id": "2032797563850768384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078671751006109910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaffFrog 这样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2078517530407346619",
+        "created_at": "2026-07-19T09:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078769115330961425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032797563850768384",
+              "start": 0,
+              "username": "CaffFrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078769115330961425",
+        "in_reply_to_user_id": "2032797563850768384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078671751006109910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaffFrog 这样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032797563850768384",
+        "conversation_id": "2078517530407346619",
+        "created_at": "2026-07-19T02:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078671751006109910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078671751006109910",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078517530407346619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 其实本来就变化不大，呼吸抑制缺氧重了另说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 530,
+          "like_count": 6611,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 4249
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:34:54.000Z",
+        "description": "🐸蛙/咖啡/she/they🏳️‍⚧️mtx/酷儿/激素服用中🍥04年/17年hrt🧠BPD👁️od💛NSFW/暴露狂/裸图/血图💀旧号@CoFfffEeeeE1💍@shudesu00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "shudesu00"
+              }
+            ]
+          }
+        },
+        "id": "2032797563850768384",
+        "location": "🚪233/520/1314",
+        "name": "蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055852062165151744/Ap4jh3aB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 95,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "CaffFrog",
+        "verified": false
+      }
+    ]
+  }
+}

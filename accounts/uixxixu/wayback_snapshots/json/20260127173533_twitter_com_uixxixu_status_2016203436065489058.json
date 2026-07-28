@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2014982893320475084",
+    "created_at": "2026-01-27T17:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016203436065489058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1941392123443474432",
+          "start": 0,
+          "username": "DeadEve4518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016203436065489058",
+    "in_reply_to_user_id": "1941392123443474432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014982893320475084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeadEve4518 卧槽 怀念电子烟……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014982889470046208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_aoQxtaMAAn5_n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2014982889474240512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_aoQxuaMAAVLch.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2014982893320475084",
+        "created_at": "2026-01-27T17:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016203436065489058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1941392123443474432",
+              "start": 0,
+              "username": "DeadEve4518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016203436065489058",
+        "in_reply_to_user_id": "1941392123443474432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014982893320475084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeadEve4518 卧槽 怀念电子烟……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014982889470046208",
+            "3_2014982889474240512"
+          ]
+        },
+        "author_id": "1941392123443474432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014982893320475084",
+        "created_at": "2026-01-24T08:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014982893320475084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oQ1MYRGep",
+              "end": 26,
+              "expanded_url": "https://x.com/DeadEve4518/status/2014982893320475084/photo/1",
+              "media_key": "3_2014982889470046208",
+              "start": 3,
+              "url": "https://t.co/8oQ1MYRGep"
+            },
+            {
+              "display_url": "pic.x.com/8oQ1MYRGep",
+              "end": 26,
+              "expanded_url": "https://x.com/DeadEve4518/status/2014982893320475084/photo/1",
+              "media_key": "3_2014982889474240512",
+              "start": 3,
+              "url": "https://t.co/8oQ1MYRGep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014982893320475084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽了 https://t.co/8oQ1MYRGep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 155,
+          "like_count": 2200,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1131
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-05T07:02:14.000Z",
+        "description": "死老鼠",
+        "id": "1941392123443474432",
+        "location": "🪦",
+        "name": "Eve",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013594265150980096/rZLvOxtU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 31
+        },
+        "username": "DeadEve4518",
+        "verified": false
+      }
+    ]
+  }
+}

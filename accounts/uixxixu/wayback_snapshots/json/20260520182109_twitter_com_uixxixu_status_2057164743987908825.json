@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2056781154402144338",
+    "created_at": "2026-05-20T18:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T19:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057164743987908825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516255907142770688",
+          "start": 0,
+          "username": "inZanarkand_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057164743987908825",
+    "in_reply_to_user_id": "1516255907142770688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057018408471073080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inZanarkand_ 那可不容易"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2056781154402144338",
+        "created_at": "2026-05-20T18:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T19:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057164743987908825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516255907142770688",
+              "start": 0,
+              "username": "inZanarkand_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057164743987908825",
+        "in_reply_to_user_id": "1516255907142770688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057018408471073080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inZanarkand_ 那可不容易"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516255907142770688",
+        "conversation_id": "2056781154402144338",
+        "created_at": "2026-05-20T08:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T09:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057018408471073080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057018408471073080",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056781154402144338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 对上电波就可以吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 426,
+          "like_count": 5399,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 3113
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T03:22:42.000Z",
+        "description": "We're both so alone\na warmth that we'd never known",
+        "id": "1516255907142770688",
+        "name": "Ancoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031659295826460672/c6LSy_3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 189,
+          "like_count": 4364,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 861
+        },
+        "username": "inZanarkand_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058930616243232769",
+        "3_2058930616331333632"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058930629904146741",
+    "created_at": "2026-05-25T15:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058930629904146741"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mm7HvOFgr0",
+          "end": 41,
+          "expanded_url": "https://x.com/uixxixu/status/2058930629904146741/photo/1",
+          "media_key": "3_2058930616243232769",
+          "start": 18,
+          "url": "https://t.co/Mm7HvOFgr0"
+        },
+        {
+          "display_url": "pic.x.com/Mm7HvOFgr0",
+          "end": 41,
+          "expanded_url": "https://x.com/uixxixu/status/2058930629904146741/photo/1",
+          "media_key": "3_2058930616331333632",
+          "start": 18,
+          "url": "https://t.co/Mm7HvOFgr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058930629904146741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "突然想起ndsi能拍照 好复古…… https://t.co/Mm7HvOFgr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058930616243232769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLKfJ5aoAESOFE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058930616331333632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLKfKOa8AALMMR.jpg",
+        "width": 1788
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058930616243232769",
+            "3_2058930616331333632"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058930629904146741",
+        "created_at": "2026-05-25T15:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058930629904146741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mm7HvOFgr0",
+              "end": 41,
+              "expanded_url": "https://x.com/uixxixu/status/2058930629904146741/photo/1",
+              "media_key": "3_2058930616243232769",
+              "start": 18,
+              "url": "https://t.co/Mm7HvOFgr0"
+            },
+            {
+              "display_url": "pic.x.com/Mm7HvOFgr0",
+              "end": 41,
+              "expanded_url": "https://x.com/uixxixu/status/2058930629904146741/photo/1",
+              "media_key": "3_2058930616331333632",
+              "start": 18,
+              "url": "https://t.co/Mm7HvOFgr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058930629904146741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起ndsi能拍照 好复古…… https://t.co/Mm7HvOFgr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 443,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 3236
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2061735264708595915",
+    "created_at": "2026-06-02T09:03:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061735421047132622"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061735421047132622",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061735264708595915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前大家让我打码 我这个码将就吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1589,
+        "media_key": "3_2061735256055816193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzBSrYbIAEAMDv.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2061735264708595915",
+        "created_at": "2026-06-02T09:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061735421047132622"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061735421047132622",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061735264708595915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前大家让我打码 我这个码将就吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061735256055816193"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2061735264708595915",
+        "created_at": "2026-06-02T09:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061735264708595915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTIGJ131XX",
+              "end": 49,
+              "expanded_url": "https://x.com/uixxixu/status/2061735264708595915/photo/1",
+              "media_key": "3_2061735256055816193",
+              "start": 26,
+              "url": "https://t.co/QTIGJ131XX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061735264708595915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我来弄牙齿顺便去其他科开到了普瑞 再顺便开了个阿普 https://t.co/QTIGJ131XX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1357,
+          "following_count": 453,
+          "like_count": 5883,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 3521
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

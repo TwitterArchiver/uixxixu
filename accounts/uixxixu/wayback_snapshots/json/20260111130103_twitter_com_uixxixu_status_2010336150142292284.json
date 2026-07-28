@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010336143511080960",
+        "3_2010336143561420800",
+        "3_2010336143506837504"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2010336150142292284",
+    "created_at": "2026-01-11T13:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T14:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010336150142292284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3K2Uts6Qmb",
+          "end": 62,
+          "expanded_url": "https://x.com/uixxixu/status/2010336150142292284/photo/1",
+          "media_key": "3_2010336143511080960",
+          "start": 39,
+          "url": "https://t.co/3K2Uts6Qmb"
+        },
+        {
+          "display_url": "pic.x.com/3K2Uts6Qmb",
+          "end": 62,
+          "expanded_url": "https://x.com/uixxixu/status/2010336150142292284/photo/1",
+          "media_key": "3_2010336143561420800",
+          "start": 39,
+          "url": "https://t.co/3K2Uts6Qmb"
+        },
+        {
+          "display_url": "pic.x.com/3K2Uts6Qmb",
+          "end": 62,
+          "expanded_url": "https://x.com/uixxixu/status/2010336150142292284/photo/1",
+          "media_key": "3_2010336143506837504",
+          "start": 39,
+          "url": "https://t.co/3K2Uts6Qmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010336150142292284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.谢谢你喔\n2.Hi\n3.我只和喜欢的人色色，而我喜欢的人不会问我这个问题 https://t.co/3K2Uts6Qmb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2010336143511080960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YmEkEbUAA2WAK.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2010336143561420800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YmEkQbcAAvNPm.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2010336143506837504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YmEkDakAAIxno.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010336143511080960",
+            "3_2010336143561420800",
+            "3_2010336143506837504"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2010336150142292284",
+        "created_at": "2026-01-11T13:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010336150142292284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3K2Uts6Qmb",
+              "end": 62,
+              "expanded_url": "https://x.com/uixxixu/status/2010336150142292284/photo/1",
+              "media_key": "3_2010336143511080960",
+              "start": 39,
+              "url": "https://t.co/3K2Uts6Qmb"
+            },
+            {
+              "display_url": "pic.x.com/3K2Uts6Qmb",
+              "end": 62,
+              "expanded_url": "https://x.com/uixxixu/status/2010336150142292284/photo/1",
+              "media_key": "3_2010336143561420800",
+              "start": 39,
+              "url": "https://t.co/3K2Uts6Qmb"
+            },
+            {
+              "display_url": "pic.x.com/3K2Uts6Qmb",
+              "end": 62,
+              "expanded_url": "https://x.com/uixxixu/status/2010336150142292284/photo/1",
+              "media_key": "3_2010336143506837504",
+              "start": 39,
+              "url": "https://t.co/3K2Uts6Qmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010336150142292284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.谢谢你喔\n2.Hi\n3.我只和喜欢的人色色，而我喜欢的人不会问我这个问题 https://t.co/3K2Uts6Qmb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 112,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 622
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

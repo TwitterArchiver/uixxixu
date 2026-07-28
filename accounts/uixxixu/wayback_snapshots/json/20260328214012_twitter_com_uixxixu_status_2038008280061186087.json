@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2038007485152583852",
+    "created_at": "2026-03-28T21:40:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T22:40:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038008280061186087"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038008280061186087",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038007485152583852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还去洗了衣服晒了衣服 以及只睁着一只眼睛也发了一个简历给hr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038007477871222784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEh1ANgaoAA8xWs.jpg",
+        "width": 902
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2038007485152583852",
+        "created_at": "2026-03-28T21:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038008280061186087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038008280061186087",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038007485152583852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还去洗了衣服晒了衣服 以及只睁着一只眼睛也发了一个简历给hr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038007477871222784"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038007485152583852",
+        "created_at": "2026-03-28T21:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038007485152583852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Am38esJZA",
+              "end": 108,
+              "expanded_url": "https://x.com/uixxixu/status/2038007485152583852/photo/1",
+              "media_key": "3_2038007477871222784",
+              "start": 85,
+              "url": "https://t.co/3Am38esJZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038007485152583852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天我在吃了sns之后无意识地吃了玉米片，然后吐一桌子拍给他看。说好睡觉之后我药效来了把他轰起来之后又没意识了……解离的感觉很好但是给别人添了好多麻烦希望他不要讨厌我呀 https://t.co/3Am38esJZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 246,
+          "like_count": 4002,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2080
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

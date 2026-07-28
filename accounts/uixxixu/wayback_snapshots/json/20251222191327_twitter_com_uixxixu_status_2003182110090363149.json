@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2003137840193167795",
+    "created_at": "2025-12-22T19:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T20:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003182110090363149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1180026205518610432",
+          "start": 0,
+          "username": "XiuJingDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003182110090363149",
+    "in_reply_to_user_id": "1180026205518610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003137840193167795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe 太神了这也"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2003137840193167795",
+        "created_at": "2025-12-22T19:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T20:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003182110090363149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180026205518610432",
+              "start": 0,
+              "username": "XiuJingDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003182110090363149",
+        "in_reply_to_user_id": "1180026205518610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003137840193167795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe 太神了这也"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180026205518610432",
+        "conversation_id": "2003137840193167795",
+        "created_at": "2025-12-22T16:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003137840193167795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XldscX/status/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/XldscX/status/2003093793390923942",
+              "start": 40,
+              "url": "https://t.co/5ypdWZ7CZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003137840193167795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003093793390923942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在我的好友可以趁年底之前尽情的给我发黄色了，等年后你们就没机会给我发黄色了🤓 https://t.co/5ypdWZ7CZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 104,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 259
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T07:45:52.000Z",
+        "description": "你们要努力进窄门",
+        "id": "1180026205518610432",
+        "location": "网络世界",
+        "name": "修靖德",
+        "pinned_tweet_id": "1714981050299089268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976123495089307648/A2B4Y1Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21538,
+          "following_count": 174,
+          "like_count": 23785,
+          "listed_count": 32,
+          "media_count": 1381,
+          "tweet_count": 27484
+        },
+        "username": "XiuJingDe",
+        "verified": false
+      }
+    ]
+  }
+}

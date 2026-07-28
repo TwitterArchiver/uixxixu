@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2069190217786093652",
+    "created_at": "2026-06-23T13:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069411591309934911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938335923587973120",
+          "start": 0,
+          "username": "inKhJ5dke532638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069411591309934911",
+    "in_reply_to_user_id": "1938335923587973120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069190217786093652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inKhJ5dke532638 吃饭了吗 身体有磕碰吗 如果是癫痫发作可能是没有记忆的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2069190217786093652",
+        "created_at": "2026-06-23T13:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069411591309934911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938335923587973120",
+              "start": 0,
+              "username": "inKhJ5dke532638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069411591309934911",
+        "in_reply_to_user_id": "1938335923587973120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069190217786093652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inKhJ5dke532638 吃饭了吗 身体有磕碰吗 如果是癫痫发作可能是没有记忆的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938335923587973120",
+        "conversation_id": "2069190217786093652",
+        "created_at": "2026-06-22T22:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T23:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069190217786093652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069190217786093652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不od了，我刚刚晕倒了两次，第一次在厕所我感觉到不对想回房间躺着，还没开门就倒地上了，过了一小会就醒了，身上被水打湿了，手机被扔在一边，气息回房间就三步路，我在房间门口又晕倒了一次，就是直接倒地不是慢慢瘫软那种。我吓哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 517,
+          "like_count": 6257,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 3913
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T20:38:05.000Z",
+        "description": "インターネットや・め・ろ～！！！ 這只是一個小女孩的紀錄生活碎碎念什麼都沒有。永远14岁。日留预备中  neko第六世",
+        "id": "1938335923587973120",
+        "location": "地獄",
+        "name": "ネコ王様👑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031449288174399488/yBPCMHkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 263,
+          "like_count": 3434,
+          "listed_count": 0,
+          "media_count": 299,
+          "tweet_count": 2794
+        },
+        "url": "",
+        "username": "inKhJ5dke532638",
+        "verified": false
+      }
+    ]
+  }
+}

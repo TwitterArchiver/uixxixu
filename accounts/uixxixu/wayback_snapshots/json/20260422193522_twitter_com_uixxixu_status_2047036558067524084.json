@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2046950883322368136",
+    "created_at": "2026-04-22T19:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T20:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047036558067524084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553077962257272834",
+          "start": 0,
+          "username": "showmeurbeauty3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047036558067524084",
+    "in_reply_to_user_id": "1553077962257272834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046994696032125141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showmeurbeauty3 所以 我还是挺怕太健全的朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2046950883322368136",
+        "created_at": "2026-04-22T19:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T20:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047036558067524084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553077962257272834",
+              "start": 0,
+              "username": "showmeurbeauty3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047036558067524084",
+        "in_reply_to_user_id": "1553077962257272834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046994696032125141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showmeurbeauty3 所以 我还是挺怕太健全的朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553077962257272834",
+        "conversation_id": "2046950883322368136",
+        "created_at": "2026-04-22T16:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046994696032125141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046994696032125141",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046950883322368136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 真的要小心啊，比较好的朋友就是容易忽然说出他以为你不在意其实你非常在意的弱点的。\n前几年和高中好友聚会的时候，他忽然来一句：你怎么还是这样xxx\n我当时就特别的震惊错愕，不知道他看出来没有（我猜看出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998 不混任何圈子 不会介绍渠道 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 296,
+          "like_count": 4788,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 2549
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T18:00:26.000Z",
+        "description": "白骨终将化为沙土，\n却生生不息。",
+        "id": "1553077962257272834",
+        "name": "houmra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036246482471497728/fXYxvuqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 436,
+          "like_count": 541,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 62
+        },
+        "username": "showmeurbeauty3",
+        "verified": false
+      }
+    ]
+  }
+}

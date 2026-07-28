@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052242538082570240",
+        "3_2052242538078310400"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052003829181551084",
+    "created_at": "2026-05-07T04:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052242547070898323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xeabO2SDce",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2052242547070898323/photo/1",
+          "media_key": "3_2052242538082570240",
+          "start": 17,
+          "url": "https://t.co/xeabO2SDce"
+        },
+        {
+          "display_url": "pic.x.com/xeabO2SDce",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2052242547070898323/photo/1",
+          "media_key": "3_2052242538078310400",
+          "start": 17,
+          "url": "https://t.co/xeabO2SDce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052242547070898323",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052003829181551084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我图片呢 这个推特又在搞什么。。 https://t.co/xeabO2SDce"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052242538082570240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsHtxNbkAASG-b.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2052242538078310400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsHtxMakAA2wTW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052242538082570240",
+            "3_2052242538078310400"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052003829181551084",
+        "created_at": "2026-05-07T04:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052242547070898323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xeabO2SDce",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2052242547070898323/photo/1",
+              "media_key": "3_2052242538082570240",
+              "start": 17,
+              "url": "https://t.co/xeabO2SDce"
+            },
+            {
+              "display_url": "pic.x.com/xeabO2SDce",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2052242547070898323/photo/1",
+              "media_key": "3_2052242538078310400",
+              "start": 17,
+              "url": "https://t.co/xeabO2SDce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052242547070898323",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052003829181551084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我图片呢 这个推特又在搞什么。。 https://t.co/xeabO2SDce"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052003829181551084",
+        "created_at": "2026-05-06T12:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052003829181551084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 60,
+              "id": "1560991861413933056",
+              "start": 46,
+              "username": "belovedquarry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kW9Vv7wWqP",
+              "end": 84,
+              "expanded_url": "https://x.com/uixxixu/status/2052003829181551084/photo/1",
+              "media_key": "3_2052003770553491456",
+              "start": 61,
+              "url": "https://t.co/kW9Vv7wWqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052003829181551084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小摩尔寄给我的拓麻歌子捏捏和馒头捏捏，还有一些小饼干 ₍ᐢ⸝⸝› ̫‹⸝⸝ᐢ₎\n我好开心呜呜@belovedquarry https://t.co/kW9Vv7wWqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 376,
+          "like_count": 5152,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2812
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

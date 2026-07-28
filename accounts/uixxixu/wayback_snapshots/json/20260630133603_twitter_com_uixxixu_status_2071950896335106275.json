@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071950876256702465",
+        "3_2071950876265074688",
+        "3_2071950876332232705",
+        "3_2071950877837930496"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2071950896335106275",
+    "created_at": "2026-06-30T13:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071950896335106275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QTqNfsSR7",
+          "end": 89,
+          "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+          "media_key": "3_2071950876256702465",
+          "start": 66,
+          "url": "https://t.co/4QTqNfsSR7"
+        },
+        {
+          "display_url": "pic.x.com/4QTqNfsSR7",
+          "end": 89,
+          "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+          "media_key": "3_2071950876265074688",
+          "start": 66,
+          "url": "https://t.co/4QTqNfsSR7"
+        },
+        {
+          "display_url": "pic.x.com/4QTqNfsSR7",
+          "end": 89,
+          "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+          "media_key": "3_2071950876332232705",
+          "start": 66,
+          "url": "https://t.co/4QTqNfsSR7"
+        },
+        {
+          "display_url": "pic.x.com/4QTqNfsSR7",
+          "end": 89,
+          "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+          "media_key": "3_2071950877837930496",
+          "start": 66,
+          "url": "https://t.co/4QTqNfsSR7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071950896335106275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很开心有这样的链接。我们清醒地对话。我们完全明白对方在讲什么。\n这不是物质所能带来的幸福，是清醒地和知己沟通时给彼此带来的暖流。 https://t.co/4QTqNfsSR7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2071950876256702465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEMWCNXEAEnctT.jpg",
+        "width": 981
+      },
+      {
+        "height": 1998,
+        "media_key": "3_2071950876265074688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEMWCPW0AAI_Hv.jpg",
+        "width": 993
+      },
+      {
+        "height": 1933,
+        "media_key": "3_2071950876332232705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEMWCfXkAErF2I.jpg",
+        "width": 991
+      },
+      {
+        "height": 537,
+        "media_key": "3_2071950877837930496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEMWIGWsAAV3LJ.jpg",
+        "width": 1004
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071950876256702465",
+            "3_2071950876265074688",
+            "3_2071950876332232705",
+            "3_2071950877837930496"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2071950896335106275",
+        "created_at": "2026-06-30T13:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071950896335106275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QTqNfsSR7",
+              "end": 89,
+              "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+              "media_key": "3_2071950876256702465",
+              "start": 66,
+              "url": "https://t.co/4QTqNfsSR7"
+            },
+            {
+              "display_url": "pic.x.com/4QTqNfsSR7",
+              "end": 89,
+              "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+              "media_key": "3_2071950876265074688",
+              "start": 66,
+              "url": "https://t.co/4QTqNfsSR7"
+            },
+            {
+              "display_url": "pic.x.com/4QTqNfsSR7",
+              "end": 89,
+              "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+              "media_key": "3_2071950876332232705",
+              "start": 66,
+              "url": "https://t.co/4QTqNfsSR7"
+            },
+            {
+              "display_url": "pic.x.com/4QTqNfsSR7",
+              "end": 89,
+              "expanded_url": "https://x.com/uixxixu/status/2071950896335106275/photo/1",
+              "media_key": "3_2071950877837930496",
+              "start": 66,
+              "url": "https://t.co/4QTqNfsSR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071950896335106275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很开心有这样的链接。我们清醒地对话。我们完全明白对方在讲什么。\n这不是物质所能带来的幸福，是清醒地和知己沟通时给彼此带来的暖流。 https://t.co/4QTqNfsSR7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 522,
+          "like_count": 6353,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4032
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

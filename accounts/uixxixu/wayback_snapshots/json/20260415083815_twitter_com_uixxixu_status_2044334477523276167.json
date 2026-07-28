@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044334302176108544"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2044334477523276167",
+    "created_at": "2026-04-15T08:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044334477523276167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bTMxF6RZrA",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2044334477523276167/video/1",
+          "media_key": "13_2044334302176108544",
+          "start": 7,
+          "url": "https://t.co/bTMxF6RZrA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044334477523276167",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "迷幻猴子…… https://t.co/bTMxF6RZrA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49818,
+        "height": 1280,
+        "media_key": "13_2044334302176108544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044334302176108544/img/UuJXiJQYvch1_ZFO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044334302176108544/vid/avc1/320x568/qVmFNxVBvZNSj7Lk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044334302176108544/vid/avc1/480x852/x13Y3-w2zyAmkiPG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044334302176108544/vid/avc1/720x1280/rR9WN0JFgbT3yhuX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044334302176108544/pl/-gKtyqgiRl994gmk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044334302176108544"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2044334477523276167",
+        "created_at": "2026-04-15T08:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044334477523276167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTMxF6RZrA",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2044334477523276167/video/1",
+              "media_key": "13_2044334302176108544",
+              "start": 7,
+              "url": "https://t.co/bTMxF6RZrA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044334477523276167",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迷幻猴子…… https://t.co/bTMxF6RZrA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 263,
+          "like_count": 4593,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2421
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2058859453617971689",
+    "created_at": "2026-05-25T12:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058893885603279199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058893885603279199",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058859453617971689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2058859430519967744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKJvmabEAA2ymo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2058859431102906368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKJvolaAAAHnCl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2058859432776544256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKJvu0bsAATzKf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2058859453617971689",
+        "created_at": "2026-05-25T12:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058893885603279199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058893885603279199",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058859453617971689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058859430519967744",
+            "3_2058859431102906368",
+            "3_2058859432776544256"
+          ]
+        },
+        "author_id": "2046660159867400192",
+        "conversation_id": "2058859453617971689",
+        "created_at": "2026-05-25T10:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058859453617971689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9ZGZFVjCg",
+              "end": 27,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2058859453617971689/photo/1",
+              "media_key": "3_2058859430519967744",
+              "start": 4,
+              "url": "https://t.co/p9ZGZFVjCg"
+            },
+            {
+              "display_url": "pic.x.com/p9ZGZFVjCg",
+              "end": 27,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2058859453617971689/photo/1",
+              "media_key": "3_2058859431102906368",
+              "start": 4,
+              "url": "https://t.co/p9ZGZFVjCg"
+            },
+            {
+              "display_url": "pic.x.com/p9ZGZFVjCg",
+              "end": 27,
+              "expanded_url": "https://x.com/nyanyanya6767/status/2058859453617971689/photo/1",
+              "media_key": "3_2058859432776544256",
+              "start": 4,
+              "url": "https://t.co/p9ZGZFVjCg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058859453617971689",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🖤🖤🖤 https://t.co/p9ZGZFVjCg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 444,
+          "like_count": 5514,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3231
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "前世：@omo0903\n躁鬱／焦慮／自傷／od／穿孔\n～純綠、非綠、其它服務開放中～不知道自己去估狗不要問我真的很煩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "omo0903"
+              }
+            ]
+          }
+        },
+        "id": "2046660159867400192",
+        "name": "？二代目",
+        "pinned_tweet_id": "2046664939327389913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046663732911370240/Xy3J4G70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 257,
+          "like_count": 2996,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 71
+        },
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2045457423482392702",
+    "created_at": "2026-04-18T11:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045457423482392702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovedarksoul/s…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/lovedarksoul/status/2045009147674959901",
+          "start": 10,
+          "url": "https://t.co/s3bv2qydKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045457423482392702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045009147674959901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们在地狱里也这样 https://t.co/s3bv2qydKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8900,
+        "height": 718,
+        "media_key": "13_2045009090985037824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045009090985037824/img/l5OEYFYTVfH1BlwO.jpg",
+        "public_metrics": {
+          "view_count": 24983
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/vid/avc1/356x270/B3LewbFkoLqAd3WE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/vid/avc1/476x360/0rc5Y2Kz4g-dTx3P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/vid/avc1/952x718/8mqR5sv-hJ3txNr5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045009090985037824/pl/v8pvteCUN8T6AVOw.m3u8"
+          }
+        ],
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2045457423482392702",
+        "created_at": "2026-04-18T11:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045457423482392702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovedarksoul/s…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/lovedarksoul/status/2045009147674959901",
+              "start": 10,
+              "url": "https://t.co/s3bv2qydKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045457423482392702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045009147674959901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们在地狱里也这样 https://t.co/s3bv2qydKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045009090985037824"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "2045009147674959901",
+        "created_at": "2026-04-17T05:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045009147674959901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrvAqTgiip",
+              "end": 34,
+              "expanded_url": "https://x.com/lovedarksoul/status/2045009147674959901/video/1",
+              "media_key": "13_2045009090985037824",
+              "start": 11,
+              "url": "https://t.co/YrvAqTgiip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045009147674959901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1803,
+          "impression_count": 125766,
+          "like_count": 12385,
+          "quote_count": 22,
+          "reply_count": 19,
+          "retweet_count": 1652
+        },
+        "reply_settings": "everyone",
+        "text": "doll house https://t.co/YrvAqTgiip"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 276,
+          "like_count": 4690,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2471
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "Praise the sun",
+        "id": "1238520105841168386",
+        "name": "lovedarksoul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044322863445094400/yAEIRbwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87592,
+          "following_count": 26,
+          "like_count": 2313,
+          "listed_count": 114,
+          "media_count": 1653,
+          "tweet_count": 1814
+        },
+        "username": "lovedarksoul",
+        "verified": true
+      }
+    ]
+  }
+}

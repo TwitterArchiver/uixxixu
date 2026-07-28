@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2041874444680098085",
+    "created_at": "2026-04-08T13:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041874444680098085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2041802674862223827",
+          "start": 17,
+          "url": "https://t.co/kI7qVHhPcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041874444680098085",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041802674862223827",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纪律委员です。一起来致幻晚自习。 https://t.co/kI7qVHhPcq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1420,
+        "media_key": "3_2041802670454009858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXwtfna8AI95R6.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2041874444680098085",
+        "created_at": "2026-04-08T13:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041874444680098085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2041802674862223827",
+              "start": 17,
+              "url": "https://t.co/kI7qVHhPcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041874444680098085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041802674862223827",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纪律委员です。一起来致幻晚自习。 https://t.co/kI7qVHhPcq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041802670454009858"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2041802674862223827",
+        "created_at": "2026-04-08T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041802674862223827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMFypBnmBP",
+              "end": 155,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041802674862223827/photo/1",
+              "media_key": "3_2041802670454009858",
+              "start": 132,
+              "url": "https://t.co/PMFypBnmBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041802674862223827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1835,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家喜欢叫我十七老师，那不如我就开设一个班级吧！！\n名字是：17班の致幻晚自习\n是禁止营销等一切违规行为的纯娱乐纯讨论tg群组哦，暂时先分布职位，后面再邀请同学们加入\n现在开始招聘课代表们或者其他职位啦\n私我申请哦，什么职位都可以，自由根据能力考虑\n当下职位有： https://t.co/PMFypBnmBP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 280,
+          "like_count": 4426,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2355
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 932,
+          "like_count": 2275,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

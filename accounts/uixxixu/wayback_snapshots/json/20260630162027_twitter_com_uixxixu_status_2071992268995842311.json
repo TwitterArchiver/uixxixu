@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071992257788661763"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071991283800007097",
+    "created_at": "2026-06-30T16:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071992268995842311"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9ZISySGBA",
+          "end": 34,
+          "expanded_url": "https://x.com/uixxixu/status/2071992268995842311/photo/1",
+          "media_key": "3_2071992257788661763",
+          "start": 11,
+          "url": "https://t.co/w9ZISySGBA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071992268995842311",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071991283800007097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个男人抓住了我的胃 https://t.co/w9ZISySGBA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071992257788661763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEx-wbaUAM3ElQ.jpg",
+        "width": 768
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071991265609326592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMExFARbIAAxPHv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071991265621835776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMExFAUaAAAv4iM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071991266863349760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMExFE8aAAAfCyG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071991265609277440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMExFARaYAAjY6S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071992257788661763"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071991283800007097",
+        "created_at": "2026-06-30T16:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071992268995842311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9ZISySGBA",
+              "end": 34,
+              "expanded_url": "https://x.com/uixxixu/status/2071992268995842311/photo/1",
+              "media_key": "3_2071992257788661763",
+              "start": 11,
+              "url": "https://t.co/w9ZISySGBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071992268995842311",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071991283800007097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个男人抓住了我的胃 https://t.co/w9ZISySGBA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071991265609326592",
+            "3_2071991265621835776",
+            "3_2071991266863349760",
+            "3_2071991265609277440"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071991283800007097",
+        "created_at": "2026-06-30T16:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071991283800007097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbUymaC9lP",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2071991283800007097/photo/1",
+              "media_key": "3_2071991265609326592",
+              "start": 22,
+              "url": "https://t.co/AbUymaC9lP"
+            },
+            {
+              "display_url": "pic.x.com/AbUymaC9lP",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2071991283800007097/photo/1",
+              "media_key": "3_2071991265621835776",
+              "start": 22,
+              "url": "https://t.co/AbUymaC9lP"
+            },
+            {
+              "display_url": "pic.x.com/AbUymaC9lP",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2071991283800007097/photo/1",
+              "media_key": "3_2071991266863349760",
+              "start": 22,
+              "url": "https://t.co/AbUymaC9lP"
+            },
+            {
+              "display_url": "pic.x.com/AbUymaC9lP",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2071991283800007097/photo/1",
+              "media_key": "3_2071991265609277440",
+              "start": 22,
+              "url": "https://t.co/AbUymaC9lP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071991283800007097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小白的生日 兑酒 散步 涩涩（这个不能拍） https://t.co/AbUymaC9lP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 523,
+          "like_count": 6355,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4034
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

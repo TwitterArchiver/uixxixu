@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2056116552089686504",
+    "created_at": "2026-05-19T01:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T02:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056550655628919056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055195756244426752",
+          "start": 0,
+          "username": "herwannaknow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056550655628919056",
+    "in_reply_to_user_id": "2055195756244426752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056372208013017523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@herwannaknow 不知道 就是不抑郁了胸口也不堵了呼吸不低沉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2056116552089686504",
+        "created_at": "2026-05-19T01:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056550655628919056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055195756244426752",
+              "start": 0,
+              "username": "herwannaknow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056550655628919056",
+        "in_reply_to_user_id": "2055195756244426752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056372208013017523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@herwannaknow 不知道 就是不抑郁了胸口也不堵了呼吸不低沉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055195756244426752",
+        "conversation_id": "2056116552089686504",
+        "created_at": "2026-05-18T13:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056372208013017523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056372208013017523",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056371642457305500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 感到抗抑鬱是怎樣乖僻的感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 405,
+          "like_count": 5360,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 3041
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T07:57:44.000Z",
+        "description": "一個人想要找回祂自己,但祂到底擁有什麼？",
+        "id": "2055195756244426752",
+        "name": "嚼牙齦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055197974448525312/tj3b5Sng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 37,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "username": "herwannaknow",
+        "verified": false
+      }
+    ]
+  }
+}

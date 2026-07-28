@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2010603121802911769",
+    "created_at": "2026-01-12T09:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T10:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010651532539387953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729363663277187073",
+          "start": 0,
+          "username": "gxhkkk144215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010651532539387953",
+    "in_reply_to_user_id": "1729363663277187073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010603121802911769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxhkkk144215 一眼那个什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17322,
+        "height": 1280,
+        "media_key": "7_2010603086872817664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010603086872817664/pu/img/q4Z9nmHX0_sOczM-.jpg",
+        "public_metrics": {
+          "view_count": 14
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010603086872817664/pu/vid/avc1/320x586/TbsE_6xS92Fsvb4s.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010603086872817664/pu/vid/avc1/480x880/E0JSRG3kmzih2Nm5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010603086872817664/pu/vid/avc1/698x1280/7JUMd3JtTKC8Vf02.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010603086872817664/pu/pl/Y6opGFmX42-ICyc8.m3u8?tag=12"
+          }
+        ],
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2010603121802911769",
+        "created_at": "2026-01-12T09:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T10:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010651532539387953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729363663277187073",
+              "start": 0,
+              "username": "gxhkkk144215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010651532539387953",
+        "in_reply_to_user_id": "1729363663277187073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010603121802911769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxhkkk144215 一眼那个什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010603086872817664"
+          ]
+        },
+        "author_id": "1729363663277187073",
+        "conversation_id": "2010603121802911769",
+        "created_at": "2026-01-12T06:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010603121802911769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwehEyVFqz",
+              "end": 28,
+              "expanded_url": "https://x.com/gxhkkk144215/status/2010603121802911769/video/1",
+              "media_key": "7_2010603086872817664",
+              "start": 5,
+              "url": "https://t.co/UwehEyVFqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010603121802911769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高中之时 https://t.co/UwehEyVFqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 117,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 645
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:56:52.000Z",
+        "description": "时间为何只向固定方向流动",
+        "id": "1729363663277187073",
+        "name": "阿尔加利亚",
+        "pinned_tweet_id": "1738219696963612686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000549810106183680/vgzp6Mn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 128,
+          "like_count": 12817,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 883
+        },
+        "username": "gxhkkk144215",
+        "verified": false
+      }
+    ]
+  }
+}

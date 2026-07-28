@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2011899269499011391",
+    "created_at": "2026-01-15T20:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T21:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011899269499011391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1994429035242569728",
+          "start": 3,
+          "username": "shuijiaozzz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011899269499011391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011861890545414522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuijiaozzz233: 上海\n嘉兴 /杭州\n都来找玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2011899269499011391",
+        "created_at": "2026-01-15T20:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T21:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011899269499011391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1994429035242569728",
+              "start": 3,
+              "username": "shuijiaozzz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011899269499011391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011861890545414522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuijiaozzz233: 上海\n嘉兴 /杭州\n都来找玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994429035242569728",
+        "conversation_id": "2011861890545414522",
+        "created_at": "2026-01-15T18:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T19:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011861890545414522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuijiaozzz233…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/shuijiaozzz233/status/2011855268431478861",
+              "start": 15,
+              "url": "https://t.co/8XgkquWdUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011861890545414522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011855268431478861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上海\n嘉兴 /杭州\n都来找玩 https://t.co/8XgkquWdUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2010612646484328877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 125,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 847
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T15:32:03.000Z",
+        "description": "叫我睡觉 你们正义凛然而我只是孩子",
+        "id": "1994429035242569728",
+        "name": "(^ー゜)",
+        "pinned_tweet_id": "1997025313986170962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996244507336261632/McNiwa2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 83,
+          "like_count": 546,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 200
+        },
+        "username": "shuijiaozzz233",
+        "verified": false
+      }
+    ]
+  }
+}

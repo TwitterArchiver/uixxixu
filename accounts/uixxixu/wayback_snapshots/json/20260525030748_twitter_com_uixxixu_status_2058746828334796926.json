@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058746806411112448",
+        "3_2058746806415269888",
+        "3_2058746806394294272"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058746828334796926",
+    "created_at": "2026-05-25T03:07:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T04:07:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058746828334796926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cmhyLurwO7",
+          "end": 36,
+          "expanded_url": "https://x.com/uixxixu/status/2058746828334796926/photo/1",
+          "media_key": "3_2058746806411112448",
+          "start": 13,
+          "url": "https://t.co/cmhyLurwO7"
+        },
+        {
+          "display_url": "pic.x.com/cmhyLurwO7",
+          "end": 36,
+          "expanded_url": "https://x.com/uixxixu/status/2058746828334796926/photo/1",
+          "media_key": "3_2058746806415269888",
+          "start": 13,
+          "url": "https://t.co/cmhyLurwO7"
+        },
+        {
+          "display_url": "pic.x.com/cmhyLurwO7",
+          "end": 36,
+          "expanded_url": "https://x.com/uixxixu/status/2058746828334796926/photo/1",
+          "media_key": "3_2058746806394294272",
+          "start": 13,
+          "url": "https://t.co/cmhyLurwO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058746828334796926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妻由乃w\n不爱我就…… https://t.co/cmhyLurwO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2058746806411112448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIjUA6asAAkSx0.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1378,
+        "media_key": "3_2058746806415269888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIjUA7aIAAgb0P.jpg",
+        "width": 960
+      },
+      {
+        "height": 1581,
+        "media_key": "3_2058746806394294272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIjUA2aEAAVcnA.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058746806411112448",
+            "3_2058746806415269888",
+            "3_2058746806394294272"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058746828334796926",
+        "created_at": "2026-05-25T03:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T04:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058746828334796926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cmhyLurwO7",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2058746828334796926/photo/1",
+              "media_key": "3_2058746806411112448",
+              "start": 13,
+              "url": "https://t.co/cmhyLurwO7"
+            },
+            {
+              "display_url": "pic.x.com/cmhyLurwO7",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2058746828334796926/photo/1",
+              "media_key": "3_2058746806415269888",
+              "start": 13,
+              "url": "https://t.co/cmhyLurwO7"
+            },
+            {
+              "display_url": "pic.x.com/cmhyLurwO7",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2058746828334796926/photo/1",
+              "media_key": "3_2058746806394294272",
+              "start": 13,
+              "url": "https://t.co/cmhyLurwO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058746828334796926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妻由乃w\n不爱我就…… https://t.co/cmhyLurwO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 443,
+          "like_count": 5504,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 3216
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

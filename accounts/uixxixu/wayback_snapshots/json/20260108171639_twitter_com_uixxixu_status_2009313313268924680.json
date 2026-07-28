@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009313303198375937"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009313313268924680",
+    "created_at": "2026-01-08T17:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T18:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009313313268924680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vjStT1Bq1y",
+          "end": 31,
+          "expanded_url": "https://x.com/uixxixu/status/2009313313268924680/photo/1",
+          "media_key": "3_2009313303198375937",
+          "start": 8,
+          "url": "https://t.co/vjStT1Bq1y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009313313268924680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天会就开到这 https://t.co/vjStT1Bq1y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2009313303198375937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-KDza-bIAE6Z2G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009313303198375937"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009313313268924680",
+        "created_at": "2026-01-08T17:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T18:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009313313268924680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjStT1Bq1y",
+              "end": 31,
+              "expanded_url": "https://x.com/uixxixu/status/2009313313268924680/photo/1",
+              "media_key": "3_2009313303198375937",
+              "start": 8,
+              "url": "https://t.co/vjStT1Bq1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009313313268924680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天会就开到这 https://t.co/vjStT1Bq1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 112,
+          "like_count": 1194,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 526
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065485291415302144"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2065485358226362717",
+    "created_at": "2026-06-12T17:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065485358226362717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/63fxOLNkpS",
+          "end": 78,
+          "expanded_url": "https://x.com/uixxixu/status/2065485358226362717/video/1",
+          "media_key": "13_2065485291415302144",
+          "start": 55,
+          "url": "https://t.co/63fxOLNkpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065485358226362717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经缓过来了 前几个小时还和小盐说不出来了 但是我又喝大了 想邀请小盐和苔藓来看电影然后她们已要入睡了好像 https://t.co/63fxOLNkpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7735,
+        "height": 1280,
+        "media_key": "13_2065485291415302144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065485291415302144/img/nkg11Z_D_pu1aCIG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065485291415302144/vid/avc1/320x568/3_L_QzYAHTTlb_IU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065485291415302144/vid/avc1/480x852/OYh4R9pH4B_D5VEU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065485291415302144/vid/avc1/720x1280/Dz4K-eDDMHvMnWIc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065485291415302144/pl/ltyp6gus3VhUetcT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065485291415302144"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2065485358226362717",
+        "created_at": "2026-06-12T17:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065485358226362717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63fxOLNkpS",
+              "end": 78,
+              "expanded_url": "https://x.com/uixxixu/status/2065485358226362717/video/1",
+              "media_key": "13_2065485291415302144",
+              "start": 55,
+              "url": "https://t.co/63fxOLNkpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065485358226362717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经缓过来了 前几个小时还和小盐说不出来了 但是我又喝大了 想邀请小盐和苔藓来看电影然后她们已要入睡了好像 https://t.co/63fxOLNkpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 488,
+          "like_count": 6003,
+          "listed_count": 0,
+          "media_count": 254,
+          "tweet_count": 3680
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

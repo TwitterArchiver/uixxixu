@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2013978347613696342",
+    "created_at": "2026-01-21T17:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014027400892534999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014027400892534999",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013978347613696342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 姐感好棒……好有那个感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24129,
+        "height": 1280,
+        "media_key": "7_2013978102565654528",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2013978102565654528/pu/img/Kbum77b0FrZfcgxi.jpg",
+        "public_metrics": {
+          "view_count": 30
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013978102565654528/pu/vid/avc1/320x568/Pfzfb6iAOhMvM2XC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013978102565654528/pu/vid/avc1/480x852/m7L9l9eEJ9Kgmo5I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2013978102565654528/pu/vid/avc1/720x1280/xlrgIACt29_V9T5W.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2013978102565654528/pu/pl/7V8IPakbl3UWoWOD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2013978347613696342",
+        "created_at": "2026-01-21T17:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014027400892534999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014027400892534999",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013978347613696342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 姐感好棒……好有那个感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2013978102565654528"
+          ]
+        },
+        "author_id": "1998568087382274049",
+        "conversation_id": "2013978347613696342",
+        "created_at": "2026-01-21T14:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013978347613696342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwkLBvNuQ6",
+              "end": 32,
+              "expanded_url": "https://x.com/bvdsvge12071/status/2013978347613696342/video/1",
+              "media_key": "7_2013978102565654528",
+              "start": 9,
+              "url": "https://t.co/OwkLBvNuQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013978347613696342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还不太会扭🥹🫶 https://t.co/OwkLBvNuQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 140,
+          "like_count": 2116,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 1033
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "05｜宅女｜电吉他｜穿孔｜酗酒｜日番日漫｜gbg｜暴力+怪诞美学｜\n高浓度上网★私信开放 可聊天",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2012869545422197093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000815325521068041/4eeyWtxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 121,
+          "like_count": 3629,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 259
+        },
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

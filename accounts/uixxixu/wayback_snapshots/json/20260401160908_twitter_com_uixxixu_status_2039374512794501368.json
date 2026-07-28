@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2039188597140795764",
+    "created_at": "2026-04-01T16:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039374512794501368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1658103683974848516",
+          "start": 0,
+          "username": "xinlilvzhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039374512794501368",
+    "in_reply_to_user_id": "1658103683974848516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039374121394716865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinlilvzhou 精华早就没有了哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2039188597140795764",
+        "created_at": "2026-04-01T16:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039374512794501368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1658103683974848516",
+              "start": 0,
+              "username": "xinlilvzhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039374512794501368",
+        "in_reply_to_user_id": "1658103683974848516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039374121394716865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinlilvzhou 精华早就没有了哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658103683974848516",
+        "conversation_id": "2039188597140795764",
+        "created_at": "2026-04-01T16:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039374121394716865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039374121394716865",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039188597140795764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 滤网下面还有一层宝贝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 257,
+          "like_count": 4113,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2140
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T13:35:11.000Z",
+        "description": "建立绿洲、开发绿洲、飞行绿洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xinlilvzhou",
+                "end": 23,
+                "expanded_url": "https://t.me/xinlilvzhou",
+                "start": 0,
+                "url": "https://t.co/K8gaCUDofI"
+              }
+            ]
+          }
+        },
+        "id": "1658103683974848516",
+        "location": "美国",
+        "name": "午夜飞行员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018732413552107520/syC1n4FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/K8gaCUDofI",
+        "username": "xinlilvzhou",
+        "verified": false
+      }
+    ]
+  }
+}

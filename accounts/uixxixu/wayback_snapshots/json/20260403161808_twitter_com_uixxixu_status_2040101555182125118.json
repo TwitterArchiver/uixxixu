@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2040099531971518841",
+    "created_at": "2026-04-03T16:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040101555182125118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553077962257272834",
+          "start": 0,
+          "username": "showmeurbeauty3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040101555182125118",
+    "in_reply_to_user_id": "1553077962257272834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040100813289533554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showmeurbeauty3 六小时呢 等日出。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2040099531971518841",
+        "created_at": "2026-04-03T16:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040101555182125118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553077962257272834",
+              "start": 0,
+              "username": "showmeurbeauty3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040101555182125118",
+        "in_reply_to_user_id": "1553077962257272834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040100813289533554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showmeurbeauty3 六小时呢 等日出。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553077962257272834",
+        "conversation_id": "2040099531971518841",
+        "created_at": "2026-04-03T16:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040100813289533554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040100813289533554",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040099531971518841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 我就喜欢晚上玩，然后通宵等着六七点出门，看着天色从灰渐渐变白，很震撼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 263,
+          "like_count": 4166,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2185
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T18:00:26.000Z",
+        "description": "白骨终将化为沙土，\n却生生不息。",
+        "id": "1553077962257272834",
+        "name": "houmra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036246482471497728/fXYxvuqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 422,
+          "like_count": 487,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "showmeurbeauty3",
+        "verified": false
+      }
+    ]
+  }
+}

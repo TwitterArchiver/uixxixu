@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2021380145391731090",
+    "created_at": "2026-02-11T00:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T01:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021380145391731090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7777_yn/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/7777_yn/status/2020877223729991745",
+          "start": 28,
+          "url": "https://t.co/OWgLNGJ6A4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021380145391731090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020877223729991745",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "年上人夫也挺好的但是现实很……自卑小男生你们快点长大吧 https://t.co/OWgLNGJ6A4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2021380145391731090",
+        "created_at": "2026-02-11T00:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021380145391731090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7777_yn/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/7777_yn/status/2020877223729991745",
+              "start": 28,
+              "url": "https://t.co/OWgLNGJ6A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021380145391731090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020877223729991745",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "年上人夫也挺好的但是现实很……自卑小男生你们快点长大吧 https://t.co/OWgLNGJ6A4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833871485892718593",
+        "conversation_id": "2020877223729991745",
+        "created_at": "2026-02-09T15:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020877223729991745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020877223729991745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2232,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "唉我觉得“我的真心早就给出去了”的这款年上人夫搭配上自卑敏感会更好吃……即使尽全力弥补还是觉得亏欠反而会做出一些自轻自贱甚至自伤的事情来逼走你，试图用这样的方式确定你的爱份量重到足以化作狗链套在他脖子上。\n年上人夫含泪怒骂三百句我已经老了我配不上你，妹1假居一戴说哥你嘴比心软多了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注我 想和同类互fo 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 191,
+          "like_count": 2685,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1522
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T14:13:45.000Z",
+        "description": "bi/女的/当回收站发",
+        "id": "1833871485892718593",
+        "location": "不玩情侣",
+        "name": "无端弦",
+        "pinned_tweet_id": "1973998213343379652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982485155278127104/SGrBQxq8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 36,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 757
+        },
+        "username": "7777_yn",
+        "verified": false
+      }
+    ]
+  }
+}

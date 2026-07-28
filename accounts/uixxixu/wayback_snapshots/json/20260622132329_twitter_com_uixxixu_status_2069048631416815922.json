@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2069048631416815922",
+    "created_at": "2026-06-22T13:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069048631416815922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mossneverdie/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/mossneverdie/status/2068948566446637070",
+          "start": 13,
+          "url": "https://t.co/7GfYKPGERJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069048631416815922",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068948566446637070",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱性感 我要和你约会会 https://t.co/7GfYKPGERJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068948549874937856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZhvo3a8AAOys0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2069048631416815922",
+        "created_at": "2026-06-22T13:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069048631416815922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mossneverdie/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/mossneverdie/status/2068948566446637070",
+              "start": 13,
+              "url": "https://t.co/7GfYKPGERJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069048631416815922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068948566446637070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱性感 我要和你约会会 https://t.co/7GfYKPGERJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068948549874937856"
+          ]
+        },
+        "author_id": "1874756593616891904",
+        "conversation_id": "2068948566446637070",
+        "created_at": "2026-06-22T06:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068948566446637070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCYh2dctLk",
+              "end": 33,
+              "expanded_url": "https://x.com/mossneverdie/status/2068948566446637070/photo/1",
+              "media_key": "3_2068948549874937856",
+              "start": 10,
+              "url": "https://t.co/nCYh2dctLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068948566446637070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小小的南半球🥲👉👈 https://t.co/nCYh2dctLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 516,
+          "like_count": 6238,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 3871
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T09:56:25.000Z",
+        "description": "坐标成都！求金主 给钱什么猎奇sm都能做 微信ginhiji1005love也可加v后过门🚪55加微信/88+五擦边图+可约/188+luo照/1314不太可能所以我不梦了喵✞（口令红包/置顶收款码都能给了后私我加我wx）",
+        "id": "1874756593616891904",
+        "location": "成都",
+        "name": "🔞想死更想留巴黎🔞",
+        "pinned_tweet_id": "2004558554792079723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919631170717024262/cC3Kglti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 571,
+          "like_count": 2922,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "mossneverdie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077407854928240641"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2077407930039845072",
+    "created_at": "2026-07-15T15:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077407930039845072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0K6bEgrDk0",
+          "end": 29,
+          "expanded_url": "https://x.com/uixxixu/status/2077407930039845072/video/1",
+          "media_key": "13_2077407854928240641",
+          "start": 6,
+          "url": "https://t.co/0K6bEgrDk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077407930039845072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "奇怪的视角 https://t.co/0K6bEgrDk0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7480,
+        "height": 1280,
+        "media_key": "13_2077407854928240641",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077407854928240641/img/IEA9v3tsNIFp7IXz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077407854928240641/vid/avc1/320x568/fw4GiAA7t0q_as4L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077407854928240641/vid/avc1/480x852/UPTFE42rt7gacoaN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077407854928240641/vid/avc1/720x1280/zl4D4zwdut9If2je.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077407854928240641/pl/VHcla-XhT0eAz3Jr.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077407854928240641"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2077407930039845072",
+        "created_at": "2026-07-15T15:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077407930039845072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0K6bEgrDk0",
+              "end": 29,
+              "expanded_url": "https://x.com/uixxixu/status/2077407930039845072/video/1",
+              "media_key": "13_2077407854928240641",
+              "start": 6,
+              "url": "https://t.co/0K6bEgrDk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077407930039845072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的视角 https://t.co/0K6bEgrDk0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 536,
+          "like_count": 6536,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 4197
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

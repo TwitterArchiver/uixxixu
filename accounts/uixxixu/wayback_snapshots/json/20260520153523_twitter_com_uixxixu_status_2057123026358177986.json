@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057055793980309906",
+    "created_at": "2026-05-20T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057123026358177986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498364258652164096",
+          "start": 0,
+          "username": "haohaomantax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057123026358177986",
+    "in_reply_to_user_id": "1498364258652164096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057076186795421816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haohaomantax 不用了我最好的朋友就做这行的但我不需要算卦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057055793980309906",
+        "created_at": "2026-05-20T15:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T16:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057123026358177986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498364258652164096",
+              "start": 0,
+              "username": "haohaomantax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057123026358177986",
+        "in_reply_to_user_id": "1498364258652164096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057076186795421816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haohaomantax 不用了我最好的朋友就做这行的但我不需要算卦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498364258652164096",
+        "conversation_id": "2057055793980309906",
+        "created_at": "2026-05-20T12:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T13:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057076186795421816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057076186795421816",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057055793980309906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 要不要来起一卦看看？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 426,
+          "like_count": 5400,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 3108
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-28T18:27:37.000Z",
+        "description": "个人简介：男 02 问事卜卦私信我，虽然不经常在线就是了，找不到我联系qq：2625146010",
+        "id": "1498364258652164096",
+        "location": "＜100km",
+        "name": "钗钏金",
+        "pinned_tweet_id": "1914128550070009920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055130194755919872/zm3T9zeH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 190
+        },
+        "username": "haohaomantax",
+        "verified": false
+      }
+    ]
+  }
+}

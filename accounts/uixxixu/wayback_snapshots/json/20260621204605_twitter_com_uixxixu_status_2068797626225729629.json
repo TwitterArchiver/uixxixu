@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068797612732657664"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2068797626225729629",
+    "created_at": "2026-06-21T20:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T21:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068797626225729629"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DzdVNMtSFy",
+          "end": 55,
+          "expanded_url": "https://x.com/uixxixu/status/2068797626225729629/photo/1",
+          "media_key": "3_2068797612732657664",
+          "start": 32,
+          "url": "https://t.co/DzdVNMtSFy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068797626225729629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊 天哪 回忆琼瑶 给我哭的……真的好好看但是不建议任何人看。 https://t.co/DzdVNMtSFy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068797612732657664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXYd8MbMAAq93v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068797612732657664"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2068797626225729629",
+        "created_at": "2026-06-21T20:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068797626225729629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzdVNMtSFy",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2068797626225729629/photo/1",
+              "media_key": "3_2068797612732657664",
+              "start": 32,
+              "url": "https://t.co/DzdVNMtSFy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068797626225729629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊 天哪 回忆琼瑶 给我哭的……真的好好看但是不建议任何人看。 https://t.co/DzdVNMtSFy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1466,
+          "following_count": 513,
+          "like_count": 6216,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 3847
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

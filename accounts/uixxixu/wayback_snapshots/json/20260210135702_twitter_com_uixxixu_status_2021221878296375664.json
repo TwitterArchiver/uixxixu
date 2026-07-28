@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021221719135154176"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2021221878296375664",
+    "created_at": "2026-02-10T13:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T14:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021221878296375664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EUYW13Amy0",
+          "end": 31,
+          "expanded_url": "https://x.com/uixxixu/status/2021221878296375664/video/1",
+          "media_key": "13_2021221719135154176",
+          "start": 8,
+          "url": "https://t.co/EUYW13Amy0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021221878296375664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你给我唱歌 https://t.co/EUYW13Amy0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50326,
+        "height": 1280,
+        "media_key": "13_2021221719135154176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021221719135154176/img/MqAX8QhZShH2Fl-Y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021221719135154176/vid/avc1/320x694/oT_aQ9M0bq8sRmCS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021221719135154176/vid/avc1/480x1040/1BRSM5h3YCzHhHHk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021221719135154176/vid/avc1/590x1280/E87ZJOFdVPdNhbUM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021221719135154176/pl/TmaX1uYJ56gLhJua.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021221719135154176"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2021221878296375664",
+        "created_at": "2026-02-10T13:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T14:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021221878296375664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUYW13Amy0",
+              "end": 31,
+              "expanded_url": "https://x.com/uixxixu/status/2021221878296375664/video/1",
+              "media_key": "13_2021221719135154176",
+              "start": 8,
+              "url": "https://t.co/EUYW13Amy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021221878296375664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你给我唱歌 https://t.co/EUYW13Amy0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注我 想和同类互fo 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 190,
+          "like_count": 2654,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1513
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

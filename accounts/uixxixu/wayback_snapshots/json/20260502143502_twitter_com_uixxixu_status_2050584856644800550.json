@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2050582024612884932",
+    "created_at": "2026-05-02T14:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050584856644800550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1667129907795886081",
+          "start": 0,
+          "username": "mods999_"
+        },
+        {
+          "end": 23,
+          "id": "1786565196913541120",
+          "start": 10,
+          "username": "dimangmu8964"
+        },
+        {
+          "end": 38,
+          "id": "1883117066812882944",
+          "start": 24,
+          "username": "jituiroubaogu"
+        },
+        {
+          "end": 52,
+          "id": "1802704441961017344",
+          "start": 39,
+          "username": "misumikaede3"
+        },
+        {
+          "end": 62,
+          "id": "2013321876224057344",
+          "start": 53,
+          "username": "OTxiashu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050584856644800550",
+    "in_reply_to_user_id": "1667129907795886081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050582024612884932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mods999_ @dimangmu8964 @jituiroubaogu @misumikaede3 @OTxiashu （？）孟婆汤怎么样了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050582016689876994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUhes-asAIpY8u.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2050582024612884932",
+        "created_at": "2026-05-02T14:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050584856644800550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1667129907795886081",
+              "start": 0,
+              "username": "mods999_"
+            },
+            {
+              "end": 23,
+              "id": "1786565196913541120",
+              "start": 10,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 38,
+              "id": "1883117066812882944",
+              "start": 24,
+              "username": "jituiroubaogu"
+            },
+            {
+              "end": 52,
+              "id": "1802704441961017344",
+              "start": 39,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 62,
+              "id": "2013321876224057344",
+              "start": 53,
+              "username": "OTxiashu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050584856644800550",
+        "in_reply_to_user_id": "1667129907795886081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050582024612884932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mods999_ @dimangmu8964 @jituiroubaogu @misumikaede3 @OTxiashu （？）孟婆汤怎么样了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050582016689876994"
+          ]
+        },
+        "author_id": "1667129907795886081",
+        "conversation_id": "2050582024612884932",
+        "created_at": "2026-05-02T14:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050582024612884932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1128010587089264640",
+              "start": 22,
+              "username": "uixxixu"
+            },
+            {
+              "end": 44,
+              "id": "1786565196913541120",
+              "start": 31,
+              "username": "dimangmu8964"
+            },
+            {
+              "end": 65,
+              "id": "1883117066812882944",
+              "start": 51,
+              "username": "jituiroubaogu"
+            },
+            {
+              "end": 85,
+              "id": "1802704441961017344",
+              "start": 72,
+              "username": "misumikaede3"
+            },
+            {
+              "end": 95,
+              "id": "2013321876224057344",
+              "start": 86,
+              "username": "OTxiashu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 123,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 100,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/iFVsVGVoBT"
+            },
+            {
+              "display_url": "pic.x.com/rMDkgPTD0A",
+              "end": 147,
+              "expanded_url": "https://x.com/mods999_/status/2050582024612884932/photo/1",
+              "media_key": "3_2050582016689876994",
+              "start": 124,
+              "url": "https://t.co/rMDkgPTD0A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050582024612884932",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @uixxixu @dimangmu8964\n👰 配偶: @jituiroubaogu\n👶 孩子: @misumikaede3 @OTxiashu\n\n➡️ https://t.co/iFVsVGVoBT https://t.co/rMDkgPTD0A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 367,
+          "like_count": 5025,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2738
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T11:22:09.000Z",
+        "description": "常用id：mods999/网友夏顺亚，基本都会回fo.成分Oder/🎌，其他自行判断，键政的傻逼东西自觉屏蔽我别恶心你野爹",
+        "id": "1667129907795886081",
+        "location": "阿克西斯",
+        "name": "网友夏顺亚",
+        "pinned_tweet_id": "2037120174533579253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040975317486186496/Dx6Wt3_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 471,
+          "like_count": 36458,
+          "listed_count": 2,
+          "media_count": 1386,
+          "tweet_count": 6083
+        },
+        "username": "mods999_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T01:15:24.000Z",
+        "description": "欢迎劳翔",
+        "id": "1786565196913541120",
+        "location": "驻马店市, 河南省",
+        "name": "迅鴿🕊️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888808700875509760/Myhp0mOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 1133,
+          "like_count": 124899,
+          "listed_count": 18,
+          "media_count": 1498,
+          "tweet_count": 32496
+        },
+        "username": "dimangmu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T11:37:58.000Z",
+        "description": "我素叽菇。\n希望每个人都能获得自己的幸福。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mogugu2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mogugu2",
+                "start": 0,
+                "url": "https://t.co/OhmOjhj9Ev"
+              }
+            ]
+          }
+        },
+        "id": "1883117066812882944",
+        "name": "叽菇菇叽",
+        "pinned_tweet_id": "2038600816073076855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399554107285504/Jn_VgwVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 506,
+          "like_count": 1959,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/OhmOjhj9Ev",
+        "username": "jituiroubaogu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2009年生（并非）enby 🏳️‍⚧️2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 117,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🍥#柳宿六",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041239223823695872/oskidzdg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 1088,
+          "like_count": 31057,
+          "listed_count": 4,
+          "media_count": 278,
+          "tweet_count": 9378
+        },
+        "username": "misumikaede3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T18:46:10.000Z",
+        "description": "无我梦中                                                                                            \n   宝宝:@wmy072011 妈妈:@Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "wmy072011"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/RFlA1XtlG6"
+              }
+            ]
+          }
+        },
+        "id": "2013321876224057344",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2045458839068356985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048795940132356096/qEoI3YLY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 551,
+          "like_count": 10311,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 4001
+        },
+        "url": "https://t.co/RFlA1XtlG6",
+        "username": "OTxiashu",
+        "verified": false
+      }
+    ]
+  }
+}

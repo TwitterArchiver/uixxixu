@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2051199721415532939",
+    "created_at": "2026-05-04T12:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051280291004911776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1525486795265294337",
+          "start": 0,
+          "username": "fuyo0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051280291004911776",
+    "in_reply_to_user_id": "1525486795265294337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051256784598507680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyo0928 我戒一段时间恢复下耐受就吃那个善良的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2051199721415532939",
+        "created_at": "2026-05-04T12:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051280291004911776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1525486795265294337",
+              "start": 0,
+              "username": "fuyo0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051280291004911776",
+        "in_reply_to_user_id": "1525486795265294337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051256784598507680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyo0928 我戒一段时间恢复下耐受就吃那个善良的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525486795265294337",
+        "conversation_id": "2051199721415532939",
+        "created_at": "2026-05-04T11:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051256784598507680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051256784598507680",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051199721415532939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 简直两个极端！( ･᷄д･᷅ )一个超级邪恶一个无敌善良"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 372,
+          "like_count": 5068,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2763
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:43:04.000Z",
+        "description": "关关￤雜多垢 ￤♀￤Drugtwt￤🚪52\n🕯",
+        "id": "1525486795265294337",
+        "location": "東京、雑踏、せつなの夢。",
+        "name": "Marin_🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827063217174278144/u38ENMqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 181,
+          "like_count": 1092,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "username": "fuyo0928",
+        "verified": false
+      }
+    ]
+  }
+}

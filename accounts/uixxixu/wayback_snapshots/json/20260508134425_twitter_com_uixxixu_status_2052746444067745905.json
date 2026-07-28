@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2052714637905539516",
+    "created_at": "2026-05-08T13:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052746444067745905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882747760480501760",
+          "start": 0,
+          "username": "yaaaaanxuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052746444067745905",
+    "in_reply_to_user_id": "1882747760480501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052728106470052220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaaaaanxuan 诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2052714637905539516",
+        "created_at": "2026-05-08T13:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052746444067745905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882747760480501760",
+              "start": 0,
+              "username": "yaaaaanxuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746444067745905",
+        "in_reply_to_user_id": "1882747760480501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052728106470052220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaaaaanxuan 诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882747760480501760",
+        "conversation_id": "2052714637905539516",
+        "created_at": "2026-05-08T12:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052728106470052220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052728106470052220",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052714637905539516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 361,
+          "like_count": 5198,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2851
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T11:10:36.000Z",
+        "description": "🚪52  一个女孩子，没有人爱，没有素质，文化水平较低，感受不到人间温暖，再见",
+        "id": "1882747760480501760",
+        "location": "⬜️",
+        "name": "爱吃巧克力",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042259828849123328/H5_tO3OB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 166,
+          "like_count": 9423,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 252
+        },
+        "username": "yaaaaanxuan",
+        "verified": false
+      }
+    ]
+  }
+}

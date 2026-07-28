@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2052430706627014880",
+    "created_at": "2026-05-07T16:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052430706627014880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/c21koy_7c/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/c21koy_7c/status/2052422954152325588",
+          "start": 12,
+          "url": "https://t.co/GHAtpsuDXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052430706627014880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052422954152325588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持我妹妹小盐谢谢喵！ https://t.co/GHAtpsuDXQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052417643886600192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHum-RKa4AA5sMC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2052417643886624768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHum-RKbQAAiB0f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2052430706627014880",
+        "created_at": "2026-05-07T16:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052430706627014880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c21koy_7c/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/c21koy_7c/status/2052422954152325588",
+              "start": 12,
+              "url": "https://t.co/GHAtpsuDXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052430706627014880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052422954152325588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持我妹妹小盐谢谢喵！ https://t.co/GHAtpsuDXQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052417643886600192",
+            "3_2052417643886624768"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2052422954152325588",
+        "created_at": "2026-05-07T16:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:57:54.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052417651264323853",
+          "2052422954152325588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWL02NWN5q",
+              "end": 168,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2052422954152325588/photo/1",
+              "media_key": "3_2052417643886600192",
+              "start": 145,
+              "url": "https://t.co/EWL02NWN5q"
+            },
+            {
+              "display_url": "pic.x.com/EWL02NWN5q",
+              "end": 168,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2052422954152325588/photo/1",
+              "media_key": "3_2052417643886624768",
+              "start": 145,
+              "url": "https://t.co/EWL02NWN5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052422954152325588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🧃过几天开电子表🧃\n\n 活动来啦 魔法电子烟烟 继承了树 我想更好地服务大家 还是原来的厂家 有正品 精品高仿 过几天发表 记得备注三个口味（其中一个主口味） \n\n条件：转发评论关注点赞～谢谢大家喵\n\n现在转发yan的烟烟\n一等奖 抽一个搜电子烟任选 我付钱\n二等奖 罗勒香薰蜡烛无印良品 直接转钱或者淘宝代付\n三等奖  抽三个10元 \n\n条件：转发评论关注点赞～谢谢大家喵一定要哦不然从评论点赞引用的人抽了\n\n盐制肉鸦会努力的\n\n大概明日起 三天到五天出表的时候开奖"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🧃过几天开电子表🧃\n\n 活动来啦 魔法电子烟烟 继承了树 我想更好地服务大家 还是原来的厂家 有正品 精品高仿 过几天发表 记得备注三个口味（其中一个主口味） \n\n条件：转发评论关注点赞～谢谢大家喵\n\n现在转发yan的烟烟\n一等奖 抽一个搜电子烟任选 我付钱\n二等奖 罗勒香薰蜡烛无印良品 https://t.co/EWL02NWN5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 374,
+          "like_count": 5155,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2820
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 3531,
+          "like_count": 31743,
+          "listed_count": 2,
+          "media_count": 2272,
+          "tweet_count": 29690
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

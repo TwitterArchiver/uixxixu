@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2050188481918652419",
+    "created_at": "2026-05-02T18:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050647605798207967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013517011729465344",
+          "start": 0,
+          "username": "RfbxaUauj41685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050647605798207967",
+    "in_reply_to_user_id": "2013517011729465344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050188481918652419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RfbxaUauj41685 现实朋友发我过 当时我还没od"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050188439161815040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO7hebaQAAh_Uy.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050188439145082880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO7heXa8AAxKw0.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050188439191232512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO7heibIAASiiH.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050188439191171072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHO7heiaMAA3-Cp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2050188481918652419",
+        "created_at": "2026-05-02T18:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050647605798207967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013517011729465344",
+              "start": 0,
+              "username": "RfbxaUauj41685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050647605798207967",
+        "in_reply_to_user_id": "2013517011729465344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050188481918652419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RfbxaUauj41685 现实朋友发我过 当时我还没od"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050188439161815040",
+            "3_2050188439145082880",
+            "3_2050188439191232512",
+            "3_2050188439191171072"
+          ]
+        },
+        "author_id": "2013517011729465344",
+        "conversation_id": "2050188481918652419",
+        "created_at": "2026-05-01T12:19:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:19:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050188481918652419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zIaOJqwz4V",
+              "end": 78,
+              "expanded_url": "https://x.com/RfbxaUauj41685/status/2050188481918652419/photo/1",
+              "media_key": "3_2050188439161815040",
+              "start": 55,
+              "url": "https://t.co/zIaOJqwz4V"
+            },
+            {
+              "display_url": "pic.x.com/zIaOJqwz4V",
+              "end": 78,
+              "expanded_url": "https://x.com/RfbxaUauj41685/status/2050188481918652419/photo/1",
+              "media_key": "3_2050188439145082880",
+              "start": 55,
+              "url": "https://t.co/zIaOJqwz4V"
+            },
+            {
+              "display_url": "pic.x.com/zIaOJqwz4V",
+              "end": 78,
+              "expanded_url": "https://x.com/RfbxaUauj41685/status/2050188481918652419/photo/1",
+              "media_key": "3_2050188439191232512",
+              "start": 55,
+              "url": "https://t.co/zIaOJqwz4V"
+            },
+            {
+              "display_url": "pic.x.com/zIaOJqwz4V",
+              "end": 78,
+              "expanded_url": "https://x.com/RfbxaUauj41685/status/2050188481918652419/photo/1",
+              "media_key": "3_2050188439191171072",
+              "start": 55,
+              "url": "https://t.co/zIaOJqwz4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050188481918652419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 322,
+          "impression_count": 51412,
+          "like_count": 825,
+          "quote_count": 20,
+          "reply_count": 44,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "翻相册的时候找到的一些od教程，具体是谁发的忘记了，应该是最早的详细简中od教程了\n\n貌似是od维基的起源？ https://t.co/zIaOJqwz4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 369,
+          "like_count": 5053,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2752
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-20T07:40:54.000Z",
+        "description": "男/mtx 前世：@rednightmare962",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "rednightmare962"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+gjb2OqUsan1jO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+gjb2OqUsan1jOGNl",
+                "start": 0,
+                "url": "https://t.co/nif78SR5wo"
+              }
+            ]
+          }
+        },
+        "id": "2013517011729465344",
+        "name": "洛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 81,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/nif78SR5wo",
+        "username": "RfbxaUauj41685",
+        "verified": false
+      }
+    ]
+  }
+}

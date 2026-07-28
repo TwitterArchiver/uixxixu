@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2040795350127042560",
+    "created_at": "2026-04-05T15:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T16:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040806840930599286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2037384215847747584",
+          "start": 0,
+          "username": "__murasaki__99"
+        },
+        {
+          "end": 25,
+          "id": "1714351609977978882",
+          "start": 16,
+          "username": "TinxYxx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040806840930599286",
+    "in_reply_to_user_id": "2037384215847747584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040799020189135137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__murasaki__99 @TinxYxx2 防蘑菇的 看值不值得冒风险去体验 性价比不高但是还有其他能接触到的吗 需要考虑的就是这些 如果承担不了后果那就不买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2040795350127042560",
+        "created_at": "2026-04-05T15:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T16:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040806840930599286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2037384215847747584",
+              "start": 0,
+              "username": "__murasaki__99"
+            },
+            {
+              "end": 25,
+              "id": "1714351609977978882",
+              "start": 16,
+              "username": "TinxYxx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040806840930599286",
+        "in_reply_to_user_id": "2037384215847747584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040799020189135137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__murasaki__99 @TinxYxx2 防蘑菇的 看值不值得冒风险去体验 性价比不高但是还有其他能接触到的吗 需要考虑的就是这些 如果承担不了后果那就不买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037384215847747584",
+        "conversation_id": "2040795350127042560",
+        "created_at": "2026-04-05T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040799020189135137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714351609977978882",
+              "start": 0,
+              "username": "TinxYxx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040799020189135137",
+        "in_reply_to_user_id": "1714351609977978882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040797733888643474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TinxYxx2 应该是蘑菇软糖还是什么色胺类？不是很清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 271,
+          "like_count": 4276,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2248
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:20:46.000Z",
+        "description": "o割一体机 称呼什么都可以丨10丨infp丨全部友好丨过激滚丨术力口重度依赖丨舞萌痴丨求你们和我互fo吧T^T丨会查成分 成分不明确请私我！",
+        "id": "2037384215847747584",
+        "name": "murasaki",
+        "pinned_tweet_id": "2038793950652170446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040734853415546880/jzc0x24Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 130,
+          "like_count": 690,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 184
+        },
+        "username": "__murasaki__99",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T18:44:18.000Z",
+        "description": "迷路了也没关系，",
+        "id": "1714351609977978882",
+        "location": "南宁",
+        "name": "令兒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040792780210085888/qOvgS_I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 940,
+          "like_count": 18313,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 4228
+        },
+        "username": "TinxYxx2",
+        "verified": false
+      }
+    ]
+  }
+}

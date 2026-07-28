@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050579361930330112"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2050579365185139180",
+    "created_at": "2026-05-02T14:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050579365185139180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1944679199358570496",
+          "start": 22,
+          "username": "0kada_Mi0"
+        },
+        {
+          "end": 49,
+          "id": "1684269091849404416",
+          "start": 33,
+          "username": "hg3551019177402"
+        },
+        {
+          "end": 68,
+          "id": "1739591003559088128",
+          "start": 56,
+          "username": "ShiYou62377"
+        },
+        {
+          "end": 84,
+          "id": "2033349756223909888",
+          "start": 75,
+          "username": "VERI2337"
+        },
+        {
+          "end": 94,
+          "id": "2037890001485074432",
+          "start": 85,
+          "username": "taffycvc"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+          "display_url": "infinitetweet.me/family-tree?la…",
+          "end": 122,
+          "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 99,
+          "status": 200,
+          "title": "Family Tree • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+          "url": "https://t.co/dRasAd2p9G"
+        },
+        {
+          "display_url": "pic.x.com/JaRkw1oMcm",
+          "end": 146,
+          "expanded_url": "https://x.com/uixxixu/status/2050579365185139180/photo/1",
+          "media_key": "3_2050579361930330112",
+          "start": 123,
+          "url": "https://t.co/JaRkw1oMcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050579365185139180",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @0kada_Mi0 @hg3551019177402\n👰 配偶: @ShiYou62377\n👶 孩子: @VERI2337 @taffycvc\n\n➡️ https://t.co/dRasAd2p9G https://t.co/JaRkw1oMcm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050579361930330112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUfELOawAAAYyJ.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050579361930330112"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2050579365185139180",
+        "created_at": "2026-05-02T14:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050579365185139180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1944679199358570496",
+              "start": 22,
+              "username": "0kada_Mi0"
+            },
+            {
+              "end": 49,
+              "id": "1684269091849404416",
+              "start": 33,
+              "username": "hg3551019177402"
+            },
+            {
+              "end": 68,
+              "id": "1739591003559088128",
+              "start": 56,
+              "username": "ShiYou62377"
+            },
+            {
+              "end": 84,
+              "id": "2033349756223909888",
+              "start": 75,
+              "username": "VERI2337"
+            },
+            {
+              "end": 94,
+              "id": "2037890001485074432",
+              "start": 85,
+              "username": "taffycvc"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 122,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/dRasAd2p9G"
+            },
+            {
+              "display_url": "pic.x.com/JaRkw1oMcm",
+              "end": 146,
+              "expanded_url": "https://x.com/uixxixu/status/2050579365185139180/photo/1",
+              "media_key": "3_2050579361930330112",
+              "start": 123,
+              "url": "https://t.co/JaRkw1oMcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050579365185139180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @0kada_Mi0 @hg3551019177402\n👰 配偶: @ShiYou62377\n👶 孩子: @VERI2337 @taffycvc\n\n➡️ https://t.co/dRasAd2p9G https://t.co/JaRkw1oMcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 367,
+          "like_count": 5025,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 2738
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "2011472330870907217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 235,
+          "like_count": 19090,
+          "listed_count": 4,
+          "media_count": 196,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑色柳丁：@rinii165892 老板a 干点烟代，电子烟纸烟（老板嫌一盒利润太低只能买整条，但是可以混拼！）（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位）还有个老板b可以散烟买，利润使用小学数学法！ 这家超便宜！！！推荐电子老板a，纸烟老板b！！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049802773710151920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 735,
+          "like_count": 18189,
+          "listed_count": 1,
+          "media_count": 624,
+          "tweet_count": 9178
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "我叫小沋｜时好时坏的小男孩｜⬇️是匿名提问箱｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAain6j"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "地狱",
+        "name": "十沋",
+        "pinned_tweet_id": "2014806667360444630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036419932368543744/PyHm8kSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 165,
+          "like_count": 15788,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 4407
+        },
+        "url": "https://t.co/l2NtAain6j",
+        "username": "ShiYou62377",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T01:09:05.000Z",
+        "description": "",
+        "id": "2033349756223909888",
+        "name": "TPG72",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045151021698334720/Mytl1qBa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 19,
+          "like_count": 2662,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "username": "VERI2337",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "",
+        "id": "2037890001485074432",
+        "name": "taffy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037911670866239488/KZ_3MIPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 48,
+          "like_count": 3024,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}

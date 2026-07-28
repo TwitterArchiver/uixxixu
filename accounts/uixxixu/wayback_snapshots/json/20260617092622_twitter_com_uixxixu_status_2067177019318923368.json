@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067176996032184320"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Daft Punk",
+          "id": "875054283443458048",
+          "name": "Daft Punk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Daft Punk",
+          "id": "875054283443458048",
+          "name": "Daft Punk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "849674653945569284",
+          "name": "EDM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "id": "1285999703704743938",
+          "name": "Dance & electronic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dance",
+          "id": "849674653945569284",
+          "name": "EDM"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Daft Punk",
+          "id": "875054283443458048",
+          "name": "Daft Punk"
+        }
+      }
+    ],
+    "conversation_id": "2067137107890762215",
+    "created_at": "2026-06-17T09:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067177019318923368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qlW395EFI1",
+          "end": 36,
+          "expanded_url": "https://x.com/uixxixu/status/2067177019318923368/photo/1",
+          "media_key": "3_2067176996032184320",
+          "start": 13,
+          "url": "https://t.co/qlW395EFI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067177019318923368",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067137107890762215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "躺着听daft punk https://t.co/qlW395EFI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067176996032184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAWhohbgAA4GuT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067137091059011584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_yO26bUAAdqJ6.jpg",
+        "width": 1958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067176996032184320"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Daft Punk",
+              "id": "875054283443458048",
+              "name": "Daft Punk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Daft Punk",
+              "id": "875054283443458048",
+              "name": "Daft Punk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "849674653945569284",
+              "name": "EDM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "id": "1285999703704743938",
+              "name": "Dance & electronic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dance",
+              "id": "849674653945569284",
+              "name": "EDM"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Daft Punk",
+              "id": "875054283443458048",
+              "name": "Daft Punk"
+            }
+          }
+        ],
+        "conversation_id": "2067137107890762215",
+        "created_at": "2026-06-17T09:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067177019318923368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qlW395EFI1",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2067177019318923368/photo/1",
+              "media_key": "3_2067176996032184320",
+              "start": 13,
+              "url": "https://t.co/qlW395EFI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177019318923368",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067137107890762215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "躺着听daft punk https://t.co/qlW395EFI1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067137091059011584"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2067137107890762215",
+        "created_at": "2026-06-17T06:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067137107890762215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQcWKl2Zbq",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2067137107890762215/photo/1",
+              "media_key": "3_2067137091059011584",
+              "start": 4,
+              "url": "https://t.co/RQcWKl2Zbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067137107890762215",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 372,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "＞𐋣＜ https://t.co/RQcWKl2Zbq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 509,
+          "like_count": 6116,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 3781
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068715701893021696",
+        "3_2068715701888827392",
+        "3_2068715701901447168"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2068715728975642874",
+    "created_at": "2026-06-21T15:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068715728975642874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1560991861413933056",
+          "start": 10,
+          "username": "belovedquarry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wtgeZTLBNZ",
+          "end": 54,
+          "expanded_url": "https://x.com/uixxixu/status/2068715728975642874/photo/1",
+          "media_key": "3_2068715701893021696",
+          "start": 31,
+          "url": "https://t.co/wtgeZTLBNZ"
+        },
+        {
+          "display_url": "pic.x.com/wtgeZTLBNZ",
+          "end": 54,
+          "expanded_url": "https://x.com/uixxixu/status/2068715728975642874/photo/1",
+          "media_key": "3_2068715701888827392",
+          "start": 31,
+          "url": "https://t.co/wtgeZTLBNZ"
+        },
+        {
+          "display_url": "pic.x.com/wtgeZTLBNZ",
+          "end": 54,
+          "expanded_url": "https://x.com/uixxixu/status/2068715728975642874/photo/1",
+          "media_key": "3_2068715701901447168",
+          "start": 31,
+          "url": "https://t.co/wtgeZTLBNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068715728975642874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好美的项链\n炫耀一下@belovedquarry \n我是蛇妖 https://t.co/wtgeZTLBNZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068715701893021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWN-GibQAAj0-Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2068715701888827392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWN-GhbQAA1mCF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068715701901447168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWN-Gkb0AAEavf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068715701893021696",
+            "3_2068715701888827392",
+            "3_2068715701901447168"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2068715728975642874",
+        "created_at": "2026-06-21T15:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068715728975642874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1560991861413933056",
+              "start": 10,
+              "username": "belovedquarry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wtgeZTLBNZ",
+              "end": 54,
+              "expanded_url": "https://x.com/uixxixu/status/2068715728975642874/photo/1",
+              "media_key": "3_2068715701893021696",
+              "start": 31,
+              "url": "https://t.co/wtgeZTLBNZ"
+            },
+            {
+              "display_url": "pic.x.com/wtgeZTLBNZ",
+              "end": 54,
+              "expanded_url": "https://x.com/uixxixu/status/2068715728975642874/photo/1",
+              "media_key": "3_2068715701888827392",
+              "start": 31,
+              "url": "https://t.co/wtgeZTLBNZ"
+            },
+            {
+              "display_url": "pic.x.com/wtgeZTLBNZ",
+              "end": 54,
+              "expanded_url": "https://x.com/uixxixu/status/2068715728975642874/photo/1",
+              "media_key": "3_2068715701901447168",
+              "start": 31,
+              "url": "https://t.co/wtgeZTLBNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068715728975642874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好美的项链\n炫耀一下@belovedquarry \n我是蛇妖 https://t.co/wtgeZTLBNZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 513,
+          "like_count": 6216,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 3835
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T14:07:28.000Z",
+        "description": "你可以叫我摩尔｜Aspie｜hyper-reactive｜精神病转健全｜lesbian｜devil cry｜本质是高压电有机玻璃｜药物滥用、烟、酒｜文豪鬣犬，掏肛门抠人肠子吃｜关取随意｜小摩尔恋爱中！",
+        "id": "1560991861413933056",
+        "location": "海拉鲁大陆",
+        "name": "破喉咙骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560992274435428352/_l_rnZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 157,
+          "like_count": 851,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1618
+        },
+        "url": "",
+        "username": "belovedquarry",
+        "verified": false
+      }
+    ]
+  }
+}

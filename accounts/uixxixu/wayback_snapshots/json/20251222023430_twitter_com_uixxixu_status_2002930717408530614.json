@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2002930717408530614",
+    "created_at": "2025-12-22T02:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T03:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002930717408530614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1947177151289237504",
+          "start": 3,
+          "username": "ynaid0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002930717408530614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002596112365224374",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ynaid0908: 前途一片黑暗，黑黑的 我刚好睡觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2002930717408530614",
+        "created_at": "2025-12-22T02:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T03:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002930717408530614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1947177151289237504",
+              "start": 3,
+              "username": "ynaid0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002930717408530614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002596112365224374",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ynaid0908: 前途一片黑暗，黑黑的 我刚好睡觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947177151289237504",
+        "conversation_id": "2002596112365224374",
+        "created_at": "2025-12-21T04:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T05:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002596112365224374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002596112365224374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1466,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "前途一片黑暗，黑黑的 我刚好睡觉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 102,
+          "like_count": 639,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 242
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-21T06:10:40.000Z",
+        "description": "现生很糟糕 请别对我抱期望幻想 /\n世界上另一个我：@Siyanlan1017  ⚠️全是负面和发疯 眼熟会过/陌生人骚扰④全家/当日记本用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Siyanlan1017"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ynaid0908",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ynaid0908",
+                "start": 0,
+                "url": "https://t.co/h0J880uget"
+              }
+            ]
+          }
+        },
+        "id": "1947177151289237504",
+        "location": "171cm/46kg ",
+        "name": "随桦小桦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000206880321531905/jczNRZzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 140,
+          "like_count": 10314,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/h0J880uget",
+        "username": "ynaid0908",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059157002081939456"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2059157009598222538",
+    "created_at": "2026-05-26T06:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T07:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059157009598222538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qJKXy3KKcf",
+          "end": 49,
+          "expanded_url": "https://x.com/uixxixu/status/2059157009598222538/photo/1",
+          "media_key": "3_2059157002081939456",
+          "start": 26,
+          "url": "https://t.co/qJKXy3KKcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059157009598222538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上一次的短白金色头发\n（蹲姿）\n这个发色真的很上镜 https://t.co/qJKXy3KKcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_2059157002081939456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJOYYi3aMAAV3kE.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059157002081939456"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2059157009598222538",
+        "created_at": "2026-05-26T06:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059157009598222538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qJKXy3KKcf",
+              "end": 49,
+              "expanded_url": "https://x.com/uixxixu/status/2059157009598222538/photo/1",
+              "media_key": "3_2059157002081939456",
+              "start": 26,
+              "url": "https://t.co/qJKXy3KKcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059157009598222538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上一次的短白金色头发\n（蹲姿）\n这个发色真的很上镜 https://t.co/qJKXy3KKcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 445,
+          "like_count": 5547,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3251
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

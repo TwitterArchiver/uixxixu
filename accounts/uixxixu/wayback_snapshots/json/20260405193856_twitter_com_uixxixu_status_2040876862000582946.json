@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2040870595441873290",
+    "created_at": "2026-04-05T19:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T20:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040876862000582946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1656717594743947265",
+          "start": 0,
+          "username": "Tong91976037597"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040876862000582946",
+    "in_reply_to_user_id": "1656717594743947265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040875388495335527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tong91976037597 这个东西我不买好多年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2040870595441873290",
+        "created_at": "2026-04-05T19:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040876862000582946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656717594743947265",
+              "start": 0,
+              "username": "Tong91976037597"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040876862000582946",
+        "in_reply_to_user_id": "1656717594743947265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040875388495335527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tong91976037597 这个东西我不买好多年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656717594743947265",
+        "conversation_id": "2040870595441873290",
+        "created_at": "2026-04-05T19:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T20:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040875388495335527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040875388495335527",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040870595441873290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 队友你🌿哪买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 273,
+          "like_count": 4286,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2254
+        },
+        "username": "uixxixu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-11T17:47:18.000Z",
+        "description": "",
+        "id": "1656717594743947265",
+        "name": "。 Tong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656717632069074944/KeiOMwEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Tong91976037597",
+        "verified": false
+      }
+    ]
+  }
+}

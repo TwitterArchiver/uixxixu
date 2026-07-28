@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2004371913125384555",
+    "created_at": "2025-12-26T02:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T03:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004371913125384555"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004371913125384555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我说“喜欢你”这句话的时候，他叫得最兴奋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2004371913125384555",
+        "created_at": "2025-12-26T02:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004371913125384555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004371913125384555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说“喜欢你”这句话的时候，他叫得最兴奋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "2003285496676642857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709456648122368/F6HXQJOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 111,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 292
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

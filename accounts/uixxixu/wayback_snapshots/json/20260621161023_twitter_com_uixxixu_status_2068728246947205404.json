@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2068728068911612344",
+    "created_at": "2026-06-21T16:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068728246947205404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2068728246947205404",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068728068911612344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我家是水帘洞所以没关系的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6121,
+        "height": 1280,
+        "media_key": "13_2068728000842260480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068728000842260480/img/GzeDDKIRT2ce7gPN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068728000842260480/vid/avc1/320x568/1pha7DPhYXqzh5Ns.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068728000842260480/vid/avc1/480x852/GEQ0oF0VPF6iAPVb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068728000842260480/vid/avc1/720x1280/oTGkSwlZkGlr7v2W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068728000842260480/pl/KcWz_mM5jcTMJHUW.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068728000817065984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWZJ_ma8AAbfI8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2068728068911612344",
+        "created_at": "2026-06-21T16:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068728246947205404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068728246947205404",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068728068911612344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我家是水帘洞所以没关系的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068728000842260480",
+            "3_2068728000817065984"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068728068911612344",
+        "created_at": "2026-06-21T16:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068728068911612344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7HDHzmcOc",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2068728068911612344/video/1",
+              "media_key": "13_2068728000842260480",
+              "start": 12,
+              "url": "https://t.co/h7HDHzmcOc"
+            },
+            {
+              "display_url": "pic.x.com/h7HDHzmcOc",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2068728068911612344/video/1",
+              "media_key": "3_2068728000817065984",
+              "start": 12,
+              "url": "https://t.co/h7HDHzmcOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068728068911612344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天啊我家出现了水母在飞 https://t.co/h7HDHzmcOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 513,
+          "like_count": 6214,
+          "listed_count": 0,
+          "media_count": 282,
+          "tweet_count": 3840
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2035571256033153430",
+    "created_at": "2026-03-22T06:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T07:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035603460603945212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968205301410304002",
+          "start": 0,
+          "username": "lingyang01444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035603460603945212",
+    "in_reply_to_user_id": "1968205301410304002",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035571256033153430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingyang01444 ……？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12800,
+        "height": 960,
+        "media_key": "13_2035571010565820416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035571010565820416/img/tivqSa-GxxJjOK_U.jpg",
+        "public_metrics": {
+          "view_count": 520
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035571010565820416/vid/avc1/320x426/LSLbvryHRvhugEdE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035571010565820416/vid/avc1/480x640/gascGhzPB08VIHkn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035571010565820416/vid/avc1/720x960/JOmv5apx4kwgKdMz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035571010565820416/pl/dhGejjjHCWk-dTjR.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2035571256033153430",
+        "created_at": "2026-03-22T06:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035603460603945212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968205301410304002",
+              "start": 0,
+              "username": "lingyang01444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035603460603945212",
+        "in_reply_to_user_id": "1968205301410304002",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035571256033153430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingyang01444 ……？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035571010565820416"
+          ]
+        },
+        "author_id": "1968205301410304002",
+        "conversation_id": "2035571256033153430",
+        "created_at": "2026-03-22T04:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T05:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035571256033153430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAiL8TnOKa",
+              "end": 41,
+              "expanded_url": "https://x.com/lingyang01444/status/2035571256033153430/video/1",
+              "media_key": "13_2035571010565820416",
+              "start": 18,
+              "url": "https://t.co/GAiL8TnOKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035571256033153430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1220,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "魔法香烟：叶子🍃看到的大概就是这样 https://t.co/GAiL8TnOKa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 240,
+          "like_count": 3870,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2008
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T06:48:20.000Z",
+        "description": "BlackSheep-血羊｜武汉轻工本科｜以身入局药物实验",
+        "id": "1968205301410304002",
+        "location": "日本 東京",
+        "name": "⛧羚羊⛧ antelope ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028684641281150977/nalkhB6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 1034,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 93
+        },
+        "username": "lingyang01444",
+        "verified": false
+      }
+    ]
+  }
+}

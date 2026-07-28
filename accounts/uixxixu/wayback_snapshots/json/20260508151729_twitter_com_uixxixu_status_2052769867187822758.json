@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052769857868034048"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052769867187822758",
+    "created_at": "2026-05-08T15:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052769867187822758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NNO2zVEgvP",
+          "end": 35,
+          "expanded_url": "https://x.com/uixxixu/status/2052769867187822758/photo/1",
+          "media_key": "3_2052769857868034048",
+          "start": 12,
+          "url": "https://t.co/NNO2zVEgvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052769867187822758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次吃到 拜托有药效 https://t.co/NNO2zVEgvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052769857868034048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHznT0facAAsj_p.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052769857868034048"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052769867187822758",
+        "created_at": "2026-05-08T15:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052769867187822758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNO2zVEgvP",
+              "end": 35,
+              "expanded_url": "https://x.com/uixxixu/status/2052769867187822758/photo/1",
+              "media_key": "3_2052769857868034048",
+              "start": 12,
+              "url": "https://t.co/NNO2zVEgvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052769867187822758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次吃到 拜托有药效 https://t.co/NNO2zVEgvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 361,
+          "like_count": 5201,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2861
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

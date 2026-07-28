@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2024796764692480077",
+    "created_at": "2026-02-21T03:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025049659111342268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944718307808206848",
+          "start": 0,
+          "username": "YukinoTxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025049659111342268",
+    "in_reply_to_user_id": "1944718307808206848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024796764692480077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinoTxT 什！……你180吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2024796764692480077",
+        "created_at": "2026-02-21T03:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025049659111342268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944718307808206848",
+              "start": 0,
+              "username": "YukinoTxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025049659111342268",
+        "in_reply_to_user_id": "1944718307808206848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024796764692480077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinoTxT 什！……你180吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944718307808206848",
+        "conversation_id": "2024796764692480077",
+        "created_at": "2026-02-20T10:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024796764692480077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024796764692480077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1253,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当时很痛苦呀明明想要变成很可爱的地雷妹但是变成了180矿工地雷呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 56,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 33,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 207,
+          "like_count": 3242,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1742
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T11:19:20.000Z",
+        "description": "*^^* 我是小寻/Yukino ❕自残od自毁精神病❕密友 @futi999139732",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "futi999139732"
+              }
+            ]
+          }
+        },
+        "id": "1944718307808206848",
+        "name": "好想吃🫐巴菲",
+        "pinned_tweet_id": "1999183040820736078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024806140111196160/XbqSrOmG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 78,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 453
+        },
+        "username": "YukinoTxT",
+        "verified": false
+      }
+    ]
+  }
+}

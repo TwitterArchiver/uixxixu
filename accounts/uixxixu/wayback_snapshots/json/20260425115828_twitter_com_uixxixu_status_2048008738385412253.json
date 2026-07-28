@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2047982284629066159",
+    "created_at": "2026-04-25T11:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048008738385412253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1625403583649705986",
+          "start": 0,
+          "username": "yuxo0004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048008738385412253",
+    "in_reply_to_user_id": "1625403583649705986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047982284629066159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxo0004 小郁 和朋友都好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047982276466929664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvlB58bcAA5Vv2.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2047982284629066159",
+        "created_at": "2026-04-25T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048008738385412253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1625403583649705986",
+              "start": 0,
+              "username": "yuxo0004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048008738385412253",
+        "in_reply_to_user_id": "1625403583649705986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047982284629066159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxo0004 小郁 和朋友都好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047982276466929664"
+          ]
+        },
+        "author_id": "1625403583649705986",
+        "conversation_id": "2047982284629066159",
+        "created_at": "2026-04-25T10:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047982284629066159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jP0uVcoBT2",
+              "end": 23,
+              "expanded_url": "https://x.com/yuxo0004/status/2047982284629066159/photo/1",
+              "media_key": "3_2047982276466929664",
+              "start": 0,
+              "url": "https://t.co/jP0uVcoBT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047982284629066159",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jP0uVcoBT2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 317,
+          "like_count": 4835,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2583
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T07:56:41.000Z",
+        "description": "🇨🇳🇯🇵od自伤/友跨 顺女/ 泛性恋 /穿孔/ 🚪88",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuxo0004",
+                "end": 23,
+                "expanded_url": "https://t.me/yuxo0004",
+                "start": 0,
+                "url": "https://t.co/6mDH8HZhIL"
+              }
+            ]
+          }
+        },
+        "id": "1625403583649705986",
+        "location": "2.7km",
+        "name": "郁子",
+        "pinned_tweet_id": "1827744049031413935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784337849749590016/5XfvtNA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 408,
+          "like_count": 4337,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 2555
+        },
+        "url": "https://t.co/6mDH8HZhIL",
+        "username": "yuxo0004",
+        "verified": false
+      }
+    ]
+  }
+}

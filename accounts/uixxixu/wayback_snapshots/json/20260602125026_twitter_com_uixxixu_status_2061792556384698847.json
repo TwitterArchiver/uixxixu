@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2061792556384698847",
+    "created_at": "2026-06-02T12:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061792556384698847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kk_paqu/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/kk_paqu/status/2061790556775240018",
+          "start": 13,
+          "url": "https://t.co/WpyubeEAUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061792556384698847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061790556775240018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小盐归来了…互关回来吧！ https://t.co/WpyubeEAUS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2061792556384698847",
+        "created_at": "2026-06-02T12:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061792556384698847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kk_paqu/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/kk_paqu/status/2061790556775240018",
+              "start": 13,
+              "url": "https://t.co/WpyubeEAUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061792556384698847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061790556775240018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小盐归来了…互关回来吧！ https://t.co/WpyubeEAUS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733217384050384896",
+        "conversation_id": "2061790556775240018",
+        "created_at": "2026-06-02T12:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061790556775240018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061790556775240018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又来了\n大家我想你们\n我是盐制肉鸦\n不卖斯莫克了同行举报\n我本来也不是拿来竞争的\n我本身的精神病行为被拿着举报\n我没有树敌 也没有任何被点的理由\n自从接管小树的工作我一直被举报\n我不干了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 458,
+          "like_count": 5887,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 3530
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 51,
+          "like_count": 120,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 83
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

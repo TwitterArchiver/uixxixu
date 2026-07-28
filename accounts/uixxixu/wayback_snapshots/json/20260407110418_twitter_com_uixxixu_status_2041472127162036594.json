@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2041455331956650195",
+    "created_at": "2026-04-07T11:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041472127162036594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036099373608968192",
+          "start": 0,
+          "username": "szh80268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041472127162036594",
+    "in_reply_to_user_id": "2036099373608968192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041466700080742627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szh80268 谢谢谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2041455331956650195",
+        "created_at": "2026-04-07T11:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041472127162036594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036099373608968192",
+              "start": 0,
+              "username": "szh80268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041472127162036594",
+        "in_reply_to_user_id": "2036099373608968192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041466700080742627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szh80268 谢谢谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036099373608968192",
+        "conversation_id": "2041455331956650195",
+        "created_at": "2026-04-07T10:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T11:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041466700080742627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041466700080742627",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041455331956650195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 好好看的衣服呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 275,
+          "like_count": 4390,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2325
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T15:15:03.000Z",
+        "description": "沒事可以找我聊天喔",
+        "id": "2036099373608968192",
+        "name": "素直",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036859816908619776/LYTzS830_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 87,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 378
+        },
+        "username": "szh80268",
+        "verified": false
+      }
+    ]
+  }
+}

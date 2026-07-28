@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066089554701099008"
+      ],
+      "media_source_tweet_id": [
+        "2066089559927169141"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2066470730326589894",
+    "created_at": "2026-06-15T10:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066470730326589894"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 40,
+          "tag": "棉花糖"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "飘飘糖"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "drugtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384831606276476930",
+          "start": 3,
+          "username": "Xxx_kkkl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vorsVZxNPx",
+          "end": 82,
+          "expanded_url": "https://x.com/Xxx_kkkl/status/2066089559927169141/photo/1",
+          "media_key": "3_2066089554701099008",
+          "start": 59,
+          "url": "https://t.co/vorsVZxNPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066470730326589894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066089559927169141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxx_kkkl: 我们迎来了解离之神……\n（已严格教育安全用药知识）\n#棉花糖 #飘飘糖 #drugtwt https://t.co/vorsVZxNPx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_2066089554701099008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw5gN4aoAAjkSX.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066089554701099008"
+          ],
+          "media_source_tweet_id": [
+            "2066089559927169141"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2066470730326589894",
+        "created_at": "2026-06-15T10:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066470730326589894"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "棉花糖"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "飘飘糖"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "drugtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384831606276476930",
+              "start": 3,
+              "username": "Xxx_kkkl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vorsVZxNPx",
+              "end": 82,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066089559927169141/photo/1",
+              "media_key": "3_2066089554701099008",
+              "start": 59,
+              "url": "https://t.co/vorsVZxNPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066470730326589894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066089559927169141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxx_kkkl: 我们迎来了解离之神……\n（已严格教育安全用药知识）\n#棉花糖 #飘飘糖 #drugtwt https://t.co/vorsVZxNPx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066089554701099008"
+          ]
+        },
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066089559927169141",
+        "created_at": "2026-06-14T09:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066089559927169141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "棉花糖"
+            },
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "飘飘糖"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vorsVZxNPx",
+              "end": 68,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066089559927169141/photo/1",
+              "media_key": "3_2066089554701099008",
+              "start": 45,
+              "url": "https://t.co/vorsVZxNPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066089559927169141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7345,
+          "like_count": 39,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们迎来了解离之神……\n（已严格教育安全用药知识）\n#棉花糖 #飘飘糖 #drugtwt https://t.co/vorsVZxNPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 498,
+          "like_count": 6107,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3741
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "一个违背道德良知的神棍。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/MFy5tkgAMP"
+              }
+            ]
+          }
+        },
+        "id": "1384831606276476930",
+        "name": "Jahseh 🆁🅲（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066401126182981632/EqAfAy5v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 77,
+          "like_count": 57,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/MFy5tkgAMP",
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

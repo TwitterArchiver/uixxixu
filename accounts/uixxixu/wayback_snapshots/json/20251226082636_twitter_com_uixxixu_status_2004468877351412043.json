@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2004468877351412043",
+    "created_at": "2025-12-26T08:26:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T09:26:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004468877351412043"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004468877351412043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不搞哥特了！穿个衣服好麻烦！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2004468877351412043",
+        "created_at": "2025-12-26T08:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004468877351412043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004468877351412043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不搞哥特了！穿个衣服好麻烦！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "2003285496676642857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709456648122368/F6HXQJOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 113,
+          "like_count": 755,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 297
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

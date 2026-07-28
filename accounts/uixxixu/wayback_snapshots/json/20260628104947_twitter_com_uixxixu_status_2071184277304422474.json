@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2071184277304422474",
+    "created_at": "2026-06-28T10:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071184277304422474"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/float421_ovo/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/float421_ovo/status/2070866922875629904",
+          "start": 15,
+          "url": "https://t.co/e1MPk7EAqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071184277304422474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070866922875629904",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这张图有点我昨天想表达的意思 https://t.co/e1MPk7EAqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1076,
+        "media_key": "3_2070866918773530624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0yfZ6aoAAh79s.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2071184277304422474",
+        "created_at": "2026-06-28T10:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071184277304422474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/float421_ovo/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/float421_ovo/status/2070866922875629904",
+              "start": 15,
+              "url": "https://t.co/e1MPk7EAqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071184277304422474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070866922875629904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张图有点我昨天想表达的意思 https://t.co/e1MPk7EAqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070866918773530624"
+          ]
+        },
+        "author_id": "1971992965141954560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070866922875629904",
+        "created_at": "2026-06-27T13:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070866922875629904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wvY9JZoKgr",
+              "end": 59,
+              "expanded_url": "https://x.com/float421_ovo/status/2070866922875629904/photo/1",
+              "media_key": "3_2070866918773530624",
+              "start": 36,
+              "url": "https://t.co/wvY9JZoKgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070866922875629904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(笑点解析：最右边三个分子结构式分别为右美沙芬，甲基苯丙胺，海洛因。) https://t.co/wvY9JZoKgr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 522,
+          "like_count": 6307,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 3976
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T17:39:04.000Z",
+        "description": "闺蜜，我喝蜜雪冰城去了，不要打扰我                                 \n苯二氮卓重度依赖😋互fo互fo来来来😋",
+        "id": "1971992965141954560",
+        "name": "F_loat浮潜",
+        "pinned_tweet_id": "2070866922875629904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022923008701304832/NlyisUnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 285,
+          "like_count": 4749,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1064
+        },
+        "url": "",
+        "username": "float421_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

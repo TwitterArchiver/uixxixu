@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038659394267697152",
+        "3_2038659394444132353",
+        "3_2038659394271940608",
+        "3_2038659394276065280"
+      ],
+      "media_source_tweet_id": [
+        "2038659400114565258",
+        "2038659400114565258",
+        "2038659400114565258",
+        "2038659400114565258"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2038729623127928901",
+    "created_at": "2026-03-30T21:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T22:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038729623127928901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781696612437200896",
+          "start": 3,
+          "username": "AMLOgamer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbmsftNll7",
+          "end": 79,
+          "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+          "media_key": "3_2038659394267697152",
+          "start": 56,
+          "url": "https://t.co/jbmsftNll7"
+        },
+        {
+          "display_url": "pic.x.com/jbmsftNll7",
+          "end": 79,
+          "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+          "media_key": "3_2038659394444132353",
+          "start": 56,
+          "url": "https://t.co/jbmsftNll7"
+        },
+        {
+          "display_url": "pic.x.com/jbmsftNll7",
+          "end": 79,
+          "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+          "media_key": "3_2038659394271940608",
+          "start": 56,
+          "url": "https://t.co/jbmsftNll7"
+        },
+        {
+          "display_url": "pic.x.com/jbmsftNll7",
+          "end": 79,
+          "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+          "media_key": "3_2038659394276065280",
+          "start": 56,
+          "url": "https://t.co/jbmsftNll7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038729623127928901",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038659400114565258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMLOgamer: bong rip commissions got me through 2023 https://t.co/jbmsftNll7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1045,
+        "media_key": "3_2038659394267697152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErF6vVW0AAcNEh.jpg",
+        "width": 1052
+      },
+      {
+        "height": 809,
+        "media_key": "3_2038659394444132353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErF6v_bAAELdrH.jpg",
+        "width": 1182
+      },
+      {
+        "height": 528,
+        "media_key": "3_2038659394271940608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErF6vWXkAAXJy5.jpg",
+        "width": 578
+      },
+      {
+        "height": 721,
+        "media_key": "3_2038659394276065280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErF6vXWgAAym82.jpg",
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038659394267697152",
+            "3_2038659394444132353",
+            "3_2038659394271940608",
+            "3_2038659394276065280"
+          ],
+          "media_source_tweet_id": [
+            "2038659400114565258",
+            "2038659400114565258",
+            "2038659400114565258",
+            "2038659400114565258"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2038729623127928901",
+        "created_at": "2026-03-30T21:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T22:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038729623127928901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781696612437200896",
+              "start": 3,
+              "username": "AMLOgamer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 79,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394267697152",
+              "start": 56,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 79,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394444132353",
+              "start": 56,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 79,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394271940608",
+              "start": 56,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 79,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394276065280",
+              "start": 56,
+              "url": "https://t.co/jbmsftNll7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038729623127928901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038659400114565258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMLOgamer: bong rip commissions got me through 2023 https://t.co/jbmsftNll7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038659394267697152",
+            "3_2038659394444132353",
+            "3_2038659394271940608",
+            "3_2038659394276065280"
+          ]
+        },
+        "author_id": "1781696612437200896",
+        "conversation_id": "2038659400114565258",
+        "created_at": "2026-03-30T16:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038659400114565258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 64,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394267697152",
+              "start": 41,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 64,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394444132353",
+              "start": 41,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 64,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394271940608",
+              "start": 41,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "pic.x.com/jbmsftNll7",
+              "end": 64,
+              "expanded_url": "https://x.com/AMLOgamer/status/2038659400114565258/photo/1",
+              "media_key": "3_2038659394276065280",
+              "start": 41,
+              "url": "https://t.co/jbmsftNll7"
+            },
+            {
+              "display_url": "x.com/adorek4rma/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/adorek4rma/status/2038428525976228038",
+              "start": 65,
+              "url": "https://t.co/UUFIObPWuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038659400114565258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 893,
+          "impression_count": 90157,
+          "like_count": 7043,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038428525976228038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bong rip commissions got me through 2023 https://t.co/jbmsftNll7 https://t.co/UUFIObPWuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 247,
+          "like_count": 4069,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2101
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T14:49:13.000Z",
+        "description": "digital artist/goonslop artisan\n🔞➡️https://t.co/zD3q9ZSOMt\nCommissions: https://t.co/4nuAgHjFS4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/AMLOgamer",
+                "end": 58,
+                "expanded_url": "http://patreon.com/AMLOgamer",
+                "start": 35,
+                "url": "https://t.co/zD3q9ZSOMt"
+              },
+              {
+                "display_url": "ko-fi.com/c/11eefe0627",
+                "end": 95,
+                "expanded_url": "https://ko-fi.com/c/11eefe0627",
+                "start": 72,
+                "url": "https://t.co/4nuAgHjFS4"
+              }
+            ]
+          }
+        },
+        "id": "1781696612437200896",
+        "location": "🇲🇽 México",
+        "name": "AMLOgamer🇲🇽 (COMMS FULL)",
+        "pinned_tweet_id": "2026438140966146182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026439893803544576/_xZkA5pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158049,
+          "following_count": 304,
+          "like_count": 12760,
+          "listed_count": 410,
+          "media_count": 528,
+          "tweet_count": 844
+        },
+        "username": "AMLOgamer",
+        "verified": true
+      }
+    ]
+  }
+}

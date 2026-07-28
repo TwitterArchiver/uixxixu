@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2065104467599802772",
+    "created_at": "2026-06-11T17:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065127218842636500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 19,
+          "id": "1733217384050384896",
+          "start": 11,
+          "username": "KK_Paqu"
+        },
+        {
+          "end": 33,
+          "id": "1874756593616891904",
+          "start": 20,
+          "username": "mossneverdie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065127218842636500",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065111680347201995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me @KK_Paqu @mossneverdie 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2065104467599802772",
+        "created_at": "2026-06-11T17:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065127218842636500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 19,
+              "id": "1733217384050384896",
+              "start": 11,
+              "username": "KK_Paqu"
+            },
+            {
+              "end": 33,
+              "id": "1874756593616891904",
+              "start": 20,
+              "username": "mossneverdie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065127218842636500",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065111680347201995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me @KK_Paqu @mossneverdie 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2065104467599802772",
+        "created_at": "2026-06-11T16:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065111680347201995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            },
+            {
+              "end": 17,
+              "id": "1128010587089264640",
+              "start": 9,
+              "username": "uixxixu"
+            },
+            {
+              "end": 31,
+              "id": "1874756593616891904",
+              "start": 18,
+              "username": "mossneverdie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065111680347201995",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065104467599802772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu @uixxixu @mossneverdie 好幸福呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 486,
+          "like_count": 6012,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 3668
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "什么都发不为任何言行负责｜讨厌我请直接b我对他人同理｜只回fo感兴趣的｜备用机@0voki33Me2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "0voki33Me2"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "im 静 J!!N6",
+        "name": "4w4y",
+        "pinned_tweet_id": "2058780849882231278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 1167,
+          "like_count": 6750,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 6808
+        },
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 167,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 422
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T09:56:25.000Z",
+        "description": "坐标成都！求金主 给钱什么猎奇sm都能做 微信ginhiji1005love也可加v后过门🚪55加微信/88+五擦边图+可约/188+luo照/1314不太可能所以我不梦了喵✞（口令红包/置顶收款码都能给了后私我加我wx）",
+        "id": "1874756593616891904",
+        "location": "成都",
+        "name": "🔞想死更想留巴黎🔞",
+        "pinned_tweet_id": "2004558554792079723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919631170717024262/cC3Kglti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 570,
+          "like_count": 2920,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 384
+        },
+        "username": "mossneverdie",
+        "verified": false
+      }
+    ]
+  }
+}

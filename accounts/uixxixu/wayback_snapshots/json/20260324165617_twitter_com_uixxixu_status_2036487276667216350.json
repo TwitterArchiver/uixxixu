@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2036474966020153502",
+    "created_at": "2026-03-24T16:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T17:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036487276667216350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1832308955852500995",
+          "start": 0,
+          "username": "hikari_11111111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036487276667216350",
+    "in_reply_to_user_id": "1832308955852500995",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036474966020153502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikari_11111111 啧啧小明"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036474966020153502].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036474966020153502",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036474966020153502"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2036474966020153502",
+        "created_at": "2026-03-24T16:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036487276667216350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1832308955852500995",
+              "start": 0,
+              "username": "hikari_11111111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036487276667216350",
+        "in_reply_to_user_id": "1832308955852500995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036474966020153502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikari_11111111 啧啧小明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 248,
+          "like_count": 3978,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2070
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-07T06:44:41.000Z",
+        "description": "北京 男 之后可能很少出cos了…如果想入我门直接私信我就好了 🚪52/150 想和我聊天也可以私信和我聊 私信都会回的 我话真的特别多 谢谢你们！ 这个是我的提问箱https://t.co/3GY8ZKfTkj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akira19923",
+                "end": 106,
+                "expanded_url": "https://ngl.link/akira19923",
+                "start": 83,
+                "url": "https://t.co/3GY8ZKfTkj"
+              }
+            ]
+          }
+        },
+        "id": "1832308955852500995",
+        "name": "太阳雨",
+        "pinned_tweet_id": "2015062038540890326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024389844026445824/RM3Lvm7m_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 208,
+          "like_count": 2040,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 1806
+        },
+        "username": "hikari_11111111",
+        "verified": false
+      }
+    ]
+  }
+}

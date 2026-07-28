@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2012197416154386786",
+    "created_at": "2026-01-16T16:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012199704671527261"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012199704671527261",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012197416154386786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还是有底线的吧，我还是没有彻底沉沦在欲望里。还是说只是我不想接受多余的其他代价"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 181,
+        "media_key": "3_2012197409255002112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zC4fSbEAAEkv7.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2012197416154386786",
+        "created_at": "2026-01-16T16:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012199704671527261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012199704671527261",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012197416154386786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还是有底线的吧，我还是没有彻底沉沦在欲望里。还是说只是我不想接受多余的其他代价"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012197409255002112"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2012197416154386786",
+        "created_at": "2026-01-16T16:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012197416154386786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4aoRZDnCb",
+              "end": 44,
+              "expanded_url": "https://x.com/uixxixu/status/2012197416154386786/photo/1",
+              "media_key": "3_2012197409255002112",
+              "start": 21,
+              "url": "https://t.co/H4aoRZDnCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012197416154386786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还没有那么糟糕吗……永远会有更糟的选择吧 https://t.co/H4aoRZDnCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2010612646484328877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 127,
+          "like_count": 1838,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 862
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

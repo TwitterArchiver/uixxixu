@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057705681780973568",
+        "3_2057705681814519808",
+        "3_2057705681776754688"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057705689628475459",
+    "created_at": "2026-05-22T06:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057705689628475459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GWa4mCjAD1",
+          "end": 55,
+          "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+          "media_key": "3_2057705681780973568",
+          "start": 32,
+          "url": "https://t.co/GWa4mCjAD1"
+        },
+        {
+          "display_url": "pic.x.com/GWa4mCjAD1",
+          "end": 55,
+          "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+          "media_key": "3_2057705681814519808",
+          "start": 32,
+          "url": "https://t.co/GWa4mCjAD1"
+        },
+        {
+          "display_url": "pic.x.com/GWa4mCjAD1",
+          "end": 55,
+          "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+          "media_key": "3_2057705681776754688",
+          "start": 32,
+          "url": "https://t.co/GWa4mCjAD1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057705689628475459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "八重神子\n\n对了健全人不用关注我 \n我只是发发以前的cos照片 https://t.co/GWa4mCjAD1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2057705681780973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5walbboAAvKBz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1577,
+        "media_key": "3_2057705681814519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5waljbgAAUBvK.jpg",
+        "width": 1145
+      },
+      {
+        "height": 885,
+        "media_key": "3_2057705681776754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5walabQAA2Ak5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057705681780973568",
+            "3_2057705681814519808",
+            "3_2057705681776754688"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057705689628475459",
+        "created_at": "2026-05-22T06:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057705689628475459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681780973568",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            },
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681814519808",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            },
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681776754688",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057705689628475459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八重神子\n\n对了健全人不用关注我 \n我只是发发以前的cos照片 https://t.co/GWa4mCjAD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 426,
+          "like_count": 5446,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3150
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

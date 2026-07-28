@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2053147346847064148",
+    "created_at": "2026-05-09T17:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053165739277004996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999068389864865794",
+          "start": 0,
+          "username": "0voki33Me2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053165739277004996",
+    "in_reply_to_user_id": "1999068389864865794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053154572189983211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me2 哎一坨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2053147346847064148",
+        "created_at": "2026-05-09T17:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053165739277004996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999068389864865794",
+              "start": 0,
+              "username": "0voki33Me2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053165739277004996",
+        "in_reply_to_user_id": "1999068389864865794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053154572189983211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me2 哎一坨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999068389864865794",
+        "conversation_id": "2053147346847064148",
+        "created_at": "2026-05-09T16:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T17:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053154572189983211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053154572189983211",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053147346847064148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 呃对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 373,
+          "like_count": 5217,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2890
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T10:47:14.000Z",
+        "description": "大号@0voki33Me\n\n来这里大概率是被冻了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "0voki33Me"
+              }
+            ]
+          }
+        },
+        "id": "1999068389864865794",
+        "name": "J11NG",
+        "pinned_tweet_id": "1999387919614873632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999341990119636996/dagPjNfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 103,
+          "like_count": 141,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 138
+        },
+        "username": "0voki33Me2",
+        "verified": false
+      }
+    ]
+  }
+}

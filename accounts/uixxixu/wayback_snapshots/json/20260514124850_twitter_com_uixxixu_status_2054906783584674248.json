@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2054887197200019644",
+    "created_at": "2026-05-14T12:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054906783584674248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632832954421633029",
+          "start": 0,
+          "username": "482xxnay"
+        },
+        {
+          "end": 20,
+          "id": "1949348575378644992",
+          "start": 10,
+          "username": "Ace_Purin"
+        },
+        {
+          "end": 37,
+          "id": "1801534903626121216",
+          "start": 21,
+          "username": "qngshu988723424"
+        },
+        {
+          "end": 49,
+          "id": "1799795163843436544",
+          "start": 38,
+          "username": "BeetiIsDog"
+        },
+        {
+          "end": 62,
+          "id": "2022371961503092736",
+          "start": 50,
+          "username": "asusu593407"
+        },
+        {
+          "end": 77,
+          "id": "1560991861413933056",
+          "start": 63,
+          "username": "belovedquarry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054906783584674248",
+    "in_reply_to_user_id": "1632832954421633029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054887197200019644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@482xxnay @Ace_Purin @qngshu988723424 @BeetiIsDog @asusu593407 @belovedquarry 好可爱的汉堡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054887188203216896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRtAqpaoAAWF_S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2054887197200019644",
+        "created_at": "2026-05-14T12:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054906783584674248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            },
+            {
+              "end": 20,
+              "id": "1949348575378644992",
+              "start": 10,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 37,
+              "id": "1801534903626121216",
+              "start": 21,
+              "username": "qngshu988723424"
+            },
+            {
+              "end": 49,
+              "id": "1799795163843436544",
+              "start": 38,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 62,
+              "id": "2022371961503092736",
+              "start": 50,
+              "username": "asusu593407"
+            },
+            {
+              "end": 77,
+              "id": "1560991861413933056",
+              "start": 63,
+              "username": "belovedquarry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054906783584674248",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054887197200019644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@482xxnay @Ace_Purin @qngshu988723424 @BeetiIsDog @asusu593407 @belovedquarry 好可爱的汉堡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054887188203216896"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2054887197200019644",
+        "created_at": "2026-05-14T11:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054887197200019644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1949348575378644992",
+              "start": 15,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 53,
+              "id": "1801534903626121216",
+              "start": 37,
+              "username": "qngshu988723424"
+            },
+            {
+              "end": 76,
+              "id": "1799795163843436544",
+              "start": 65,
+              "username": "BeetiIsDog"
+            },
+            {
+              "end": 89,
+              "id": "2022371961503092736",
+              "start": 77,
+              "username": "asusu593407"
+            },
+            {
+              "end": 104,
+              "id": "1560991861413933056",
+              "start": 90,
+              "username": "belovedquarry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gqbnu73mfo",
+              "end": 139,
+              "expanded_url": "https://x.com/482xxnay/status/2054887197200019644/photo/1",
+              "media_key": "3_2054887188203216896",
+              "start": 116,
+              "url": "https://t.co/Gqbnu73mfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054887197200019644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "开奖了开奖了\n随机滑动\n一等奖@Ace_Purin 记得私信我宝宝\n二等奖@qngshu988723424 私信我tb代付\n三等奖@BeetiIsDog @asusu593407 @belovedquarry  口令红包或者赞赏码 https://t.co/Gqbnu73mfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 394,
+          "like_count": 5302,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2958
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 每天18:30截单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 525,
+          "like_count": 3892,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 4208
+        },
+        "username": "482xxnay",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 208,
+          "like_count": 2558,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的，然后就是吧我现在打算那个，我认真写一下简介吧但是呢，我l呃呃就是我困了，谢谢你们祝你们身体健康",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "2039361438062723095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 751,
+          "like_count": 9665,
+          "listed_count": 2,
+          "media_count": 720,
+          "tweet_count": 8593
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "常助無傷,愛全奉全 ,prema everyone. ||繪垢@DogIsBeeti|| 喜歡畫畫、天文學、神經科學、百合、繁體字、羅小黑還有藤井風 ||促智藥/Biohacker初心者 || 一些標籤: HeteroAce/afab/ESFP/ADHDer || 友人:@sysjf0 @Cheese_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "DogIsBeeti"
+              },
+              {
+                "end": 143,
+                "start": 136,
+                "username": "sysjf0"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "Cheese_Ghostfox"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風の歌の中",
+        "name": "🧬ビーチイ小犬(⁠U.⁠_⁠.⁠U)⁠",
+        "pinned_tweet_id": "2007369704353169744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050967982722170880/flg-1D0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 964,
+          "like_count": 42289,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 8863
+        },
+        "username": "BeetiIsDog",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T18:07:15.000Z",
+        "description": "🚪52纯绿陪聊情绪价值高ww你好宝宝♡(◜ω◝)♡总之祝你天天开心！  \n ｜双相｜重焦｜强迫型｜回避型｜完美主义｜厌食｜餐券｜od｜绘画｜Cosplay｜亚文化｜无性恋｜\n温良老鼠不键政，不吵架，不参与任何争议性话题，只会悄悄看着你。\n｜私信随时欢迎♡(◜ω◝)♡\n｜梦想是成为一个温暖的、幸福的人。",
+        "id": "2022371961503092736",
+        "location": "鼠窝",
+        "name": "Asu@老鼠碎碎念bot",
+        "pinned_tweet_id": "2036918447016423592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047035314095755264/5gFUd47P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 261,
+          "like_count": 225,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 416
+        },
+        "username": "asusu593407",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T14:07:28.000Z",
+        "description": "你可以叫我摩尔｜Aspie｜hyper-reactive｜精神病转健全｜lesbian｜devil cry｜本质是高压电有机玻璃｜药物滥用、烟、酒｜文豪鬣犬，掏肛门抠人肠子吃｜关取随意｜小摩尔恋爱中！",
+        "id": "1560991861413933056",
+        "location": "海拉鲁大陆",
+        "name": "破喉咙骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560992274435428352/_l_rnZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 154,
+          "like_count": 783,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1542
+        },
+        "username": "belovedquarry",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2059227883047137601",
+    "created_at": "2026-05-26T11:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T12:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059235143957811506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1713713115270139904",
+          "start": 0,
+          "username": "shirochankawa1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059235143957811506",
+    "in_reply_to_user_id": "1713713115270139904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059227883047137601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shirochankawa1 这是给猫听的吗（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14573,
+        "height": 1280,
+        "media_key": "13_2059227715593818112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059227715593818112/img/KY63YL7bDlxxxh1R.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059227715593818112/vid/avc1/320x694/Ds0t3HILMTM5I1nh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059227715593818112/vid/avc1/480x1040/mZqc3LVsX9OtRZby.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059227715593818112/vid/avc1/590x1280/dMYSpdbEhWYEi56B.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059227715593818112/pl/58w-mJeB07qZl1ls.m3u8"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "duration_ms": 20026,
+        "height": 1280,
+        "media_key": "13_2059227715585318912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059227715585318912/img/HmgYhRbbJbFGRHhU.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059227715585318912/vid/avc1/320x694/7vAft-VBhbP1juTd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059227715585318912/vid/avc1/480x1040/vBJxftcbt8O2Mfsd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059227715585318912/vid/avc1/590x1280/wJWCyoy544MPPgCm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059227715585318912/pl/CU1_dZwuIOHoiyDL.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2059227883047137601",
+        "created_at": "2026-05-26T11:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059235143957811506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1713713115270139904",
+              "start": 0,
+              "username": "shirochankawa1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059235143957811506",
+        "in_reply_to_user_id": "1713713115270139904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059227883047137601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shirochankawa1 这是给猫听的吗（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059227715593818112",
+            "13_2059227715585318912"
+          ]
+        },
+        "author_id": "1713713115270139904",
+        "conversation_id": "2059227883047137601",
+        "created_at": "2026-05-26T10:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059227883047137601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cGivNEBBTW",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2059227883047137601/video/1",
+              "media_key": "13_2059227715593818112",
+              "start": 0,
+              "url": "https://t.co/cGivNEBBTW"
+            },
+            {
+              "display_url": "pic.x.com/cGivNEBBTW",
+              "end": 23,
+              "expanded_url": "https://x.com/shirochankawa1/status/2059227883047137601/video/1",
+              "media_key": "13_2059227715585318912",
+              "start": 0,
+              "url": "https://t.co/cGivNEBBTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059227883047137601",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cGivNEBBTW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 449,
+          "like_count": 5561,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 3264
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T00:27:14.000Z",
+        "description": "幻想の中に永遠に沈みたい 🚫作品の盗用を 禁ずる ， 亲友群：854686674 English/日本語/中，双相精分焦虑asd，这里是郁郁子，清水推，大部分都是日常，碎碎念，爱好，好友的话眼熟的合得来我直接过 ，同类互fo",
+        "id": "1713713115270139904",
+        "location": "💊🔪🚬🗑️👁️夢🌐🦋💾✟",
+        "name": "鬱蒼とした子",
+        "pinned_tweet_id": "2053776372720603523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 2095,
+          "like_count": 70083,
+          "listed_count": 8,
+          "media_count": 1725,
+          "tweet_count": 11627
+        },
+        "username": "shirochankawa1",
+        "verified": false
+      }
+    ]
+  }
+}

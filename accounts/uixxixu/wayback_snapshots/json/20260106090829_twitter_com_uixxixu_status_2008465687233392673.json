@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2008465687233392673",
+    "created_at": "2026-01-06T09:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T10:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008465687233392673"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008465687233392673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦\n我被一对情侣看上了。男的几把跟我口红差不多大且控制欲很强，是那种笑眯眯的变态。趁他洗澡的时候我跟女生说我下楼买个东西，然后一边假笑一边收拾我的东西。\n\n那女的当时没阻止我。我一路狂奔下楼，到一楼的时候发现那女的已经跳楼在单元门口躺着了。一边抽搐一边叫我不要走……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2008465687233392673",
+        "created_at": "2026-01-06T09:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008465687233392673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008465687233392673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦\n我被一对情侣看上了。男的几把跟我口红差不多大且控制欲很强，是那种笑眯眯的变态。趁他洗澡的时候我跟女生说我下楼买个东西，然后一边假笑一边收拾我的东西。\n\n那女的当时没阻止我。我一路狂奔下楼，到一楼的时候发现那女的已经跳楼在单元门口躺着了。一边抽搐一边叫我不要走……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 108,
+          "like_count": 1100,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 462
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

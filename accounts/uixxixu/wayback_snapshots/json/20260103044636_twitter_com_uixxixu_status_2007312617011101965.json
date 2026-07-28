@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2007312617011101965",
+    "created_at": "2026-01-03T04:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T05:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007312617011101965"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007312617011101965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗是初中去的美国一直被霸凌但由于性格懦弱一直忍受着控制欲强的家庭和充斥着各种暴力学校。遇到的那个人比他大几岁，心动的原因是那天把她惹到了得到一顿骂。慢慢了解后发现那人其实很脆弱也有很多烂事也有很多糟糕的癖好。每天都在等人状态好一些，就像除此之外人生没有别的主线任务"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2007312617011101965",
+        "created_at": "2026-01-03T04:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007312617011101965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007312617011101965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗是初中去的美国一直被霸凌但由于性格懦弱一直忍受着控制欲强的家庭和充斥着各种暴力学校。遇到的那个人比他大几岁，心动的原因是那天把她惹到了得到一顿骂。慢慢了解后发现那人其实很脆弱也有很多烂事也有很多糟糕的癖好。每天都在等人状态好一些，就像除此之外人生没有别的主线任务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709456648122368/F6HXQJOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 102,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 402
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

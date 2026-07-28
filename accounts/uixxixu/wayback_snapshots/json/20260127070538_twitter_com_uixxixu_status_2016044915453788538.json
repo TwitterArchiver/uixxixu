@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2015790896374300920",
+    "created_at": "2026-01-27T07:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T08:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016044915453788538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786808816832589825",
+          "start": 0,
+          "username": "ZuJian40966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016044915453788538",
+    "in_reply_to_user_id": "1786808816832589825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015790896374300920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZuJian40966 不是我吧 宝宝TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2015790896374300920",
+        "created_at": "2026-01-27T07:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T08:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016044915453788538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786808816832589825",
+              "start": 0,
+              "username": "ZuJian40966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016044915453788538",
+        "in_reply_to_user_id": "1786808816832589825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015790896374300920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZuJian40966 不是我吧 宝宝TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786808816832589825",
+        "conversation_id": "2015790896374300920",
+        "created_at": "2026-01-26T14:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015790896374300920"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015790896374300920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 124,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么不回消息我很烦人吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 146,
+          "like_count": 2162,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1111
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:23:25.000Z",
+        "description": "我喜欢交朋友萌妹子扩列大欢迎！",
+        "id": "1786808816832589825",
+        "location": "长沙",
+        "name": "もや",
+        "pinned_tweet_id": "2014216330426409178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005745497886404608/OC7SmHyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 104,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 294
+        },
+        "username": "ZuJian40966",
+        "verified": false
+      }
+    ]
+  }
+}

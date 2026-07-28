@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2009993127025881550",
+    "created_at": "2026-01-10T18:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010063987497676878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1370444219853144066",
+          "start": 0,
+          "username": "zxckk17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010063987497676878",
+    "in_reply_to_user_id": "1370444219853144066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010023823501078724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxckk17 谢谢 我目前在玩的游戏还是挺多的玩不过来 (*´I`*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2009993127025881550",
+        "created_at": "2026-01-10T18:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010063987497676878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1370444219853144066",
+              "start": 0,
+              "username": "zxckk17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010063987497676878",
+        "in_reply_to_user_id": "1370444219853144066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010023823501078724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxckk17 谢谢 我目前在玩的游戏还是挺多的玩不过来 (*´I`*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370444219853144066",
+        "conversation_id": "2009993127025881550",
+        "created_at": "2026-01-10T16:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010023823501078724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010023823501078724",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009993127025881550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 好惨啊\n我之前认识得一个也是30岁的少妇她就乐观得多。\n可以下个steam一起玩杀机或者其他游戏啊啥的\n不要对自己太苛刻也不要对他人太苛刻\n放松一点，生活简单一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 111,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 598
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T18:39:06.000Z",
+        "description": "哪有人喜欢孤独，只是不喜欢失望罢了--《挪威森林》\n单身，需求高",
+        "id": "1370444219853144066",
+        "name": "茶涩留心表散于沁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581044136664522752/axFK2Brw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "username": "zxckk17",
+        "verified": false
+      }
+    ]
+  }
+}

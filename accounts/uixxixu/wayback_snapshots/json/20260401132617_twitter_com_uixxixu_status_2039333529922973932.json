@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2039333529922973932",
+    "created_at": "2026-04-01T13:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039333529922973932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039333529922973932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我才看到我昨晚给自己涂的脚指甲油 我还给手上的指甲贴上了水晶贴纸 我真的是 \n不过我想起来了当时我涂的很认真"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2039333529922973932",
+        "created_at": "2026-04-01T13:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039333529922973932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039333529922973932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才看到我昨晚给自己涂的脚指甲油 我还给手上的指甲贴上了水晶贴纸 我真的是 \n不过我想起来了当时我涂的很认真"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 249,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2122
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

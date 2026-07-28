@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2059476264797564994",
+    "created_at": "2026-05-27T03:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059478322401444173"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059478322401444173",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059476264797564994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现在这里只要报在当地最好的医院开过 点菜就更容易了我话都还没说完就给我开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059476253598793728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJS6vbcbwAADFvN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2059476264797564994",
+        "created_at": "2026-05-27T03:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059478322401444173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059478322401444173",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059476264797564994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现在这里只要报在当地最好的医院开过 点菜就更容易了我话都还没说完就给我开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059476253598793728"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2059476264797564994",
+        "created_at": "2026-05-27T03:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059476264797564994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ekiLmBEXRs",
+              "end": 49,
+              "expanded_url": "https://x.com/uixxixu/status/2059476264797564994/photo/1",
+              "media_key": "3_2059476253598793728",
+              "start": 26,
+              "url": "https://t.co/ekiLmBEXRs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059476264797564994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这家只给一盒 医生还说我之前用阿普治焦虑开得太轻了 https://t.co/ekiLmBEXRs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 447,
+          "like_count": 5588,
+          "listed_count": 0,
+          "media_count": 204,
+          "tweet_count": 3275
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

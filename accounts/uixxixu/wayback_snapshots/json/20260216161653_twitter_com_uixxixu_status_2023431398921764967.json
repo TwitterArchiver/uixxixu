@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2023414883589767233",
+    "created_at": "2026-02-16T16:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T17:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023431398921764967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1560991861413933056",
+          "start": 0,
+          "username": "belovedquarry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023431398921764967",
+    "in_reply_to_user_id": "1560991861413933056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023414883589767233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@belovedquarry 死他妈鞭炮！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2023414883589767233",
+        "created_at": "2026-02-16T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023431398921764967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1560991861413933056",
+              "start": 0,
+              "username": "belovedquarry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023431398921764967",
+        "in_reply_to_user_id": "1560991861413933056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023414883589767233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@belovedquarry 死他妈鞭炮！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560991861413933056",
+        "conversation_id": "2023414883589767233",
+        "created_at": "2026-02-16T15:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023414883589767233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023414883589767233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死他妈鞭炮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注 提问箱：https://t.co/x0cgvD82pi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 51,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 28,
+                "url": "https://t.co/x0cgvD82pi"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 197,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1668
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T14:07:28.000Z",
+        "description": "你可以叫我摩尔｜Aspie｜hyper-reactive｜精神病转健全｜lesbian｜阴暗爬行｜本质是一块韧韧的有机玻璃｜文学｜我很温良关取随意｜药物滥用、烟、酒｜小摩尔恋爱中｜请同类找我互fo吧！！！",
+        "id": "1560991861413933056",
+        "location": "海拉鲁大陆",
+        "name": "破喉咙骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560992274435428352/_l_rnZ10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 120,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1062
+        },
+        "username": "belovedquarry",
+        "verified": false
+      }
+    ]
+  }
+}

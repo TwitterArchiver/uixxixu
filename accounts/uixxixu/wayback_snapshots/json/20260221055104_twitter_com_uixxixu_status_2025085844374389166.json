@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2025085844374389166",
+    "created_at": "2026-02-21T05:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T06:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025085844374389166"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964_y/status/…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/8964_y/status/2025077058146279583",
+          "start": 26,
+          "url": "https://t.co/KNVIPpkYq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025085844374389166",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025077058146279583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和躁郁症男孩恋爱注意事项：\n1.别和躁郁症男孩恋爱 https://t.co/KNVIPpkYq0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2025085844374389166",
+        "created_at": "2026-02-21T05:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025085844374389166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964_y/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/8964_y/status/2025077058146279583",
+              "start": 26,
+              "url": "https://t.co/KNVIPpkYq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025085844374389166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025077058146279583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和躁郁症男孩恋爱注意事项：\n1.别和躁郁症男孩恋爱 https://t.co/KNVIPpkYq0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "2025077058146279583",
+        "created_at": "2026-02-21T05:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T06:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025077058146279583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025077058146279583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和躁郁症女孩恋爱注意事项：\n1.别和躁郁症女孩恋爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 56,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 33,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 209,
+          "like_count": 3256,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 1749
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "所有推文都是三体人发的和我没有任何关系｜专门发画的：@QY_art7 ｜我闺@cnmnms666｜不要在我作品下谈论政治滚｜🚪520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "QY_art7"
+              },
+              {
+                "end": 48,
+                "start": 38,
+                "username": "cnmnms666"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2015383199279645149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5910,
+          "following_count": 732,
+          "like_count": 20050,
+          "listed_count": 19,
+          "media_count": 1007,
+          "tweet_count": 14809
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

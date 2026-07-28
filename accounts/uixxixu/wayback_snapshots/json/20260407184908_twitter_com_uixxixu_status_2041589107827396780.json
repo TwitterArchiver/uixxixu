@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2041589107827396780",
+    "created_at": "2026-04-07T18:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041589107827396780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1481898013690036225",
+          "start": 0,
+          "username": "GFfEO7PBRol4Bh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041589107827396780",
+    "in_reply_to_user_id": "1481898013690036225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@GFfEO7PBRol4Bh7 押见修造老师你为什么让ano演仲村佐和不让我演？你该让我和我的狗演这个知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2041589107827396780",
+        "created_at": "2026-04-07T18:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041589107827396780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481898013690036225",
+              "start": 0,
+              "username": "GFfEO7PBRol4Bh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041589107827396780",
+        "in_reply_to_user_id": "1481898013690036225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@GFfEO7PBRol4Bh7 押见修造老师你为什么让ano演仲村佐和不让我演？你该让我和我的狗演这个知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 276,
+          "like_count": 4400,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2335
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T07:56:42.000Z",
+        "description": "全部网红美女都在https://t.co/WUkBqCYnh5一对一裸聊直播",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cba7.cn",
+                "end": 31,
+                "expanded_url": "http://cba7.cn",
+                "start": 8,
+                "url": "https://t.co/WUkBqCYnh5"
+              }
+            ]
+          }
+        },
+        "id": "1481898013690036225",
+        "name": "芋喵喵私人玩物爱玩玩呀甜味弥漫快点亲亲我吖押尾猫直播间",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481898120514445313/bFGvden1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "GFfEO7PBRol4Bh7",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T07:56:42.000Z",
+        "description": "全部网红美女都在https://t.co/WUkBqCYnh5一对一裸聊直播",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cba7.cn",
+                "end": 31,
+                "expanded_url": "http://cba7.cn",
+                "start": 8,
+                "url": "https://t.co/WUkBqCYnh5"
+              }
+            ]
+          }
+        },
+        "id": "1481898013690036225",
+        "name": "芋喵喵私人玩物爱玩玩呀甜味弥漫快点亲亲我吖押尾猫直播间",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481898120514445313/bFGvden1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "username": "GFfEO7PBRol4Bh7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2007466081288351965",
+    "created_at": "2026-01-05T16:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T17:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008219482708476253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "735137116032630784",
+          "start": 0,
+          "username": "quuebd"
+        },
+        {
+          "end": 17,
+          "id": "1209400571041464320",
+          "start": 8,
+          "username": "rjwzwctz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008219482708476253",
+    "in_reply_to_user_id": "735137116032630784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007466081288351965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quuebd @rjwzwctz (✧∇✧)小男孩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007466077186404354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9vzwt1XsAIDeiF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2007466081288351965",
+        "created_at": "2026-01-05T16:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008219482708476253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "735137116032630784",
+              "start": 0,
+              "username": "quuebd"
+            },
+            {
+              "end": 17,
+              "id": "1209400571041464320",
+              "start": 8,
+              "username": "rjwzwctz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008219482708476253",
+        "in_reply_to_user_id": "735137116032630784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007466081288351965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quuebd @rjwzwctz (✧∇✧)小男孩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007466077186404354"
+          ]
+        },
+        "author_id": "735137116032630784",
+        "conversation_id": "2007466081288351965",
+        "created_at": "2026-01-03T14:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007466081288351965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "wanderer",
+              "probability": 0.2911,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 41,
+              "tag": "wanderer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoBdyjoWUM",
+              "end": 74,
+              "expanded_url": "https://x.com/quuebd/status/2007466081288351965/photo/1",
+              "media_key": "3_2007466077186404354",
+              "start": 51,
+              "url": "https://t.co/xoBdyjoWUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007466081288351965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 629,
+          "impression_count": 37914,
+          "like_count": 4964,
+          "quote_count": 24,
+          "reply_count": 30,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "say happy birthday or get stepped on 🫵🏻\n\n#wanderer https://t.co/xoBdyjoWUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 104,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 444
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-24T15:55:21.000Z",
+        "description": "cosplay shenanigans | 18+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/quuebd",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/quuebd",
+                "start": 0,
+                "url": "https://t.co/kKgWU92KUR"
+              }
+            ]
+          }
+        },
+        "id": "735137116032630784",
+        "location": "🔞 psst, over here! →",
+        "name": "QUE",
+        "pinned_tweet_id": "1902365538367480144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767948880103067648/IX5UTp2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18554,
+          "following_count": 62,
+          "like_count": 792,
+          "listed_count": 40,
+          "media_count": 145,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/kKgWU92KUR",
+        "username": "quuebd",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-24T09:09:10.000Z",
+        "description": "I need your love.",
+        "id": "1209400571041464320",
+        "name": "河北小三.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714911793951408128/HHfSgo0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 1470,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 692
+        },
+        "username": "rjwzwctz",
+        "verified": false
+      }
+    ]
+  }
+}

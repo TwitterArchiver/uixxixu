@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2040099531971518841",
+    "created_at": "2026-04-03T18:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T19:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040136251563745701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553077962257272834",
+          "start": 0,
+          "username": "showmeurbeauty3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040136251563745701",
+    "in_reply_to_user_id": "1553077962257272834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040103031732359504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@showmeurbeauty3 对 你这样描述真的好舒服 是我理想的那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2040099531971518841",
+        "created_at": "2026-04-03T18:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T19:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040136251563745701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553077962257272834",
+              "start": 0,
+              "username": "showmeurbeauty3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040136251563745701",
+        "in_reply_to_user_id": "1553077962257272834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040103031732359504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@showmeurbeauty3 对 你这样描述真的好舒服 是我理想的那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553077962257272834",
+        "conversation_id": "2040099531971518841",
+        "created_at": "2026-04-03T16:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040103031732359504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040103031732359504",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040101555182125118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu wallpaper看看风景壁纸也非常舒服哇，飞累了躺床上听会歌，下楼吃个早餐看着天渐渐变白，然后回家睡觉🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 264,
+          "like_count": 4168,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 2192
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T18:00:26.000Z",
+        "description": "白骨终将化为沙土，\n却生生不息。",
+        "id": "1553077962257272834",
+        "name": "houmra",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036246482471497728/fXYxvuqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 424,
+          "like_count": 488,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "showmeurbeauty3",
+        "verified": false
+      }
+    ]
+  }
+}

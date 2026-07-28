@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053784407383961600"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2053784414124171313",
+    "created_at": "2026-05-11T10:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053784414124171313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IB6xEfXyuC",
+          "end": 36,
+          "expanded_url": "https://x.com/uixxixu/status/2053784414124171313/photo/1",
+          "media_key": "3_2053784407383961600",
+          "start": 13,
+          "url": "https://t.co/IB6xEfXyuC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053784414124171313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我他妈上厕所呢……看到这 https://t.co/IB6xEfXyuC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 253,
+        "media_key": "3_2053784407383961600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICCCX9bcAAJB33.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053784407383961600"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2053784414124171313",
+        "created_at": "2026-05-11T10:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053784414124171313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IB6xEfXyuC",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2053784414124171313/photo/1",
+              "media_key": "3_2053784407383961600",
+              "start": 13,
+              "url": "https://t.co/IB6xEfXyuC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053784414124171313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈上厕所呢……看到这 https://t.co/IB6xEfXyuC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 377,
+          "like_count": 5242,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 2892
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

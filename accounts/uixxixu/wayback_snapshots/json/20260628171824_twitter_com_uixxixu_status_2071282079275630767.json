@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2071279149118033970",
+    "created_at": "2026-06-28T17:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071282079275630767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1262416576617148417",
+          "start": 0,
+          "username": "Ame8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071282079275630767",
+    "in_reply_to_user_id": "1262416576617148417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071279149118033970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ame8964 可以啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2071279149118033970",
+        "created_at": "2026-06-28T17:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071282079275630767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1262416576617148417",
+              "start": 0,
+              "username": "Ame8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071282079275630767",
+        "in_reply_to_user_id": "1262416576617148417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071279149118033970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ame8964 可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1262416576617148417",
+        "conversation_id": "2071279149118033970",
+        "created_at": "2026-06-28T17:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071279149118033970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071279149118033970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "dxm抽烟应该没有关系吧？我打算明天搞点dxm吃吃但是不知道可不可以抽烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 525,
+          "like_count": 6327,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 4001
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-18T16:15:51.000Z",
+        "description": "-小雨\n-10年 港人（518964）（拒小粉紅）\n-与顺直男恋爱中的顺直女（1i）\n-我是爱慕可是男友也是爱慕怎么办\n-LGBTQ+全包容\n-乌蒙批 世画批",
+        "id": "1262416576617148417",
+        "name": "Ame",
+        "pinned_tweet_id": "2069131487778381862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068818807091830784/Wd3v37sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 50,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "Ame8964",
+        "verified": false
+      }
+    ]
+  }
+}

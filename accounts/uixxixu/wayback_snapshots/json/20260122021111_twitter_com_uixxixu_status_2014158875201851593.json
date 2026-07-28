@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2014158875201851593",
+    "created_at": "2026-01-22T02:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014158875201851593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zujian40966/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/zujian40966/status/2014157652180218016",
+          "start": 9,
+          "url": "https://t.co/6r7bnh6CpG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014158875201851593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014157652180218016",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我的好妹妹！ https://t.co/6r7bnh6CpG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2014157629673897984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_O5sVZbAAAoq1p.jpg",
+        "width": 1692
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014157629673926656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_O5sVZbcAAe-Kv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014157629703213056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_O5sVgaUAAgqXn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1915,
+        "media_key": "3_2014157629841408001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_O5sWBXAAEug0H.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2014158875201851593",
+        "created_at": "2026-01-22T02:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014158875201851593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zujian40966/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/zujian40966/status/2014157652180218016",
+              "start": 9,
+              "url": "https://t.co/6r7bnh6CpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014158875201851593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014157652180218016",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我的好妹妹！ https://t.co/6r7bnh6CpG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014157629673897984",
+            "3_2014157629673926656",
+            "3_2014157629703213056",
+            "3_2014157629841408001"
+          ]
+        },
+        "author_id": "1786808816832589825",
+        "conversation_id": "2014157652180218016",
+        "created_at": "2026-01-22T02:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014157652180218016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzQZoLMKKp",
+              "end": 133,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014157652180218016/photo/1",
+              "media_key": "3_2014157629673897984",
+              "start": 110,
+              "url": "https://t.co/kzQZoLMKKp"
+            },
+            {
+              "display_url": "pic.x.com/kzQZoLMKKp",
+              "end": 133,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014157652180218016/photo/1",
+              "media_key": "3_2014157629673926656",
+              "start": 110,
+              "url": "https://t.co/kzQZoLMKKp"
+            },
+            {
+              "display_url": "pic.x.com/kzQZoLMKKp",
+              "end": 133,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014157652180218016/photo/1",
+              "media_key": "3_2014157629703213056",
+              "start": 110,
+              "url": "https://t.co/kzQZoLMKKp"
+            },
+            {
+              "display_url": "pic.x.com/kzQZoLMKKp",
+              "end": 133,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014157652180218016/photo/1",
+              "media_key": "3_2014157629841408001",
+              "start": 110,
+              "url": "https://t.co/kzQZoLMKKp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014157652180218016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这里是もや(moya）/   亦憭  怎么称呼都可以请随意 萌妹子互fo大欢迎 互fo请私信\nip：长沙   住在德思勤附近 我有小电驴可以载你去其他地方欢迎炸我面壁\n注意我⚠️：od    割手         易怒 https://t.co/kzQZoLMKKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 142,
+          "like_count": 2137,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1048
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:23:25.000Z",
+        "description": "あなたの夢をみるの。",
+        "id": "1786808816832589825",
+        "location": "长沙",
+        "name": "もや",
+        "pinned_tweet_id": "2014157652180218016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005745497886404608/OC7SmHyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 87,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 129
+        },
+        "username": "ZuJian40966",
+        "verified": false
+      }
+    ]
+  }
+}

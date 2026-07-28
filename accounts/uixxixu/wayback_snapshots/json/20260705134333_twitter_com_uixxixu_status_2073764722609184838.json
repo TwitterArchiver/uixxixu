@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073764710777040896"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2073764722609184838",
+    "created_at": "2026-07-05T13:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073764722609184838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/foEtrzTUMN",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2073764722609184838/photo/1",
+          "media_key": "3_2073764710777040896",
+          "start": 7,
+          "url": "https://t.co/foEtrzTUMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073764722609184838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "切苹果的女人 https://t.co/foEtrzTUMN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2073764710777040896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd-BGWbMAAktf9.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073764710777040896"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2073764722609184838",
+        "created_at": "2026-07-05T13:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073764722609184838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/foEtrzTUMN",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2073764722609184838/photo/1",
+              "media_key": "3_2073764710777040896",
+              "start": 7,
+              "url": "https://t.co/foEtrzTUMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073764722609184838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "切苹果的女人 https://t.co/foEtrzTUMN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 525,
+          "like_count": 6453,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 4113
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

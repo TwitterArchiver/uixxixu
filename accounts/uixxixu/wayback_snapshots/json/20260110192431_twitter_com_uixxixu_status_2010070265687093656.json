@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010070258300923904",
+        "3_2010070258292494336",
+        "3_2010070258288377856"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2010070265687093656",
+    "created_at": "2026-01-10T19:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T20:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010070265687093656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZZ3TqXzM1",
+          "end": 23,
+          "expanded_url": "https://x.com/uixxixu/status/2010070265687093656/photo/1",
+          "media_key": "3_2010070258300923904",
+          "start": 0,
+          "url": "https://t.co/GZZ3TqXzM1"
+        },
+        {
+          "display_url": "pic.x.com/GZZ3TqXzM1",
+          "end": 23,
+          "expanded_url": "https://x.com/uixxixu/status/2010070265687093656/photo/1",
+          "media_key": "3_2010070258292494336",
+          "start": 0,
+          "url": "https://t.co/GZZ3TqXzM1"
+        },
+        {
+          "display_url": "pic.x.com/GZZ3TqXzM1",
+          "end": 23,
+          "expanded_url": "https://x.com/uixxixu/status/2010070265687093656/photo/1",
+          "media_key": "3_2010070258288377856",
+          "start": 0,
+          "url": "https://t.co/GZZ3TqXzM1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010070265687093656",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/GZZ3TqXzM1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1179,
+        "media_key": "3_2010070258300923904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-U0QAeasAAp_zG.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2010070258292494336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-U0QAcaEAApm_I.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1179,
+        "media_key": "3_2010070258288377856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-U0QAbbQAATdkB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010070258300923904",
+            "3_2010070258292494336",
+            "3_2010070258288377856"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2010070265687093656",
+        "created_at": "2026-01-10T19:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T20:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010070265687093656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZZ3TqXzM1",
+              "end": 23,
+              "expanded_url": "https://x.com/uixxixu/status/2010070265687093656/photo/1",
+              "media_key": "3_2010070258300923904",
+              "start": 0,
+              "url": "https://t.co/GZZ3TqXzM1"
+            },
+            {
+              "display_url": "pic.x.com/GZZ3TqXzM1",
+              "end": 23,
+              "expanded_url": "https://x.com/uixxixu/status/2010070265687093656/photo/1",
+              "media_key": "3_2010070258292494336",
+              "start": 0,
+              "url": "https://t.co/GZZ3TqXzM1"
+            },
+            {
+              "display_url": "pic.x.com/GZZ3TqXzM1",
+              "end": 23,
+              "expanded_url": "https://x.com/uixxixu/status/2010070265687093656/photo/1",
+              "media_key": "3_2010070258288377856",
+              "start": 0,
+              "url": "https://t.co/GZZ3TqXzM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010070265687093656",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GZZ3TqXzM1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 111,
+          "like_count": 1325,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 601
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

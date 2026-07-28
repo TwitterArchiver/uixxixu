@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2042120429645725995",
+    "created_at": "2026-04-09T06:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042120429645725995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiuyouforwhite…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/jiuyouforwhite/status/2042113707577409571",
+          "start": 3,
+          "url": "https://t.co/IDhkdJRxWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042120429645725995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042113707577409571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来吧 https://t.co/IDhkdJRxWt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2042120429645725995",
+        "created_at": "2026-04-09T06:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042120429645725995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiuyouforwhite…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/jiuyouforwhite/status/2042113707577409571",
+              "start": 3,
+              "url": "https://t.co/IDhkdJRxWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042120429645725995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042113707577409571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来吧 https://t.co/IDhkdJRxWt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2042113707577409571",
+        "created_at": "2026-04-09T05:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042113707577409571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042113707577409571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🎁1000fo抽奖第二弹！TG群抽奖\n\n特等奖(1人)：神秘药片3t(折现175r)\n一等奖(2人)：白兔Bron一瓶(折现62r)\n参与奖(10人)：5.2r红包\n\n【参与条件】加入tg群(17班の致幻晚自习) + 评论 + 转帖\n\n【抽奖方式】按照大家投票(45%)，我在TG群抽\n\n【开奖时间】4月20日\n\nX抽奖帖在上一条，可同时参加！\n\n爱大家💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 284,
+          "like_count": 4474,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 2377
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 948,
+          "like_count": 2381,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1383
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

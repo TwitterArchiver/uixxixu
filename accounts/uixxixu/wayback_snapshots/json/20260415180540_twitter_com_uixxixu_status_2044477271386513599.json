@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2044477271386513599",
+    "created_at": "2026-04-15T18:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T19:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044477271386513599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "镇静药物全是梦’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1qxvv…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1qxvvkMBEYnxB",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2044477273538236416/5IJZO_xJ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044477273538236416/5IJZO_xJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: Trip 请和我交流",
+          "unwound_url": "https://twitter.com/i/spaces/1qxvvkMBEYnxB/peek",
+          "url": "https://t.co/c52539X3Oy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044477271386513599",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/c52539X3Oy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2044477271386513599",
+        "created_at": "2026-04-15T18:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044477271386513599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "镇静药物全是梦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qxvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qxvvkMBEYnxB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2044477273538236416/5IJZO_xJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044477273538236416/5IJZO_xJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: Trip 请和我交流",
+              "unwound_url": "https://twitter.com/i/spaces/1qxvvkMBEYnxB/peek",
+              "url": "https://t.co/c52539X3Oy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044477271386513599",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c52539X3Oy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2043706838785663401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 266,
+          "like_count": 4631,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2455
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

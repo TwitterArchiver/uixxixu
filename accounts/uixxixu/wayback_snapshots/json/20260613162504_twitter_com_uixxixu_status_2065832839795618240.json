@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065832728730505216"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2065832839795618240",
+    "created_at": "2026-06-13T16:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065832839795618240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzdl2rgoZd",
+          "end": 28,
+          "expanded_url": "https://x.com/uixxixu/status/2065832839795618240/video/1",
+          "media_key": "13_2065832728730505216",
+          "start": 5,
+          "url": "https://t.co/vzdl2rgoZd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065832839795618240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发呆…… https://t.co/vzdl2rgoZd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14016,
+        "height": 960,
+        "media_key": "13_2065832728730505216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065832728730505216/img/zSO8agDRWZC0HFyJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065832728730505216/vid/avc1/320x426/qj7-5RlpJaa3hQ05.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065832728730505216/vid/avc1/480x640/HmIghlIr4e-3aJsQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065832728730505216/vid/avc1/720x960/Jb40TWHeNasxc8wT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065832728730505216/pl/2huNYVr4E54GjX5D.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065832728730505216"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2065832839795618240",
+        "created_at": "2026-06-13T16:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065832839795618240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzdl2rgoZd",
+              "end": 28,
+              "expanded_url": "https://x.com/uixxixu/status/2065832839795618240/video/1",
+              "media_key": "13_2065832728730505216",
+              "start": 5,
+              "url": "https://t.co/vzdl2rgoZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065832839795618240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发呆…… https://t.co/vzdl2rgoZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 492,
+          "like_count": 6023,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 3697
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

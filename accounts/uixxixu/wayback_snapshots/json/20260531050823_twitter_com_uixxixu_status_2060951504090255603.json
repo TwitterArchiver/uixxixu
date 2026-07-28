@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2060642772135350536",
+    "created_at": "2026-05-31T05:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060951504090255603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921588381844467712",
+          "start": 0,
+          "username": "fxxkXXww"
+        },
+        {
+          "end": 24,
+          "id": "1518404201168007168",
+          "start": 10,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060951504090255603",
+    "in_reply_to_user_id": "1921588381844467712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060744776681672708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxxkXXww @godspeedyou50 我也是最近突然无所谓了"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [godspeedyou50].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "godspeedyou50",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "godspeedyou50"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2060642772135350536",
+        "created_at": "2026-05-31T05:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060951504090255603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921588381844467712",
+              "start": 0,
+              "username": "fxxkXXww"
+            },
+            {
+              "end": 24,
+              "id": "1518404201168007168",
+              "start": 10,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060951504090255603",
+        "in_reply_to_user_id": "1921588381844467712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060744776681672708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxxkXXww @godspeedyou50 我也是最近突然无所谓了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921588381844467712",
+        "conversation_id": "2060642772135350536",
+        "created_at": "2026-05-30T15:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060744776681672708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 23,
+              "id": "1518404201168007168",
+              "start": 9,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060744776681672708",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060643580298097146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @godspeedyou50 好强啊 我之前断断续续服用两三个月也受不了那股味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2056982022753824885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 453,
+          "like_count": 5801,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 3435
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T15:29:14.000Z",
+        "description": "",
+        "id": "1921588381844467712",
+        "location": " ",
+        "name": "爱我,谢谢",
+        "pinned_tweet_id": "2059976790995878264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059074979959037952/HXBaiEbL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 168,
+          "like_count": 8416,
+          "listed_count": 6,
+          "media_count": 170,
+          "tweet_count": 1137
+        },
+        "username": "fxxkXXww",
+        "verified": false
+      }
+    ]
+  }
+}

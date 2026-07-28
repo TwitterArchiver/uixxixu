@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2064581274845774290",
+    "created_at": "2026-06-10T05:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064582794433757366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1698345259661418499",
+          "start": 0,
+          "username": "zyj156383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064582794433757366",
+    "in_reply_to_user_id": "1698345259661418499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064581274845774290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyj156383 我现在隔天1t巴氯芬 TT应该还好？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064579811709009920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbcZm9bwAAN1A3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2064579481243938816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbcGX4a8AAAofy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2064579490513403904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbcG6abwAAGCQa.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2064581274845774290",
+        "created_at": "2026-06-10T05:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064582794433757366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698345259661418499",
+              "start": 0,
+              "username": "zyj156383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064582794433757366",
+        "in_reply_to_user_id": "1698345259661418499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064581274845774290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyj156383 我现在隔天1t巴氯芬 TT应该还好？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064579811709009920",
+            "3_2064579481243938816",
+            "3_2064579490513403904"
+          ]
+        },
+        "author_id": "1698345259661418499",
+        "conversation_id": "2064581274845774290",
+        "created_at": "2026-06-10T05:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064581274845774290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U22oL6GaBw",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2064581274845774290/photo/1",
+              "media_key": "3_2064579811709009920",
+              "start": 124,
+              "url": "https://t.co/U22oL6GaBw"
+            },
+            {
+              "display_url": "pic.x.com/U22oL6GaBw",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2064581274845774290/photo/1",
+              "media_key": "3_2064579481243938816",
+              "start": 124,
+              "url": "https://t.co/U22oL6GaBw"
+            },
+            {
+              "display_url": "pic.x.com/U22oL6GaBw",
+              "end": 147,
+              "expanded_url": "https://x.com/zyj156383/status/2064581274845774290/photo/1",
+              "media_key": "3_2064579490513403904",
+              "start": 124,
+              "url": "https://t.co/U22oL6GaBw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064581274845774290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.笔者试了一下，发现拼多多点击购买即送处方\n2.会的 巴氯芬的戒断比普瑞更凶险 难受程度跟bzd差不多 但是生理危险很大 减量多了会导致癫痫幻觉还有一系列肌反射综合征危及生命 不建议长期使用 \n3.不是 不在任何管制条目中 目前没有任何法律风险 https://t.co/U22oL6GaBw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2062439161882452136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 480,
+          "like_count": 5975,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 3611
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T14:41:16.000Z",
+        "description": "怕被晶？妄想害！法律的阴霾下该如何呼吸？\n敬请关注本账号 友好一切 前oder 提供免费法律/药理咨询 尤其od风险事项 减害/戒断也不在话下\nhttps://t.co/bSdjZJqBFw 期待抚平你的焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 95,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 72,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/odsaul",
+                "end": 23,
+                "expanded_url": "https://ngl.link/odsaul",
+                "start": 0,
+                "url": "https://t.co/bSdjZJqBFw"
+              }
+            ]
+          }
+        },
+        "id": "1698345259661418499",
+        "name": "八本华",
+        "pinned_tweet_id": "2060360180823728358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 395,
+          "like_count": 1236,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/bSdjZJqBFw",
+        "username": "zyj156383",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009372752038514688"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2009372759487578472",
+    "created_at": "2026-01-08T21:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T22:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009372759487578472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cN7s022CoZ",
+          "end": 28,
+          "expanded_url": "https://x.com/uixxixu/status/2009372759487578472/photo/1",
+          "media_key": "3_2009372752038514688",
+          "start": 5,
+          "url": "https://t.co/cN7s022CoZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009372759487578472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "の子别骂 https://t.co/cN7s022CoZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2009372752038514688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-K53zKa0AAPyRk.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009372752038514688"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2009372759487578472",
+        "created_at": "2026-01-08T21:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T22:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009372759487578472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cN7s022CoZ",
+              "end": 28,
+              "expanded_url": "https://x.com/uixxixu/status/2009372759487578472/photo/1",
+              "media_key": "3_2009372752038514688",
+              "start": 5,
+              "url": "https://t.co/cN7s022CoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009372759487578472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "の子别骂 https://t.co/cN7s022CoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 113,
+          "like_count": 1213,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 549
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

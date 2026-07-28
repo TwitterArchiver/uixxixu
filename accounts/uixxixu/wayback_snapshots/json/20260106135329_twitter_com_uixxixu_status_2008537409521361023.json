@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2008537409521361023",
+    "created_at": "2026-01-06T13:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T14:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008537409521361023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imawa1111/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/imawa1111/status/2008059248752914456",
+          "start": 8,
+          "url": "https://t.co/BEPsgRhU5G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008537409521361023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008059248752914456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你一个，我一个 https://t.co/BEPsgRhU5G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008059240771104769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94PPYYaMAE1_xR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2008537409521361023",
+        "created_at": "2026-01-06T13:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T14:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008537409521361023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imawa1111/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/imawa1111/status/2008059248752914456",
+              "start": 8,
+              "url": "https://t.co/BEPsgRhU5G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008537409521361023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008059248752914456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你一个，我一个 https://t.co/BEPsgRhU5G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008059240771104769"
+          ]
+        },
+        "author_id": "1970072992010084352",
+        "conversation_id": "2008059248752914456",
+        "created_at": "2026-01-05T06:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008059248752914456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ni34AqI9o",
+              "end": 23,
+              "expanded_url": "https://x.com/imawa1111/status/2008059248752914456/photo/1",
+              "media_key": "3_2008059240771104769",
+              "start": 0,
+              "url": "https://t.co/5ni34AqI9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008059248752914456",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 53250,
+          "like_count": 4905,
+          "quote_count": 47,
+          "reply_count": 15,
+          "retweet_count": 722
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5ni34AqI9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 109,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 476
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T10:30:01.000Z",
+        "description": "09 本垢/サブ▶︎ @wdga96/自我垢▶︎ @saki1233214 /ファンアートタグ▶︎#ささきのさきのアート",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "ささきのさきのアート"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 11,
+                "username": "wdga96"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "saki1233214"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sasakihagomi",
+                "end": 23,
+                "expanded_url": "https://lit.link/sasakihagomi",
+                "start": 0,
+                "url": "https://t.co/IipOPO7A8e"
+              }
+            ]
+          }
+        },
+        "id": "1970072992010084352",
+        "location": "10万×1 万×31 凍結×9 ささきのさきです",
+        "name": "ささきかも",
+        "pinned_tweet_id": "1997252176792650035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008343354233552896/L3LD5TpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 832,
+          "like_count": 3287,
+          "listed_count": 16,
+          "media_count": 177,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/IipOPO7A8e",
+        "username": "imawa1111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2078594863805984895",
+    "created_at": "2026-07-19T13:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078834994886385728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033768789423362049",
+          "start": 0,
+          "username": "youguiakuaipao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078834994886385728",
+    "in_reply_to_user_id": "2033768789423362049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078834136069128593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youguiakuaipao 随便你爱死不死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2078594863805984895",
+        "created_at": "2026-07-19T13:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078834994886385728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033768789423362049",
+              "start": 0,
+              "username": "youguiakuaipao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078834994886385728",
+        "in_reply_to_user_id": "2033768789423362049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078834136069128593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youguiakuaipao 随便你爱死不死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033768789423362049",
+        "conversation_id": "2078594863805984895",
+        "created_at": "2026-07-19T13:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078834136069128593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078834136069128593",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078594863805984895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 30岁赚不到8000一个月自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 530,
+          "like_count": 6621,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 4256
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T04:55:32.000Z",
+        "description": "说话 听歌 审视自己",
+        "id": "2033768789423362049",
+        "location": "8.6km",
+        "name": "睡一觉就好了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036414962382544900/uG-kKiLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 277,
+          "like_count": 3071,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "youguiakuaipao",
+        "verified": false
+      }
+    ]
+  }
+}

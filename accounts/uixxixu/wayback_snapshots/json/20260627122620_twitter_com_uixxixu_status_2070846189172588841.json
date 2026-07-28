@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2070846189172588841",
+    "created_at": "2026-06-27T12:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070846189172588841"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xccpma/status/…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/xccpma/status/2070829138471276959",
+          "start": 46,
+          "url": "https://t.co/8LZzKU4yHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070846189172588841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070829138471276959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在吃小白买的应该是原研多西拉敏  吃完第二天很困 耐受建立挺快的 你们不会要o这个了吧…… https://t.co/8LZzKU4yHw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2070829131106021376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0QH34a8AAgptD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2070846189172588841",
+        "created_at": "2026-06-27T12:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070846189172588841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xccpma/status/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/xccpma/status/2070829138471276959",
+              "start": 46,
+              "url": "https://t.co/8LZzKU4yHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070846189172588841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070829138471276959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在吃小白买的应该是原研多西拉敏  吃完第二天很困 耐受建立挺快的 你们不会要o这个了吧…… https://t.co/8LZzKU4yHw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070829131106021376"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2070829138471276959",
+        "created_at": "2026-06-27T11:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070829138471276959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mR68k3QSq",
+              "end": 69,
+              "expanded_url": "https://x.com/xccpma/status/2070829138471276959/photo/1",
+              "media_key": "3_2070829131106021376",
+              "start": 46,
+              "url": "https://t.co/3mR68k3QSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070829138471276959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 325,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新药速报：加诺思®️多西拉敏片在国内上市，是第一代抗组胺药\n\n用于短期失眠，未列入管制目录 https://t.co/3mR68k3QSq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 521,
+          "like_count": 6296,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 3964
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 100,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

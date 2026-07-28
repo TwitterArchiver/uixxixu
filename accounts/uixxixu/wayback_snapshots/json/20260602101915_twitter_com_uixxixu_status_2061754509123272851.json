@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2061735264708595915",
+    "created_at": "2026-06-02T10:19:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061754509123272851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493847901541310467",
+          "start": 0,
+          "username": "bone7893"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061754509123272851",
+    "in_reply_to_user_id": "1493847901541310467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061748387289133143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bone7893 看我主页转发的活动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2061735264708595915",
+        "created_at": "2026-06-02T10:19:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061754509123272851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493847901541310467",
+              "start": 0,
+              "username": "bone7893"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061754509123272851",
+        "in_reply_to_user_id": "1493847901541310467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061748387289133143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bone7893 看我主页转发的活动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493847901541310467",
+        "conversation_id": "2061735264708595915",
+        "created_at": "2026-06-02T09:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061748387289133143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061748387289133143",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061735264708595915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 怎么和医生沟通的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 453,
+          "like_count": 5886,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 3526
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T07:21:26.000Z",
+        "description": "梦想是吃饱饭",
+        "id": "1493847901541310467",
+        "name": "全方位幻想",
+        "pinned_tweet_id": "1809925463961391218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061683813638656000/x-QlYHGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "bone7893",
+        "verified": false
+      }
+    ]
+  }
+}

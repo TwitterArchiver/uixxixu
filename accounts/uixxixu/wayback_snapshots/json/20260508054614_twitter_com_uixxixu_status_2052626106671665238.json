@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052626099373486080"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2052440417866834380",
+    "created_at": "2026-05-08T05:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052626106671665238"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NjAC96zjDD",
+          "end": 32,
+          "expanded_url": "https://x.com/uixxixu/status/2052626106671665238/photo/1",
+          "media_key": "3_2052626099373486080",
+          "start": 9,
+          "url": "https://t.co/NjAC96zjDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052626106671665238",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052440417866834380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "成功了 这有证据 https://t.co/NjAC96zjDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2052626099373486080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxkj-XaMAAIc1E.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052626099373486080"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2052440417866834380",
+        "created_at": "2026-05-08T05:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052626106671665238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NjAC96zjDD",
+              "end": 32,
+              "expanded_url": "https://x.com/uixxixu/status/2052626106671665238/photo/1",
+              "media_key": "3_2052626099373486080",
+              "start": 9,
+              "url": "https://t.co/NjAC96zjDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052626106671665238",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052440417866834380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "成功了 这有证据 https://t.co/NjAC96zjDD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2052440417866834380",
+        "created_at": "2026-05-07T17:28:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052440417866834380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052440417866834380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备吃了思诺思去煮火鸡面吃\n但是我觉得成功概率不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 359,
+          "like_count": 5167,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 2825
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

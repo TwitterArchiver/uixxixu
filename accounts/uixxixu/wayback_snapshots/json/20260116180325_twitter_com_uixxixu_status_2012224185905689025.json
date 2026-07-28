@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012224171825332224"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2012224185905689025",
+    "created_at": "2026-01-16T18:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T19:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012224185905689025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UGGa0dTnZc",
+          "end": 36,
+          "expanded_url": "https://x.com/uixxixu/status/2012224185905689025/photo/1",
+          "media_key": "3_2012224171825332224",
+          "start": 13,
+          "url": "https://t.co/UGGa0dTnZc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012224185905689025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是我的粉丝就送我lsd吧 https://t.co/UGGa0dTnZc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2012224171825332224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-zbORoagAAe_4x.jpg",
+        "width": 420
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012224171825332224"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2012224185905689025",
+        "created_at": "2026-01-16T18:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T19:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012224185905689025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGGa0dTnZc",
+              "end": 36,
+              "expanded_url": "https://x.com/uixxixu/status/2012224185905689025/photo/1",
+              "media_key": "3_2012224171825332224",
+              "start": 13,
+              "url": "https://t.co/UGGa0dTnZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012224185905689025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我的粉丝就送我lsd吧 https://t.co/UGGa0dTnZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2010612646484328877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 127,
+          "like_count": 1841,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 865
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

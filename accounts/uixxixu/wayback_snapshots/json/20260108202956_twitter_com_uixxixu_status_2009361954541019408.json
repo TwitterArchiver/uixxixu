@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2009361112119328845",
+    "created_at": "2026-01-08T20:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T21:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009361954541019408"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009361954541019408",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009361112119328845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的变化就是我不再帮助自己了。但是我却会想起我曾经对自己是另一种完全不同的态度。但只是看着……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2009361112119328845",
+        "created_at": "2026-01-08T20:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T21:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009361954541019408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009361954541019408",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009361112119328845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的变化就是我不再帮助自己了。但是我却会想起我曾经对自己是另一种完全不同的态度。但只是看着……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2009361112119328845",
+        "created_at": "2026-01-08T20:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T21:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009361112119328845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009361112119328845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切都会变化，流动。我曾经一直这样跟自己说。这句话其实很有力量……一年前开始频繁嗑药之后就忘了好多我曾经帮助自己的时候说的话。啊对我甚至曾经忘了我的鼠怎么死去的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 113,
+          "like_count": 1209,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 545
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

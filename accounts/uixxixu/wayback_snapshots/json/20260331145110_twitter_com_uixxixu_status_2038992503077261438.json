@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038992391617851393"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2038992503077261438",
+    "created_at": "2026-03-31T14:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T15:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038992503077261438"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qz8nA0ArYS",
+          "end": 29,
+          "expanded_url": "https://x.com/uixxixu/status/2038992503077261438/video/1",
+          "media_key": "13_2038992391617851393",
+          "start": 6,
+          "url": "https://t.co/qz8nA0ArYS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038992503077261438",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "黑白熊必死 https://t.co/qz8nA0ArYS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26341,
+        "height": 1280,
+        "media_key": "13_2038992391617851393",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038992391617851393/img/yuBdSl9vVaA1aEiA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038992391617851393/vid/avc1/320x568/T3swyfk0OM5L1Jjo.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038992391617851393/vid/avc1/480x852/5E3j5f_XAL3nEgMw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038992391617851393/vid/avc1/720x1280/SaEymIi-VXtvTZz_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038992391617851393/pl/q33ZXPrLcqZjoUBk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038992391617851393"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2038992503077261438",
+        "created_at": "2026-03-31T14:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T15:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038992503077261438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qz8nA0ArYS",
+              "end": 29,
+              "expanded_url": "https://x.com/uixxixu/status/2038992503077261438/video/1",
+              "media_key": "13_2038992391617851393",
+              "start": 6,
+              "url": "https://t.co/qz8nA0ArYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038992503077261438",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑白熊必死 https://t.co/qz8nA0ArYS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 248,
+          "like_count": 4073,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2105
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

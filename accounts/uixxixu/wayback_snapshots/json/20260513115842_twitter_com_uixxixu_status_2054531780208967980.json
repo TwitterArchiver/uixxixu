@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2054192467629760588",
+    "created_at": "2026-05-13T11:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T12:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054531780208967980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924858813909499907",
+          "start": 0,
+          "username": "ringkawaiii8964"
+        },
+        {
+          "end": 24,
+          "id": "1877886557316689920",
+          "start": 17,
+          "username": "L77TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054531780208967980",
+    "in_reply_to_user_id": "1924858813909499907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054531384266686468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ringkawaiii8964 @L77TuT 和愈美一样 可以在那个量上少吃一点点  如果是第一次:12t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2054192467629760588",
+        "created_at": "2026-05-13T11:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054531780208967980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924858813909499907",
+              "start": 0,
+              "username": "ringkawaiii8964"
+            },
+            {
+              "end": 24,
+              "id": "1877886557316689920",
+              "start": 17,
+              "username": "L77TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054531780208967980",
+        "in_reply_to_user_id": "1924858813909499907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054531384266686468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringkawaiii8964 @L77TuT 和愈美一样 可以在那个量上少吃一点点  如果是第一次:12t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924858813909499907",
+        "conversation_id": "2054192467629760588",
+        "created_at": "2026-05-13T11:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T12:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054531384266686468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1877886557316689920",
+              "start": 0,
+              "username": "L77TuT"
+            },
+            {
+              "end": 16,
+              "id": "1128010587089264640",
+              "start": 8,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054531384266686468",
+        "in_reply_to_user_id": "1877886557316689920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054496998372655268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L77TuT @uixxixu 几t啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 391,
+          "like_count": 5256,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2930
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T16:05:01.000Z",
+        "description": "苦し。",
+        "id": "1924858813909499907",
+        "location": "Tokyo-to, Japan",
+        "name": "サビ^_^",
+        "pinned_tweet_id": "2022067256235278808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011436259731021825/-rQDiD0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 270,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 541
+        },
+        "username": "ringkawaiii8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T01:13:55.000Z",
+        "description": "",
+        "id": "1877886557316689920",
+        "name": "77",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046632479981744128/DjEkx3ll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 83,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "username": "L77TuT",
+        "verified": false
+      }
+    ]
+  }
+}

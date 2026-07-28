@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2034718001531166768",
+    "created_at": "2026-03-19T19:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T20:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034718405354525180"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034718405354525180",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034718001531166768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我们叫它星空船"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10076,
+        "height": 1280,
+        "media_key": "13_2034717911911473154",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034717911911473154/img/3BBJaEig-VAPdFny.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034717911911473154/vid/avc1/320x568/cCFE5gDySb-Lwq9w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034717911911473154/vid/avc1/480x852/F5evDvlfztkt0VLK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034717911911473154/vid/avc1/720x1280/28ESWKaswNI6EKnh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034717911911473154/pl/0yrRTffGBQWa1wkm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2034718001531166768",
+        "created_at": "2026-03-19T19:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034718405354525180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034718405354525180",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034718001531166768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我们叫它星空船"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034717911911473154"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2034718001531166768",
+        "created_at": "2026-03-19T19:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034718001531166768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kl6zcLXPmp",
+              "end": 49,
+              "expanded_url": "https://x.com/uixxixu/status/2034718001531166768/video/1",
+              "media_key": "13_2034717911911473154",
+              "start": 26,
+              "url": "https://t.co/Kl6zcLXPmp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034718001531166768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Lsd效果下进去会感觉是脚下的东西带着人在转的错觉 https://t.co/Kl6zcLXPmp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 235,
+          "like_count": 3828,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1983
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2081684772775190681",
+    "created_at": "2026-07-27T13:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081727360152576092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1289504272506392576",
+          "start": 0,
+          "username": "BabysnakeViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081727360152576092",
+    "in_reply_to_user_id": "1289504272506392576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081684772775190681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BabysnakeViolet 妈妈啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2081684729670336512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOhO35bAAAqnHB.jpg",
+        "width": 2316
+      },
+      {
+        "height": 3088,
+        "media_key": "3_2081684741624102913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOhPkbbAAEX9zi.jpg",
+        "width": 2316
+      },
+      {
+        "height": 3088,
+        "media_key": "3_2081684752629972993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOhQNbbQAElUtN.jpg",
+        "width": 2316
+      },
+      {
+        "height": 3088,
+        "media_key": "3_2081684762759139328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOhQzKaEAAOLe8.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2081684772775190681",
+        "created_at": "2026-07-27T13:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081727360152576092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1289504272506392576",
+              "start": 0,
+              "username": "BabysnakeViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081727360152576092",
+        "in_reply_to_user_id": "1289504272506392576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081684772775190681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BabysnakeViolet 妈妈啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081684729670336512",
+            "3_2081684741624102913",
+            "3_2081684752629972993",
+            "3_2081684762759139328"
+          ]
+        },
+        "author_id": "1289504272506392576",
+        "conversation_id": "2081684772775190681",
+        "created_at": "2026-07-27T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081684772775190681"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "非绿"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "半绿"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "baddie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SX5BNOBngu",
+              "end": 56,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2081684772775190681/photo/1",
+              "media_key": "3_2081684729670336512",
+              "start": 33,
+              "url": "https://t.co/SX5BNOBngu"
+            },
+            {
+              "display_url": "pic.x.com/SX5BNOBngu",
+              "end": 56,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2081684772775190681/photo/1",
+              "media_key": "3_2081684741624102913",
+              "start": 33,
+              "url": "https://t.co/SX5BNOBngu"
+            },
+            {
+              "display_url": "pic.x.com/SX5BNOBngu",
+              "end": 56,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2081684772775190681/photo/1",
+              "media_key": "3_2081684752629972993",
+              "start": 33,
+              "url": "https://t.co/SX5BNOBngu"
+            },
+            {
+              "display_url": "pic.x.com/SX5BNOBngu",
+              "end": 56,
+              "expanded_url": "https://x.com/BabysnakeViolet/status/2081684772775190681/photo/1",
+              "media_key": "3_2081684762759139328",
+              "start": 33,
+              "url": "https://t.co/SX5BNOBngu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081684772775190681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 177,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "媚白婊子更改人种ing #门槛妹 #非绿 #半绿 #baddie https://t.co/SX5BNOBngu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 530,
+          "like_count": 6662,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 4309
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-01T10:12:38.000Z",
+        "description": "我是小蛇，我会查成分回fo，精神不稳定，推文当日记本发，入门请私信有涩涩福利\n🚪52/88/188/388 直接支付宝口令私我谢谢喵",
+        "id": "1289504272506392576",
+        "location": "你的背后",
+        "name": "亲爱的我饱含杀意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050438559937773568/5VjxP0se_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 634,
+          "like_count": 3206,
+          "listed_count": 5,
+          "media_count": 79,
+          "tweet_count": 2076
+        },
+        "url": "",
+        "username": "BabysnakeViolet",
+        "verified": false
+      }
+    ]
+  }
+}

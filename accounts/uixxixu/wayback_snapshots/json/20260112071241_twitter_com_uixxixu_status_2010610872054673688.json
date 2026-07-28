@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010610866425860096"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2010610872054673688",
+    "created_at": "2026-01-12T07:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T08:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010610872054673688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7HS1D1veCK",
+          "end": 44,
+          "expanded_url": "https://x.com/uixxixu/status/2010610872054673688/photo/1",
+          "media_key": "3_2010610866425860096",
+          "start": 21,
+          "url": "https://t.co/7HS1D1veCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010610872054673688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "A有钱 B操可爱的男孩子\n谢谢你关心我！ https://t.co/7HS1D1veCK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1178,
+        "media_key": "3_2010610866425860096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-cf7irakAAXoMZ.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010610866425860096"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2010610872054673688",
+        "created_at": "2026-01-12T07:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010610872054673688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HS1D1veCK",
+              "end": 44,
+              "expanded_url": "https://x.com/uixxixu/status/2010610872054673688/photo/1",
+              "media_key": "3_2010610866425860096",
+              "start": 21,
+              "url": "https://t.co/7HS1D1veCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010610872054673688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A有钱 B操可爱的男孩子\n谢谢你关心我！ https://t.co/7HS1D1veCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 113,
+          "like_count": 1411,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 640
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2008600558664647118",
+    "created_at": "2026-01-06T18:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T19:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008602039119708263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966188117163134976",
+          "start": 0,
+          "username": "auawyzzk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008602039119708263",
+    "in_reply_to_user_id": "1966188117163134976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008600558664647118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@auawyzzk ⊂(˃̶͈̀-˂̶͈́ ⊂ )辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2008600551811174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9_7j1Jb0AA16FP.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2008600558664647118",
+        "created_at": "2026-01-06T18:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T19:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008602039119708263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966188117163134976",
+              "start": 0,
+              "username": "auawyzzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008602039119708263",
+        "in_reply_to_user_id": "1966188117163134976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008600558664647118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@auawyzzk ⊂(˃̶͈̀-˂̶͈́ ⊂ )辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008600551811174400"
+          ]
+        },
+        "author_id": "1966188117163134976",
+        "conversation_id": "2008600558664647118",
+        "created_at": "2026-01-06T18:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T19:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008600558664647118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GSwCPmeeSs",
+              "end": 62,
+              "expanded_url": "https://x.com/auawyzzk/status/2008600558664647118/photo/1",
+              "media_key": "3_2008600551811174400",
+              "start": 39,
+              "url": "https://t.co/GSwCPmeeSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008600558664647118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多事情里面的很多细节早已忘记 但是每一件事都会有那么一个符号烙印在我的心里 https://t.co/GSwCPmeeSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人   想和同类互fo",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 109,
+          "like_count": 1127,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 486
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T17:12:39.000Z",
+        "description": "每天挂壁吃拼好饭中 双相 自残 od ⚠️负能很多⚠️ 想要朋友 缺爱逼 00 188 70 林俊杰是神 想下辈子变成小女孩 不友跨",
+        "id": "1966188117163134976",
+        "location": "墓地",
+        "name": "我一直在割",
+        "pinned_tweet_id": "2004398195263283260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966192998833860609/HNU7N_cG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 57,
+          "like_count": 7588,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 5147
+        },
+        "username": "auawyzzk",
+        "verified": false
+      }
+    ]
+  }
+}

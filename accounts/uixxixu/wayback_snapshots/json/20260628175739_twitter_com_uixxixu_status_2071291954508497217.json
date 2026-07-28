@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071291944224088065",
+        "3_2071291944240898048"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071291954508497217",
+    "created_at": "2026-06-28T17:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071291954508497217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 41,
+          "id": "1700762210035748864",
+          "start": 25,
+          "username": "takanashi110998"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/occJ3wIa6G",
+          "end": 65,
+          "expanded_url": "https://x.com/uixxixu/status/2071291954508497217/photo/1",
+          "media_key": "3_2071291944224088065",
+          "start": 42,
+          "url": "https://t.co/occJ3wIa6G"
+        },
+        {
+          "display_url": "pic.x.com/occJ3wIa6G",
+          "end": 65,
+          "expanded_url": "https://x.com/uixxixu/status/2071291954508497217/photo/1",
+          "media_key": "3_2071291944240898048",
+          "start": 42,
+          "url": "https://t.co/occJ3wIa6G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071291954508497217",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "快回家和我一起吃宵夜看地狱占星师 \n香得我直流口水@takanashi110998 https://t.co/occJ3wIa6G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071291944224088065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL61DJGa4AEeAfb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071291944240898048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL61DJKbYAAx3Bc.jpg",
+        "width": 1686
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071291944224088065",
+            "3_2071291944240898048"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071291954508497217",
+        "created_at": "2026-06-28T17:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071291954508497217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1700762210035748864",
+              "start": 25,
+              "username": "takanashi110998"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/occJ3wIa6G",
+              "end": 65,
+              "expanded_url": "https://x.com/uixxixu/status/2071291954508497217/photo/1",
+              "media_key": "3_2071291944224088065",
+              "start": 42,
+              "url": "https://t.co/occJ3wIa6G"
+            },
+            {
+              "display_url": "pic.x.com/occJ3wIa6G",
+              "end": 65,
+              "expanded_url": "https://x.com/uixxixu/status/2071291954508497217/photo/1",
+              "media_key": "3_2071291944240898048",
+              "start": 42,
+              "url": "https://t.co/occJ3wIa6G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071291954508497217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快回家和我一起吃宵夜看地狱占星师 \n香得我直流口水@takanashi110998 https://t.co/occJ3wIa6G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 525,
+          "like_count": 6329,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 4003
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T06:44:54.000Z",
+        "description": "哈哈\nhttps://t.co/ventaKOcKj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/akanolain…",
+                "end": 26,
+                "expanded_url": "https://bangumi.tv/user/akanolain11037",
+                "start": 3,
+                "url": "https://t.co/ventaKOcKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinolov.com",
+                "end": 23,
+                "expanded_url": "http://yukinolov.com",
+                "start": 0,
+                "url": "https://t.co/VD7b9X5i6i"
+              }
+            ]
+          }
+        },
+        "id": "1700762210035748864",
+        "location": "白樺",
+        "name": "藤原破坏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025447924319100928/mM1jAGBs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 38,
+          "like_count": 4408,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/VD7b9X5i6i",
+        "username": "takanashi110998",
+        "verified": false
+      }
+    ]
+  }
+}

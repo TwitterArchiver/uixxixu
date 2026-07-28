@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002671303023816704",
+        "3_2002671303019593728",
+        "3_2002671303011246082"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002671406614741336",
+    "created_at": "2025-12-21T09:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002671406614741336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wlqIezVOu7",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2002671406614741336/photo/1",
+          "media_key": "3_2002671303023816704",
+          "start": 17,
+          "url": "https://t.co/wlqIezVOu7"
+        },
+        {
+          "display_url": "pic.x.com/wlqIezVOu7",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2002671406614741336/photo/1",
+          "media_key": "3_2002671303019593728",
+          "start": 17,
+          "url": "https://t.co/wlqIezVOu7"
+        },
+        {
+          "display_url": "pic.x.com/wlqIezVOu7",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2002671406614741336/photo/1",
+          "media_key": "3_2002671303011246082",
+          "start": 17,
+          "url": "https://t.co/wlqIezVOu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002671406614741336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我上班就这样\n很好的一款挂机游戏 https://t.co/wlqIezVOu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2002671303023816704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rq8IKacAAXS_F.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1210,
+        "media_key": "3_2002671303019593728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rq8IJaAAA_GhO.jpg",
+        "width": 1648
+      },
+      {
+        "height": 831,
+        "media_key": "3_2002671303011246082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rq8IHaoAI8muN.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002671303023816704",
+            "3_2002671303019593728",
+            "3_2002671303011246082"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002671406614741336",
+        "created_at": "2025-12-21T09:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002671406614741336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wlqIezVOu7",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2002671406614741336/photo/1",
+              "media_key": "3_2002671303023816704",
+              "start": 17,
+              "url": "https://t.co/wlqIezVOu7"
+            },
+            {
+              "display_url": "pic.x.com/wlqIezVOu7",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2002671406614741336/photo/1",
+              "media_key": "3_2002671303019593728",
+              "start": 17,
+              "url": "https://t.co/wlqIezVOu7"
+            },
+            {
+              "display_url": "pic.x.com/wlqIezVOu7",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2002671406614741336/photo/1",
+              "media_key": "3_2002671303011246082",
+              "start": 17,
+              "url": "https://t.co/wlqIezVOu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002671406614741336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上班就这样\n很好的一款挂机游戏 https://t.co/wlqIezVOu7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。暂时看不到私信抱歉！",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 234
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

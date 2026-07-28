@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2035780822444511645",
+    "created_at": "2026-03-22T18:09:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T19:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035780822444511645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uixxixu/status…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/uixxixu/status/2035777861471322378",
+          "start": 140,
+          "url": "https://t.co/OkS2yLrsa5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035780822444511645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035777861471322378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要的改变不是装作正常，不是社会化。而仅仅是是想要换一个居住的地方，一个阳光能照进来的客厅，一个爱人。我得离开现居地，这里有太多坏回忆，虽然我很少再想起什么了。但话说回来我也还是得装作正常，我一年没回爸妈家了。还有我的工作A了半年，马上就交不了房租了，所以还要装作正常去工作。 https://t.co/OkS2yLrsa5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2035780822444511645",
+        "created_at": "2026-03-22T18:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T19:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035780822444511645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uixxixu/status…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/uixxixu/status/2035777861471322378",
+              "start": 140,
+              "url": "https://t.co/OkS2yLrsa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035780822444511645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035777861471322378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要的改变不是装作正常，不是社会化。而仅仅是是想要换一个居住的地方，一个阳光能照进来的客厅，一个爱人。我得离开现居地，这里有太多坏回忆，虽然我很少再想起什么了。但话说回来我也还是得装作正常，我一年没回爸妈家了。还有我的工作A了半年，马上就交不了房租了，所以还要装作正常去工作。 https://t.co/OkS2yLrsa5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2035776278016725386",
+        "created_at": "2026-03-22T17:57:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T18:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035777861471322378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035777861471322378",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035776278016725386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "久不用dxm的时候我觉得我说话的能力有点回来了，所以我更能表达我自己了。这一点很重要，所以我会减少dxm频率。我不得不去面对社会，外人，以及男友或者好友，解离太多我这个人都没法再装作正常了。必须装作正常的时候终将会来临的。我很想要改变，拜托了，给自己勇气去改变吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 244,
+          "like_count": 3903,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2029
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

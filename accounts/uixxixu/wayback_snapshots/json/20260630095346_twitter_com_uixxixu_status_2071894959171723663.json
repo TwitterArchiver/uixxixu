@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2071894959171723663",
+    "created_at": "2026-06-30T09:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071894959171723663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mossneverdie/s…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/mossneverdie/status/2071783762770427930",
+          "start": 100,
+          "url": "https://t.co/rSew76nsRF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071894959171723663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071783762770427930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如此高完成度的妆造 包括假发 \n在推特这个平台算超高质量了\n建议先多发点生活照 让人熟悉一下\n不然大家：哪冒出来这么美的美女的\n要流量可以先打磨一下基础\n未来超级超级喜欢你呀 \n你会得到你想要的❤️ https://t.co/rSew76nsRF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071783745305317376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB0Vu5aEAAPHOq.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2071894959171723663",
+        "created_at": "2026-06-30T09:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071894959171723663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mossneverdie/s…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/mossneverdie/status/2071783762770427930",
+              "start": 100,
+              "url": "https://t.co/rSew76nsRF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071894959171723663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071783762770427930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如此高完成度的妆造 包括假发 \n在推特这个平台算超高质量了\n建议先多发点生活照 让人熟悉一下\n不然大家：哪冒出来这么美的美女的\n要流量可以先打磨一下基础\n未来超级超级喜欢你呀 \n你会得到你想要的❤️ https://t.co/rSew76nsRF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071783745305317376"
+          ]
+        },
+        "author_id": "1874756593616891904",
+        "conversation_id": "2071783762770427930",
+        "created_at": "2026-06-30T02:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071783762770427930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "アスナ"
+            },
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "一之濑明日奈"
+            },
+            {
+              "end": 32,
+              "start": 13,
+              "tag": "asuna_blue_archive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/swza0ogjBW",
+              "end": 74,
+              "expanded_url": "https://x.com/mossneverdie/status/2071783762770427930/photo/1",
+              "media_key": "3_2071783745305317376",
+              "start": 51,
+              "url": "https://t.co/swza0ogjBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071783762770427930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#アスナ #一之濑明日奈 #asuna_blue_archive 出了明日奈！୧₍˄·͈༝·͈˄₎୨ https://t.co/swza0ogjBW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 522,
+          "like_count": 6341,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T09:56:25.000Z",
+        "description": "坐标成都 本来是画师现在下海了 过门🚪55加微信/88+五擦边图+可约/188+luo照/1314不太可能所以我不梦了喵✞（口令红包/置顶收款码都能给了后私我加我wx）",
+        "id": "1874756593616891904",
+        "location": "成都",
+        "name": "🔞想死更想留巴黎🔞",
+        "pinned_tweet_id": "2069724791670727154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919631170717024262/cC3Kglti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 580,
+          "like_count": 2953,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 402
+        },
+        "url": "",
+        "username": "mossneverdie",
+        "verified": false
+      }
+    ]
+  }
+}

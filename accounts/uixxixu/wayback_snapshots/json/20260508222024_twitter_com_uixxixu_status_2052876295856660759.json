@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2052876295856660759",
+    "created_at": "2026-05-08T22:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T23:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052876295856660759"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "电子烟"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052876295856660759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052794716375412790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 🧃已经定好哩！做个活动🧃\n\n活动来啦！#电子烟 即将上架——继承自树代理的厂家，我想继续更好地服务大家！\n\n现在进行推广活动拜托大家多多参与～\n\nno.1 您指定款式任选，我报销*1\nno.2 muji罗勒香薰蜡烛代付或者直接转*1\nno.3 10…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052791977843019777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz7bX0a0AEOVtQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2052876295856660759",
+        "created_at": "2026-05-08T22:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052876295856660759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "电子烟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452123941686976519",
+              "start": 3,
+              "username": "C21Koy_7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052876295856660759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052794716375412790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C21Koy_7c: 🧃已经定好哩！做个活动🧃\n\n活动来啦！#电子烟 即将上架——继承自树代理的厂家，我想继续更好地服务大家！\n\n现在进行推广活动拜托大家多多参与～\n\nno.1 您指定款式任选，我报销*1\nno.2 muji罗勒香薰蜡烛代付或者直接转*1\nno.3 10…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052791977843019777"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2052794716375412790",
+        "created_at": "2026-05-08T16:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:45:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052791994909680038",
+          "2052794716375412790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "电子烟"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 150,
+              "id": "1632832954421633029",
+              "start": 141,
+              "username": "482xxnay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGNNsa6Fgi",
+              "end": 174,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2052794716375412790/photo/1",
+              "media_key": "3_2052791977843019777",
+              "start": 151,
+              "url": "https://t.co/zGNNsa6Fgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052794716375412790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "电子烟"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 150,
+                "id": "1632832954421633029",
+                "start": 141,
+                "username": "482xxnay"
+              },
+              {
+                "end": 193,
+                "id": "1632832954421633029",
+                "start": 184,
+                "username": "482xxnay"
+              }
+            ]
+          },
+          "text": "🧃已经定好哩！做个活动🧃\n\n活动来啦！#电子烟 即将上架——继承自树代理的厂家，我想继续更好地服务大家！\n\n现在进行推广活动拜托大家多多参与～\n\nno.1 您指定款式任选，我报销*1\nno.2 muji罗勒香薰蜡烛代付或者直接转*1\nno.3 10¥*3\n\n参与条件：fo本人营业号@482xxnay ，转发它的置顶引用并评论点赞它，或者本贴，谢谢大家喵但是一定要关注@482xxnay \n\n活动时限：5.9日算起 五天截止并开奖\n\n盐制肉鸦会努力的！请大家多多捧场那个Nay被肉鸦制🥺抱歉要重新算"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🧃已经定好哩！做个活动🧃\n\n活动来啦！#电子烟 即将上架——继承自树代理的厂家，我想继续更好地服务大家！\n\n现在进行推广活动拜托大家多多参与～\n\nno.1 您指定款式任选，我报销*1\nno.2 muji罗勒香薰蜡烛代付或者直接转*1\nno.3 10¥*3\n\n参与条件：fo本人营业号@482xxnay https://t.co/zGNNsa6Fgi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 362,
+          "like_count": 5203,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2875
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1340,
+          "following_count": 3540,
+          "like_count": 31895,
+          "listed_count": 2,
+          "media_count": 2281,
+          "tweet_count": 29795
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

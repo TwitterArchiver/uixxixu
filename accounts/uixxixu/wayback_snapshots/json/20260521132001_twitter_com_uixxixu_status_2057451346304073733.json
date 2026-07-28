@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057451346304073733",
+    "created_at": "2026-05-21T13:20:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057451346304073733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2054912328978817024",
+          "start": 3,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057451346304073733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055250672657064041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite2: 我是 反胃的Sisyphus(十七)\n本账号 反胃的YozoOba 作为备用号\n一号目前因为eat xanax被误封 申诉近三天无回应\n\n暂时用本账号回复大家问题，\n后面一号如果复活的话用本账号发trip记录或者其他什么东西(待定)\n这…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2055250608953966592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW3iicbQAAcZ3b.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057451346304073733",
+        "created_at": "2026-05-21T13:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057451346304073733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2054912328978817024",
+              "start": 3,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057451346304073733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055250672657064041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite2: 我是 反胃的Sisyphus(十七)\n本账号 反胃的YozoOba 作为备用号\n一号目前因为eat xanax被误封 申诉近三天无回应\n\n暂时用本账号回复大家问题，\n后面一号如果复活的话用本账号发trip记录或者其他什么东西(待定)\n这…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055250608953966592"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "conversation_id": "2055250672657064041",
+        "created_at": "2026-05-15T11:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055250672657064041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vOyhCt3pfR",
+              "end": 161,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2055250672657064041/photo/1",
+              "media_key": "3_2055250608953966592",
+              "start": 138,
+              "url": "https://t.co/vOyhCt3pfR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055250672657064041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4891,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "我是 反胃的Sisyphus(十七)\n本账号 反胃的YozoOba 作为备用号\n一号目前因为eat xanax被误封 申诉近三天无回应\n\n暂时用本账号回复大家问题，\n后面一号如果复活的话用本账号发trip记录或者其他什么东西(待定)\n这里希望大家帮我转帖\n谢谢你们 爱你们. https://t.co/vOyhCt3pfR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 414,
+          "like_count": 5411,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 3123
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xingstaro"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "futi999139732"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 59
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056358781995642880"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2056358790120062994",
+    "created_at": "2026-05-18T12:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056358790120062994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XpVat6kt33",
+          "end": 34,
+          "expanded_url": "https://x.com/uixxixu/status/2056358790120062994/photo/1",
+          "media_key": "3_2056358781995642880",
+          "start": 11,
+          "url": "https://t.co/XpVat6kt33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056358790120062994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗑大了也想不出来这话 https://t.co/XpVat6kt33"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 772,
+        "media_key": "3_2056358781995642880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImnasua8AAWnOE.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056358781995642880"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2056358790120062994",
+        "created_at": "2026-05-18T12:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056358790120062994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XpVat6kt33",
+              "end": 34,
+              "expanded_url": "https://x.com/uixxixu/status/2056358790120062994/photo/1",
+              "media_key": "3_2056358781995642880",
+              "start": 11,
+              "url": "https://t.co/XpVat6kt33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056358790120062994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗑大了也想不出来这话 https://t.co/XpVat6kt33"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 404,
+          "like_count": 5362,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3017
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

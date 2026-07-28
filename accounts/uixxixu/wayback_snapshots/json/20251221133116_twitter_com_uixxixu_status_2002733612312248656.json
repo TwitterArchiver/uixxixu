@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2002720438527676784",
+    "created_at": "2025-12-21T13:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T14:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002733612312248656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1180026205518610432",
+          "start": 0,
+          "username": "XiuJingDe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002733612312248656",
+    "in_reply_to_user_id": "1180026205518610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002720438527676784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe 可能是迷恋痛苦，因为痛苦才是最最熟悉的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2002720438527676784",
+        "created_at": "2025-12-21T13:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002733612312248656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1180026205518610432",
+              "start": 0,
+              "username": "XiuJingDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002733612312248656",
+        "in_reply_to_user_id": "1180026205518610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002720438527676784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe 可能是迷恋痛苦，因为痛苦才是最最熟悉的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1180026205518610432",
+        "conversation_id": "2002720438527676784",
+        "created_at": "2025-12-21T12:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T13:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002720438527676784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002720438527676784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也不知道是为什么，我总是遇见痛苦的感情，一开始我觉得是别人的问题，但次数多了我就开始迷茫了，好像我自身问题也不小\n且我发现对我来说似乎痛苦的感情反而能维持的更长久，对此也越陷越深，两个人不断螺旋下坠，我一度想逃离亲密关系，因为这对我似乎有弊无利，但等真的遇到了又做不到断舍离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 236
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-04T07:45:52.000Z",
+        "description": "你们要努力进窄门",
+        "id": "1180026205518610432",
+        "location": "网络世界",
+        "name": "修靖德",
+        "pinned_tweet_id": "1714981050299089268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976123495089307648/A2B4Y1Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21538,
+          "following_count": 175,
+          "like_count": 23774,
+          "listed_count": 32,
+          "media_count": 1380,
+          "tweet_count": 27470
+        },
+        "username": "XiuJingDe",
+        "verified": false
+      }
+    ]
+  }
+}

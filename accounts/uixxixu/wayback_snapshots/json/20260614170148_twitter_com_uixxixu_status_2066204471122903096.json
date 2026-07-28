@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2066202066595496408",
+    "created_at": "2026-06-14T17:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T18:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066204471122903096"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066204471122903096",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066204075985863038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "后面有个小白"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066204069732155392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKyhp3naAAAIA3Z.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2066202066595496408",
+        "created_at": "2026-06-14T17:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066204471122903096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066204471122903096",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066204075985863038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后面有个小白"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066204069732155392"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2066202066595496408",
+        "created_at": "2026-06-14T17:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T18:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066204075985863038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/13uHVfLjl4",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2066204075985863038/photo/1",
+              "media_key": "3_2066204069732155392",
+              "start": 4,
+              "url": "https://t.co/13uHVfLjl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066204075985863038",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066202066595496408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们三 https://t.co/13uHVfLjl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 497,
+          "like_count": 6089,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 3731
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

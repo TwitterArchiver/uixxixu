@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2024512945250848848",
+    "created_at": "2026-02-20T03:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T04:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024687588670657021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828234384949891072",
+          "start": 0,
+          "username": "linglingml77780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024687588670657021",
+    "in_reply_to_user_id": "1828234384949891072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024674697976418461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linglingml77780 这和酒量没关系。不懂的话可以不说话。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2024512945250848848",
+        "created_at": "2026-02-20T03:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024687588670657021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828234384949891072",
+              "start": 0,
+              "username": "linglingml77780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024687588670657021",
+        "in_reply_to_user_id": "1828234384949891072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024674697976418461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linglingml77780 这和酒量没关系。不懂的话可以不说话。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828234384949891072",
+        "conversation_id": "2024512945250848848",
+        "created_at": "2026-02-20T02:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024674697976418461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024674697976418461",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024512945250848848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 酒量够差，少喝点就行(ಡωಡ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注 提问箱：https://t.co/x0cgvD82pi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 51,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 28,
+                "url": "https://t.co/x0cgvD82pi"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 204,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1721
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:53:58.000Z",
+        "description": "偶尔浏览推特，大部分时间在晚上",
+        "id": "1828234384949891072",
+        "location": "私立直江津高等学校3年1班、\n\n",
+        "name": "阿良良木历",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828234530697732096/o1RjqKNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 247,
+          "like_count": 8538,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1143
+        },
+        "username": "linglingml77780",
+        "verified": false
+      }
+    ]
+  }
+}

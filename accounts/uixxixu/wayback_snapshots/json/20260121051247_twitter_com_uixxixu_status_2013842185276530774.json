@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2013344603492278654",
+    "created_at": "2026-01-21T05:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T06:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013842185276530774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1089060367609647104",
+          "start": 0,
+          "username": "jadevine5164"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013842185276530774",
+    "in_reply_to_user_id": "1089060367609647104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013835970982879494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jadevine5164 吃饭之后血糖快速升高引起的嗜睡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2013344603492278654",
+        "created_at": "2026-01-21T05:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T06:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013842185276530774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1089060367609647104",
+              "start": 0,
+              "username": "jadevine5164"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013842185276530774",
+        "in_reply_to_user_id": "1089060367609647104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013835970982879494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jadevine5164 吃饭之后血糖快速升高引起的嗜睡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1089060367609647104",
+        "conversation_id": "2013344603492278654",
+        "created_at": "2026-01-21T04:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013835970982879494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013835970982879494",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013344603492278654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 晕碳是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 想和同类互fo 提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 52,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 29,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 135,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 990
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-26T07:20:00.000Z",
+        "description": "きゃわいいものあつめる",
+        "id": "1089060367609647104",
+        "location": "Корочанский район, Белгородска",
+        "name": "kokomu444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013838753648058368/gduECR-H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 116,
+          "like_count": 931,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "username": "jadevine5164",
+        "verified": false
+      }
+    ]
+  }
+}

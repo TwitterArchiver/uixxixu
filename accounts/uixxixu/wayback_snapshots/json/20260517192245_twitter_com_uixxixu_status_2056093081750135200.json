@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2056043517055815833",
+    "created_at": "2026-05-17T19:22:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:22:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056093081750135200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2032797563850768384",
+          "start": 0,
+          "username": "CaffFrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056093081750135200",
+    "in_reply_to_user_id": "2032797563850768384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056069470121234834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaffFrog 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2056043517055815833",
+        "created_at": "2026-05-17T19:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056093081750135200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2032797563850768384",
+              "start": 0,
+              "username": "CaffFrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056093081750135200",
+        "in_reply_to_user_id": "2032797563850768384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056069470121234834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaffFrog 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032797563850768384",
+        "conversation_id": "2056043517055815833",
+        "created_at": "2026-05-17T17:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T18:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056069470121234834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056069470121234834",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056043517055815833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 你俩好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 402,
+          "like_count": 5364,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 3014
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:34:54.000Z",
+        "description": "🐸蛙/she/they🏳️‍⚧️mtx/酷儿🧠BPD👁️od💛NSFW/裸图/血图\n🚨安娜其康米/后现代女权⚠️顺直男小粉红健全b别来",
+        "id": "2032797563850768384",
+        "name": "蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055852062165151744/Ap4jh3aB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 28,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 47
+        },
+        "username": "CaffFrog",
+        "verified": false
+      }
+    ]
+  }
+}

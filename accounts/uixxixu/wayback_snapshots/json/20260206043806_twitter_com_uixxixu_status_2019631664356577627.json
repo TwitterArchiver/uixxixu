@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019631653531058176",
+        "3_2019631653535219712",
+        "3_2019631653526859780"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2019631664356577627",
+    "created_at": "2026-02-06T04:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019631664356577627"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QyUHBBY6Ix",
+          "end": 47,
+          "expanded_url": "https://x.com/uixxixu/status/2019631664356577627/photo/1",
+          "media_key": "3_2019631653531058176",
+          "start": 24,
+          "url": "https://t.co/QyUHBBY6Ix"
+        },
+        {
+          "display_url": "pic.x.com/QyUHBBY6Ix",
+          "end": 47,
+          "expanded_url": "https://x.com/uixxixu/status/2019631664356577627/photo/1",
+          "media_key": "3_2019631653535219712",
+          "start": 24,
+          "url": "https://t.co/QyUHBBY6Ix"
+        },
+        {
+          "display_url": "pic.x.com/QyUHBBY6Ix",
+          "end": 47,
+          "expanded_url": "https://x.com/uixxixu/status/2019631664356577627/photo/1",
+          "media_key": "3_2019631653526859780",
+          "start": 24,
+          "url": "https://t.co/QyUHBBY6Ix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019631664356577627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "趁有药效的时候赶紧收拾好自己去海边散步看书发呆 https://t.co/QyUHBBY6Ix"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019631653531058176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcsSdXagAAkp5m.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019631653535219712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcsSdYaAAApzeL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019631653526859780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcsSdWacAQuQk3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019631653531058176",
+            "3_2019631653535219712",
+            "3_2019631653526859780"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2019631664356577627",
+        "created_at": "2026-02-06T04:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019631664356577627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QyUHBBY6Ix",
+              "end": 47,
+              "expanded_url": "https://x.com/uixxixu/status/2019631664356577627/photo/1",
+              "media_key": "3_2019631653531058176",
+              "start": 24,
+              "url": "https://t.co/QyUHBBY6Ix"
+            },
+            {
+              "display_url": "pic.x.com/QyUHBBY6Ix",
+              "end": 47,
+              "expanded_url": "https://x.com/uixxixu/status/2019631664356577627/photo/1",
+              "media_key": "3_2019631653535219712",
+              "start": 24,
+              "url": "https://t.co/QyUHBBY6Ix"
+            },
+            {
+              "display_url": "pic.x.com/QyUHBBY6Ix",
+              "end": 47,
+              "expanded_url": "https://x.com/uixxixu/status/2019631664356577627/photo/1",
+              "media_key": "3_2019631653526859780",
+              "start": 24,
+              "url": "https://t.co/QyUHBBY6Ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019631664356577627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "趁有药效的时候赶紧收拾好自己去海边散步看书发呆 https://t.co/QyUHBBY6Ix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 不混任何圈子 健全人别关注我 想和同类互fo 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 180,
+          "like_count": 2501,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1430
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

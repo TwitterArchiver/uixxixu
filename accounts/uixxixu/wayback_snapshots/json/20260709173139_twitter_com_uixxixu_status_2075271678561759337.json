@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075271670441598976"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2075270390986031261",
+    "created_at": "2026-07-09T17:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T18:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075271678561759337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sEoF3gyfyX",
+          "end": 37,
+          "expanded_url": "https://x.com/uixxixu/status/2075271678561759337/photo/1",
+          "media_key": "3_2075271670441598976",
+          "start": 14,
+          "url": "https://t.co/sEoF3gyfyX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075271678561759337",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075270390986031261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你早就知道这个痛苦的真相吗 https://t.co/sEoF3gyfyX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2075271670441598976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzYlskaYAArlNV.jpg",
+        "width": 995
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2075270382068838400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzXatAaMAAZ3A3.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075271670441598976"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2075270390986031261",
+        "created_at": "2026-07-09T17:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075271678561759337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEoF3gyfyX",
+              "end": 37,
+              "expanded_url": "https://x.com/uixxixu/status/2075271678561759337/photo/1",
+              "media_key": "3_2075271670441598976",
+              "start": 14,
+              "url": "https://t.co/sEoF3gyfyX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075271678561759337",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075270390986031261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你早就知道这个痛苦的真相吗 https://t.co/sEoF3gyfyX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075270382068838400"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2075270390986031261",
+        "created_at": "2026-07-09T17:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T18:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075270390986031261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BFlxJ4dhb0",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2075270390986031261/photo/1",
+              "media_key": "3_2075270382068838400",
+              "start": 4,
+              "url": "https://t.co/BFlxJ4dhb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075270390986031261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么 https://t.co/BFlxJ4dhb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 527,
+          "like_count": 6489,
+          "listed_count": 0,
+          "media_count": 343,
+          "tweet_count": 4151
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052784215356514304"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2052784222042271926",
+    "created_at": "2026-05-08T16:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052784222042271926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Ql6EA2m6r",
+          "end": 26,
+          "expanded_url": "https://x.com/uixxixu/status/2052784222042271926/photo/1",
+          "media_key": "3_2052784215356514304",
+          "start": 3,
+          "url": "https://t.co/8Ql6EA2m6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052784222042271926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "邀请 https://t.co/8Ql6EA2m6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 695,
+        "media_key": "3_2052784215356514304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz0XiTaoAAI_1F.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052784215356514304"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2052784222042271926",
+        "created_at": "2026-05-08T16:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052784222042271926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Ql6EA2m6r",
+              "end": 26,
+              "expanded_url": "https://x.com/uixxixu/status/2052784222042271926/photo/1",
+              "media_key": "3_2052784215356514304",
+              "start": 3,
+              "url": "https://t.co/8Ql6EA2m6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052784222042271926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邀请 https://t.co/8Ql6EA2m6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 360,
+          "like_count": 5203,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 2867
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

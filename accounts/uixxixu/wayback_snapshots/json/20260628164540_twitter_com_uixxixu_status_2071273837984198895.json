@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071273828546924544",
+        "3_2071273828546928640"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2071273837984198895",
+    "created_at": "2026-06-28T16:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071273837984198895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6bHvphmBMT",
+          "end": 32,
+          "expanded_url": "https://x.com/uixxixu/status/2071273837984198895/photo/1",
+          "media_key": "3_2071273828546924544",
+          "start": 9,
+          "url": "https://t.co/6bHvphmBMT"
+        },
+        {
+          "display_url": "pic.x.com/6bHvphmBMT",
+          "end": 32,
+          "expanded_url": "https://x.com/uixxixu/status/2071273837984198895/photo/1",
+          "media_key": "3_2071273828546928640",
+          "start": 9,
+          "url": "https://t.co/6bHvphmBMT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071273837984198895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一直在打怪升级。 https://t.co/6bHvphmBMT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071273828546924544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6kkq8aUAAE2_W.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071273828546928640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6kkq8aYAA0QhO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071273828546924544",
+            "3_2071273828546928640"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2071273837984198895",
+        "created_at": "2026-06-28T16:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071273837984198895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bHvphmBMT",
+              "end": 32,
+              "expanded_url": "https://x.com/uixxixu/status/2071273837984198895/photo/1",
+              "media_key": "3_2071273828546924544",
+              "start": 9,
+              "url": "https://t.co/6bHvphmBMT"
+            },
+            {
+              "display_url": "pic.x.com/6bHvphmBMT",
+              "end": 32,
+              "expanded_url": "https://x.com/uixxixu/status/2071273837984198895/photo/1",
+              "media_key": "3_2071273828546928640",
+              "start": 9,
+              "url": "https://t.co/6bHvphmBMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071273837984198895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直在打怪升级。 https://t.co/6bHvphmBMT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 524,
+          "like_count": 6327,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 3999
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

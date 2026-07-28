@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2053053590877720825",
+    "created_at": "2026-05-09T10:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T11:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053053590877720825"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053053590877720825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚我和狗说以后惩罚加一个：干嚼愈美片。他真的马上就去嚼了,说味道还好。我震惊了好久……我不知道说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2053053590877720825",
+        "created_at": "2026-05-09T10:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053053590877720825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053053590877720825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚我和狗说以后惩罚加一个：干嚼愈美片。他真的马上就去嚼了,说味道还好。我震惊了好久……我不知道说什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注/不加墙内",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2047261904759050303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 369,
+          "like_count": 5205,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 2878
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

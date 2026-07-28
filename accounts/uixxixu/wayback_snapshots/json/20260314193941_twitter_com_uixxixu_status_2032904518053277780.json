@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2032819388940959993",
+    "created_at": "2026-03-14T19:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T20:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032904518053277780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "cxxf1zh"
+        },
+        {
+          "end": 22,
+          "id": "622036546",
+          "start": 9,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032904518053277780",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032821335488082338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxxf1zh @overdose_six 因为焦虑⦁֊⦁꧞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2032819388940959993",
+        "created_at": "2026-03-14T19:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T20:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032904518053277780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "cxxf1zh"
+            },
+            {
+              "end": 22,
+              "id": "622036546",
+              "start": 9,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032904518053277780",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032821335488082338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxxf1zh @overdose_six 因为焦虑⦁֊⦁꧞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2032819388940959993",
+        "created_at": "2026-03-14T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032821335488082338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032821335488082338",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032819388940959993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 都能搞到lsd了，还需要联用pr嘛😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 56,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 33,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 228,
+          "like_count": 3737,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1952
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "把我发的任何东西搬墙内的福如野狗，寿比春蚕😉",
+        "id": "1782303137136852992",
+        "location": "Shibuya, Tokyo",
+        "name": "一澤子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009290585430274048/oAhjPj-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 707,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 245
+        },
+        "username": "cxxf1zh",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/Wxb5OnS7cE | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 26,
+                "expanded_url": "http://fayou.sbs",
+                "start": 3,
+                "url": "https://t.co/Wxb5OnS7cE"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2835,
+          "following_count": 93,
+          "like_count": 11355,
+          "listed_count": 9,
+          "media_count": 663,
+          "tweet_count": 3968
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

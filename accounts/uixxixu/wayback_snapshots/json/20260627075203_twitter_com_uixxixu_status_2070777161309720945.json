@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2070686822523695584",
+    "created_at": "2026-06-27T07:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070777161309720945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057743680061255680",
+          "start": 0,
+          "username": "Koroshiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070777161309720945",
+    "in_reply_to_user_id": "2057743680061255680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070686822523695584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Koroshiiiiiii 这个灯也好幻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2070686536581226498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyObx4boAIFue3.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2070686536581185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyObx4bAAA2oDs.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2070686536572846080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyObx2bwAAWu87.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2070686822523695584",
+        "created_at": "2026-06-27T07:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070777161309720945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057743680061255680",
+              "start": 0,
+              "username": "Koroshiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070777161309720945",
+        "in_reply_to_user_id": "2057743680061255680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070686822523695584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Koroshiiiiiii 这个灯也好幻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070686536581226498",
+            "3_2070686536581185536",
+            "3_2070686536572846080"
+          ]
+        },
+        "author_id": "2057743680061255680",
+        "conversation_id": "2070686822523695584",
+        "created_at": "2026-06-27T01:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070686822523695584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQFRvaHhIh",
+              "end": 30,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070686822523695584/photo/1",
+              "media_key": "3_2070686536581226498",
+              "start": 7,
+              "url": "https://t.co/qQFRvaHhIh"
+            },
+            {
+              "display_url": "pic.x.com/qQFRvaHhIh",
+              "end": 30,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070686822523695584/photo/1",
+              "media_key": "3_2070686536581185536",
+              "start": 7,
+              "url": "https://t.co/qQFRvaHhIh"
+            },
+            {
+              "display_url": "pic.x.com/qQFRvaHhIh",
+              "end": 30,
+              "expanded_url": "https://x.com/Koroshiiiiiii/status/2070686822523695584/photo/1",
+              "media_key": "3_2070686536572846080",
+              "start": 7,
+              "url": "https://t.co/qQFRvaHhIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070686822523695584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "but就够了 https://t.co/qQFRvaHhIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 521,
+          "like_count": 6294,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 3963
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T08:44:46.000Z",
+        "description": "可以叫小杀🦋同名\n退役Oder/不🔪🩸/致幻/日本語🇯🇵简繁中🇨🇳Eng🇬🇧Deutsch🇩🇪/药理学习中/随缘互fo/不出售任何物质，私信匿名提问🉑\n关于个人trip报告👇🏻\nhttps://t.co/bo7UxZdgdF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cg7KXvKW0Nb1…",
+                "end": 112,
+                "expanded_url": "https://www.kdocs.cn/l/cg7KXvKW0Nb1?f=301",
+                "start": 89,
+                "url": "https://t.co/bo7UxZdgdF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B1%B1%E6%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B1%B1%E6%9C%AC%E6%AE%BA%E3%81%97",
+                "start": 0,
+                "url": "https://t.co/kGVlVzRycD"
+              }
+            ]
+          }
+        },
+        "id": "2057743680061255680",
+        "location": "✟升天✟",
+        "name": "山本殺し✰",
+        "pinned_tweet_id": "2057747022443389150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057744621166628864/0Fz6K0Ld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 343,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 792
+        },
+        "url": "https://t.co/kGVlVzRycD",
+        "username": "Koroshiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

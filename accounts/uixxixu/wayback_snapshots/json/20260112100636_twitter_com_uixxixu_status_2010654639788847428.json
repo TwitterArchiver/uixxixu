@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2010644284526281101",
+    "created_at": "2026-01-12T10:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010654639788847428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750922170329669632",
+          "start": 0,
+          "username": "WHY761595083014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010654639788847428",
+    "in_reply_to_user_id": "1750922170329669632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010652983642697768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WHY761595083014 (͒˶´⚇`˵嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2010644284526281101",
+        "created_at": "2026-01-12T10:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010654639788847428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750922170329669632",
+              "start": 0,
+              "username": "WHY761595083014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010654639788847428",
+        "in_reply_to_user_id": "1750922170329669632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010652983642697768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WHY761595083014 (͒˶´⚇`˵嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750922170329669632",
+        "conversation_id": "2010644284526281101",
+        "created_at": "2026-01-12T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010652983642697768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010652983642697768",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010644284526281101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 你很好 你只是很痛苦 没有什么阴暗的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 117,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 650
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T16:42:43.000Z",
+        "description": "",
+        "id": "1750922170329669632",
+        "name": "明安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567207458742272/fM9HiNzC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 104,
+          "like_count": 2115,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 265
+        },
+        "username": "WHY761595083014",
+        "verified": false
+      }
+    ]
+  }
+}

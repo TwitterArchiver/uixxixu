@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2009917551976067196",
+    "created_at": "2026-01-10T18:59:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010064088077156798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007995602324643840",
+          "start": 0,
+          "username": "Aubergiking78"
+        },
+        {
+          "end": 31,
+          "id": "1999723623536574464",
+          "start": 15,
+          "username": "gaHKibIWtD53306"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010064088077156798",
+    "in_reply_to_user_id": "2007995602324643840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010027388483322065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aubergiking78 @gaHKibIWtD53306 我好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2009917551976067196",
+        "created_at": "2026-01-10T18:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010064088077156798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007995602324643840",
+              "start": 0,
+              "username": "Aubergiking78"
+            },
+            {
+              "end": 31,
+              "id": "1999723623536574464",
+              "start": 15,
+              "username": "gaHKibIWtD53306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010064088077156798",
+        "in_reply_to_user_id": "2007995602324643840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010027388483322065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aubergiking78 @gaHKibIWtD53306 我好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007995602324643840",
+        "conversation_id": "2009917551976067196",
+        "created_at": "2026-01-10T16:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010027388483322065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 25,
+              "id": "1999723623536574464",
+              "start": 9,
+              "username": "gaHKibIWtD53306"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010027388483322065",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009984558134124577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @gaHKibIWtD53306 多吃点蔬菜提纲运动做起来就好了还有别一直顿厕所里，说不定是痔疮呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 想和同类互fo                提问箱：https://t.co/7fLYIdyCI4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 60,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 37,
+                "url": "https://t.co/7fLYIdyCI4"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 111,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 599
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T02:01:06.000Z",
+        "description": "171cm 74kg 大一新生\n纯当朋友圈，如果看不惯就当我是乐子",
+        "id": "2007995602324643840",
+        "name": "111 Aubergine.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008395042906574848/X9yJArPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 45
+        },
+        "username": "Aubergiking78",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T06:10:49.000Z",
+        "description": "我是缺爱逼 喜欢碎碎念 ISFP 我想发什么就发什么纯绿🚪52没有福利。都是口嗨的。没有回就是私信被吞了！",
+        "id": "1999723623536574464",
+        "location": "距离你500米",
+        "name": "谁能一直爱我",
+        "pinned_tweet_id": "2000147742283489304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999723765044043776/VJqvA-u9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 71,
+          "like_count": 1795,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 993
+        },
+        "username": "gaHKibIWtD53306",
+        "verified": false
+      }
+    ]
+  }
+}

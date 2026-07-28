@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2006060259232866434",
+    "created_at": "2025-12-31T10:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006313116804817105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567203042872926208",
+          "start": 0,
+          "username": "Akinoyo_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006313116804817105",
+    "in_reply_to_user_id": "1567203042872926208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006060259232866434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akinoyo_desu 谢谢你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 425,
+        "media_key": "3_2006060250865229827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9b1K2raYAMRmfR.jpg",
+        "width": 425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2006060259232866434",
+        "created_at": "2025-12-31T10:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006313116804817105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567203042872926208",
+              "start": 0,
+              "username": "Akinoyo_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006313116804817105",
+        "in_reply_to_user_id": "1567203042872926208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006060259232866434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akinoyo_desu 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006060250865229827"
+          ]
+        },
+        "author_id": "1567203042872926208",
+        "conversation_id": "2006060259232866434",
+        "created_at": "2025-12-30T17:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T18:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006060259232866434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/blSAJnkiPS",
+              "end": 48,
+              "expanded_url": "https://x.com/Akinoyo_desu/status/2006060259232866434/photo/1",
+              "media_key": "3_2006060250865229827",
+              "start": 25,
+              "url": "https://t.co/blSAJnkiPS"
+            },
+            {
+              "display_url": "x.com/eternal1uv9/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/eternal1uv9/status/2005949113523732699",
+              "start": 49,
+              "url": "https://t.co/RbJpTx0dld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006060259232866434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005949113523732699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我立功了！！！\n我让所有人用上了马+7处方！！！ https://t.co/blSAJnkiPS https://t.co/RbJpTx0dld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "镇静药物全是梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709456648122368/F6HXQJOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 99,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 364
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！/提问：https://t.co/IopkqyzpO2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akinoyo",
+                "end": 35,
+                "expanded_url": "https://ngl.link/akinoyo",
+                "start": 12,
+                "url": "https://t.co/IopkqyzpO2"
+              }
+            ]
+          }
+        },
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "pinned_tweet_id": "1992482113288057078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994269975994093570/byGK0SnU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 450,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 396
+        },
+        "username": "Akinoyo_desu",
+        "verified": true
+      }
+    ]
+  }
+}

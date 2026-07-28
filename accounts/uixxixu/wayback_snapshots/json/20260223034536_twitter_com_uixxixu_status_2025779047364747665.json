@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2025663497498182006",
+    "created_at": "2026-02-23T03:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T04:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025779047364747665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1777176214652035072",
+          "start": 0,
+          "username": "7u7uqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025779047364747665",
+    "in_reply_to_user_id": "1777176214652035072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025663497498182006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7u7uqu 他急了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025663486345580544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByaNVobkAAcyUZ.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025663486345506816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HByaNVoacAAxdz2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2025663497498182006",
+        "created_at": "2026-02-23T03:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T04:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025779047364747665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1777176214652035072",
+              "start": 0,
+              "username": "7u7uqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025779047364747665",
+        "in_reply_to_user_id": "1777176214652035072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025663497498182006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7u7uqu 他急了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025663486345580544",
+            "3_2025663486345506816"
+          ]
+        },
+        "author_id": "1777176214652035072",
+        "conversation_id": "2025663497498182006",
+        "created_at": "2026-02-22T20:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T21:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025663497498182006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0DJhGsS3Q",
+              "end": 124,
+              "expanded_url": "https://x.com/7u7uqu/status/2025663497498182006/photo/1",
+              "media_key": "3_2025663486345580544",
+              "start": 101,
+              "url": "https://t.co/N0DJhGsS3Q"
+            },
+            {
+              "display_url": "pic.x.com/N0DJhGsS3Q",
+              "end": 124,
+              "expanded_url": "https://x.com/7u7uqu/status/2025663497498182006/photo/1",
+              "media_key": "3_2025663486345506816",
+              "start": 101,
+              "url": "https://t.co/N0DJhGsS3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025663497498182006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3072,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草泥马的真是给你脸了 我推特第一次挂人就是给你这种傻逼的 拿着小号发推文骂我还在我评论区底下暗戳戳at别人不知道何意味呀？就你这样的怂逼也好意思骂别人穷吗 想骂就直接来私信我骂啊装你妈呢我去？😳😳😳 https://t.co/N0DJhGsS3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 提问箱：https://t.co/7fLYIdzaxC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uoou30435",
+                "end": 56,
+                "expanded_url": "https://ngl.link/uoou30435",
+                "start": 33,
+                "url": "https://t.co/7fLYIdzaxC"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 216,
+          "like_count": 3382,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1814
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6974,
+          "following_count": 7,
+          "like_count": 98,
+          "listed_count": 9,
+          "media_count": 34,
+          "tweet_count": 244
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

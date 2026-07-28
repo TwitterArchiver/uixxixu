@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041853670174945280",
+        "3_2041853670195916800",
+        "3_2041853670187540480",
+        "3_2041853670166581248"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041853679654080529",
+    "created_at": "2026-04-08T12:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T13:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041853679654080529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rcAcrwZe4o",
+          "end": 57,
+          "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+          "media_key": "3_2041853670174945280",
+          "start": 34,
+          "url": "https://t.co/rcAcrwZe4o"
+        },
+        {
+          "display_url": "pic.x.com/rcAcrwZe4o",
+          "end": 57,
+          "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+          "media_key": "3_2041853670195916800",
+          "start": 34,
+          "url": "https://t.co/rcAcrwZe4o"
+        },
+        {
+          "display_url": "pic.x.com/rcAcrwZe4o",
+          "end": 57,
+          "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+          "media_key": "3_2041853670187540480",
+          "start": 34,
+          "url": "https://t.co/rcAcrwZe4o"
+        },
+        {
+          "display_url": "pic.x.com/rcAcrwZe4o",
+          "end": 57,
+          "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+          "media_key": "3_2041853670166581248",
+          "start": 34,
+          "url": "https://t.co/rcAcrwZe4o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041853679654080529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢哥特，我也喜欢可爱的东西。我自己弥补我的童年遗憾。游戏机也是。 https://t.co/rcAcrwZe4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041853670174945280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYfGEYa8AAR9_u.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041853670195916800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYfGEda8AAJ8C8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041853670187540480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYfGEbbIAA4-td.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041853670166581248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYfGEWbUAA-Lq8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041853670174945280",
+            "3_2041853670195916800",
+            "3_2041853670187540480",
+            "3_2041853670166581248"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041853679654080529",
+        "created_at": "2026-04-08T12:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T13:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041853679654080529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcAcrwZe4o",
+              "end": 57,
+              "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+              "media_key": "3_2041853670174945280",
+              "start": 34,
+              "url": "https://t.co/rcAcrwZe4o"
+            },
+            {
+              "display_url": "pic.x.com/rcAcrwZe4o",
+              "end": 57,
+              "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+              "media_key": "3_2041853670195916800",
+              "start": 34,
+              "url": "https://t.co/rcAcrwZe4o"
+            },
+            {
+              "display_url": "pic.x.com/rcAcrwZe4o",
+              "end": 57,
+              "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+              "media_key": "3_2041853670187540480",
+              "start": 34,
+              "url": "https://t.co/rcAcrwZe4o"
+            },
+            {
+              "display_url": "pic.x.com/rcAcrwZe4o",
+              "end": 57,
+              "expanded_url": "https://x.com/uixxixu/status/2041853679654080529/photo/1",
+              "media_key": "3_2041853670166581248",
+              "start": 34,
+              "url": "https://t.co/rcAcrwZe4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041853679654080529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢哥特，我也喜欢可爱的东西。我自己弥补我的童年遗憾。游戏机也是。 https://t.co/rcAcrwZe4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 280,
+          "like_count": 4424,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 2352
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

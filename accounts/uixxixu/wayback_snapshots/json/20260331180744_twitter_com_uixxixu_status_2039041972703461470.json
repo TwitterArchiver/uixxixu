@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2038649940696781182",
+    "created_at": "2026-03-31T18:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T19:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039041972703461470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1823160336691982336",
+          "start": 0,
+          "username": "Hozheganma"
+        },
+        {
+          "end": 24,
+          "id": "2029908828125548546",
+          "start": 12,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039041972703461470",
+    "in_reply_to_user_id": "1823160336691982336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038687967380934887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hozheganma @bui_tu46916 冷知识：成年人也可以离职，可以堕落，可以有精神疾病，可以无所事事。也可以周内上班周末od."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2038649940696781182",
+        "created_at": "2026-03-31T18:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039041972703461470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823160336691982336",
+              "start": 0,
+              "username": "Hozheganma"
+            },
+            {
+              "end": 24,
+              "id": "2029908828125548546",
+              "start": 12,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039041972703461470",
+        "in_reply_to_user_id": "1823160336691982336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038687967380934887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hozheganma @bui_tu46916 冷知识：成年人也可以离职，可以堕落，可以有精神疾病，可以无所事事。也可以周内上班周末od."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823160336691982336",
+        "conversation_id": "2038649940696781182",
+        "created_at": "2026-03-30T18:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038687967380934887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029908828125548546",
+              "start": 0,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038687967380934887",
+        "in_reply_to_user_id": "2029908828125548546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 426,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038649940696781182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bui_tu46916 成年人应该没有什么时间吧，另一方面来讲，他们甚至无暇刷到这条帖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 不混任何圈子 健全人别关注 不加墙内联系方式",
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2016071932660388162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 248,
+          "like_count": 4079,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2106
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T00:51:44.000Z",
+        "description": "09高中在读/已经滚出精卫。。/oder💊/自伤🤕/友跨/durg&set/同类互fo/现实与网络的反差人/                 \n匿名聊天↓（话说真的有人来么）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingganmogu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingganmogu",
+                "start": 0,
+                "url": "https://t.co/cNzWslTT8R"
+              }
+            ]
+          }
+        },
+        "id": "1823160336691982336",
+        "location": "天空",
+        "name": "沫依#Ng♓️（互fo喵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991569214524805120/tUZ2PIpI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 321,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 398
+        },
+        "url": "https://t.co/cNzWslTT8R",
+        "username": "Hozheganma",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "一只od的经验猫，憧憬成为od届的大手子。",
+        "id": "2029908828125548546",
+        "location": "普瑞巴林行动小组",
+        "name": "EXPcat",
+        "pinned_tweet_id": "2037056043453432137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029921107885838338/S82ZZ0Mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 146,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 345
+        },
+        "username": "bui_tu46916",
+        "verified": false
+      }
+    ]
+  }
+}

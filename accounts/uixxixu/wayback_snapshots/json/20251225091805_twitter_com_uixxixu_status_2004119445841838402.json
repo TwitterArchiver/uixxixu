@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004119437704830976"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2004119445841838402",
+    "created_at": "2025-12-25T09:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T10:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004119445841838402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/THn9U9ySnz",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2004119445841838402/photo/1",
+          "media_key": "3_2004119437704830976",
+          "start": 17,
+          "url": "https://t.co/THn9U9ySnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004119445841838402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的字和钱包里的钱都是小学生水平 https://t.co/THn9U9ySnz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1143,
+        "media_key": "3_2004119437704830976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AQAqPaIAAzBm_.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004119437704830976"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2004119445841838402",
+        "created_at": "2025-12-25T09:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004119445841838402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/THn9U9ySnz",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2004119445841838402/photo/1",
+              "media_key": "3_2004119437704830976",
+              "start": 17,
+              "url": "https://t.co/THn9U9ySnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004119445841838402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的字和钱包里的钱都是小学生水平 https://t.co/THn9U9ySnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "2003285496676642857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003709456648122368/F6HXQJOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 110,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 288
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2057704178127167539",
+    "created_at": "2026-05-22T06:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057705262195339669"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057705262195339669",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057704178127167539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在要上班是因为没钱 就这么简单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1984,
+        "media_key": "3_2057704170124455936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5vCmEbsAA3TYd.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057704178127167539",
+        "created_at": "2026-05-22T06:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057705262195339669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057705262195339669",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057704178127167539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在要上班是因为没钱 就这么简单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057704170124455936"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057704178127167539",
+        "created_at": "2026-05-22T06:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057704178127167539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iRPOElT6gX",
+              "end": 98,
+              "expanded_url": "https://x.com/uixxixu/status/2057704178127167539/photo/1",
+              "media_key": "3_2057704170124455936",
+              "start": 75,
+              "url": "https://t.co/iRPOElT6gX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057704178127167539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社会pua人类要上班 要有规律的生活\n不然就会焦虑 觉得自己一无是处\n我不需要这种方式来弥补我的空虚\n每个人有自己的生活方式 \n自己活好自己的就行了 https://t.co/iRPOElT6gX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 426,
+          "like_count": 5446,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 3149
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

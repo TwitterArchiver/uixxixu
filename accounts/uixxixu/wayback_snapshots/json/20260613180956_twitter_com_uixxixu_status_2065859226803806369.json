@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065859207904268288"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2065859226803806369",
+    "created_at": "2026-06-13T18:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065859226803806369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O6xkeTegEB",
+          "end": 117,
+          "expanded_url": "https://x.com/uixxixu/status/2065859226803806369/photo/1",
+          "media_key": "3_2065859207904268288",
+          "start": 94,
+          "url": "https://t.co/O6xkeTegEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065859226803806369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家坠机遇到身体受伤了 监护人一定要判断好该不该送医 不要增加无效的麻烦 反而会让当事人面临更加痛苦的局面\n血流不止再说吧。\n我找朋友了解了 遇到癫痫就掐它人中 把它握紧的拳头使劲掰开。 https://t.co/O6xkeTegEB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_2065859207904268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtoARMakAAni29.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065859207904268288"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2065859226803806369",
+        "created_at": "2026-06-13T18:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065859226803806369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6xkeTegEB",
+              "end": 117,
+              "expanded_url": "https://x.com/uixxixu/status/2065859226803806369/photo/1",
+              "media_key": "3_2065859207904268288",
+              "start": 94,
+              "url": "https://t.co/O6xkeTegEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065859226803806369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家坠机遇到身体受伤了 监护人一定要判断好该不该送医 不要增加无效的麻烦 反而会让当事人面临更加痛苦的局面\n血流不止再说吧。\n我找朋友了解了 遇到癫痫就掐它人中 把它握紧的拳头使劲掰开。 https://t.co/O6xkeTegEB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 493,
+          "like_count": 6053,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3709
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

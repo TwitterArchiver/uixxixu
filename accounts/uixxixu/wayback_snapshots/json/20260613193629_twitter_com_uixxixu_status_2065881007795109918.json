@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2065859226803806369",
+    "created_at": "2026-06-13T19:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T20:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065881007795109918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1806453255754723328",
+          "start": 0,
+          "username": "realwei900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065881007795109918",
+    "in_reply_to_user_id": "1806453255754723328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065875723257356614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realwei900 好 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2065859226803806369",
+        "created_at": "2026-06-13T19:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065881007795109918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1806453255754723328",
+              "start": 0,
+              "username": "realwei900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065881007795109918",
+        "in_reply_to_user_id": "1806453255754723328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065875723257356614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realwei900 好 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806453255754723328",
+        "conversation_id": "2065859226803806369",
+        "created_at": "2026-06-13T19:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065875723257356614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065875723257356614",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065874586517000315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 顺手把他科普的心肺复苏和海姆利克都给看了吧 都是很实用的技术😂 现在大部人心肺复苏都是瞎按"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2059497516085981679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 494,
+          "like_count": 6056,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 3713
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T22:23:19.000Z",
+        "description": "",
+        "id": "1806453255754723328",
+        "name": "Maoooooooo",
+        "pinned_tweet_id": "1928289775024247067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820688999792713728/iGxUSKop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 173,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "username": "realwei900",
+        "verified": false
+      }
+    ]
+  }
+}

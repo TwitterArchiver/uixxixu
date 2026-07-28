@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2003640458979999947",
+    "created_at": "2025-12-24T05:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003693138322554904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2003693138322554904",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003640458979999947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我为什么想照顾他？这个问题我不知道怎么回答。显然现在的我无法好好照顾他。并且我不得已地更多的需要他来照顾我。要说我以前习惯了照顾弟弟吗？这个不太好……是因为喜欢他所以想照顾他吗，这个回答又太简单了。到底该怎么回答，我自己都不知道自己在想什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2003640458979999947",
+        "created_at": "2025-12-24T05:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003693138322554904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003693138322554904",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003640458979999947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为什么想照顾他？这个问题我不知道怎么回答。显然现在的我无法好好照顾他。并且我不得已地更多的需要他来照顾我。要说我以前习惯了照顾弟弟吗？这个不太好……是因为喜欢他所以想照顾他吗，这个回答又太简单了。到底该怎么回答，我自己都不知道自己在想什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2003640458979999947",
+        "created_at": "2025-12-24T01:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T02:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003640458979999947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003640458979999947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "状态糟糕的时候我会冷落小狗。吃了药之后我才能有精力去哄，他嘤嘤地对我“抱怨”，但不会真的怨我，也知道我很累。我不觉得他对我造成了压力，只是很无奈我自己无法做好。我一直在撑着……\n我担心一件事成为事实，那就是我其实根本没法爱人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "pinned_tweet_id": "2003285496676642857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 109,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 273
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

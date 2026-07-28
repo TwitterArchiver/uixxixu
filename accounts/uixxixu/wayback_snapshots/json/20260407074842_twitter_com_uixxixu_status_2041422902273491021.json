@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2041407406169874664",
+    "created_at": "2026-04-07T07:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041422902273491021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1494669485214633984",
+          "start": 0,
+          "username": "57crz3oA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041422902273491021",
+    "in_reply_to_user_id": "1494669485214633984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041407406169874664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@57crz3oA 没有人那太好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041407395386347520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSJNdPb0AABeps.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2041407406169874664",
+        "created_at": "2026-04-07T07:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041422902273491021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1494669485214633984",
+              "start": 0,
+              "username": "57crz3oA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041422902273491021",
+        "in_reply_to_user_id": "1494669485214633984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041407406169874664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@57crz3oA 没有人那太好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041407395386347520"
+          ]
+        },
+        "author_id": "1494669485214633984",
+        "conversation_id": "2041407406169874664",
+        "created_at": "2026-04-07T06:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041407406169874664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGosdYQWav",
+              "end": 40,
+              "expanded_url": "https://x.com/57crz3oA/status/2041407406169874664/photo/1",
+              "media_key": "3_2041407395386347520",
+              "start": 17,
+              "url": "https://t.co/jGosdYQWav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041407406169874664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 307,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以来机厅，但那里已经没有人了 https://t.co/jGosdYQWav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 275,
+          "like_count": 4380,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 2305
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-18T13:45:58.000Z",
+        "description": "07|硬核科幻/航天/天文学|轨道交通|音游-mai_chu_ogk_arc_rtn|enby_any pronoun|L/acc|原子人",
+        "id": "1494669485214633984",
+        "location": "0.9km",
+        "name": "s2R2304",
+        "pinned_tweet_id": "2034666474976268342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013226822813581312/IlFzii36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 1550,
+          "like_count": 71396,
+          "listed_count": 1,
+          "media_count": 375,
+          "tweet_count": 4137
+        },
+        "username": "57crz3oA",
+        "verified": false
+      }
+    ]
+  }
+}

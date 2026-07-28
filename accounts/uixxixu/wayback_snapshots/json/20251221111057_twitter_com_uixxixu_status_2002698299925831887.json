@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002698287066058752",
+        "3_2002698287070277632",
+        "3_2002698287066005505"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002698299925831887",
+    "created_at": "2025-12-21T11:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T12:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002698299925831887"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8uBTTC2ecs",
+          "end": 109,
+          "expanded_url": "https://x.com/uixxixu/status/2002698299925831887/photo/1",
+          "media_key": "3_2002698287066058752",
+          "start": 86,
+          "url": "https://t.co/8uBTTC2ecs"
+        },
+        {
+          "display_url": "pic.x.com/8uBTTC2ecs",
+          "end": 109,
+          "expanded_url": "https://x.com/uixxixu/status/2002698299925831887/photo/1",
+          "media_key": "3_2002698287070277632",
+          "start": 86,
+          "url": "https://t.co/8uBTTC2ecs"
+        },
+        {
+          "display_url": "pic.x.com/8uBTTC2ecs",
+          "end": 109,
+          "expanded_url": "https://x.com/uixxixu/status/2002698299925831887/photo/1",
+          "media_key": "3_2002698287066005505",
+          "start": 86,
+          "url": "https://t.co/8uBTTC2ecs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002698299925831887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "前几周我去我姐家看了一本叫《一个人的好天气》的书里，我所想象的书里的房间布置和这个游戏里偶然找到的房子一模一样。我的模型在里面拍照，我在想，要是我能真的出现在这里就好了。 https://t.co/8uBTTC2ecs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2002698287066058752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sDezjbEAAhxiW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2002698287070277632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sDezkbcAAju7K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1134,
+        "media_key": "3_2002698287066005505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8sDezjaQAEXdU4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002698287066058752",
+            "3_2002698287070277632",
+            "3_2002698287066005505"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002698299925831887",
+        "created_at": "2025-12-21T11:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T12:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002698299925831887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uBTTC2ecs",
+              "end": 109,
+              "expanded_url": "https://x.com/uixxixu/status/2002698299925831887/photo/1",
+              "media_key": "3_2002698287066058752",
+              "start": 86,
+              "url": "https://t.co/8uBTTC2ecs"
+            },
+            {
+              "display_url": "pic.x.com/8uBTTC2ecs",
+              "end": 109,
+              "expanded_url": "https://x.com/uixxixu/status/2002698299925831887/photo/1",
+              "media_key": "3_2002698287070277632",
+              "start": 86,
+              "url": "https://t.co/8uBTTC2ecs"
+            },
+            {
+              "display_url": "pic.x.com/8uBTTC2ecs",
+              "end": 109,
+              "expanded_url": "https://x.com/uixxixu/status/2002698299925831887/photo/1",
+              "media_key": "3_2002698287066005505",
+              "start": 86,
+              "url": "https://t.co/8uBTTC2ecs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002698299925831887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前几周我去我姐家看了一本叫《一个人的好天气》的书里，我所想象的书里的房间布置和这个游戏里偶然找到的房子一模一样。我的模型在里面拍照，我在想，要是我能真的出现在这里就好了。 https://t.co/8uBTTC2ecs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人。欢迎同好互关。",
+        "id": "1128010587089264640",
+        "location": "阴转小雨",
+        "name": "BlurMoonRiver",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002555358511050753/B00BPhkE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 620,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 235
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

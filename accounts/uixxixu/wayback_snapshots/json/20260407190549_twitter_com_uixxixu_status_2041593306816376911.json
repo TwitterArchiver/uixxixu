@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2041593306816376911",
+    "created_at": "2026-04-07T19:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T20:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041593306816376911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "760101680029380608",
+          "start": 24,
+          "username": "shuzo_oshimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041593306816376911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "押见修造老师你为什么让ano演仲村佐和不让我演？@shuzo_oshimi 你该让我和我的狗演恶之华知道吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2041593306816376911",
+        "created_at": "2026-04-07T19:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041593306816376911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "760101680029380608",
+              "start": 24,
+              "username": "shuzo_oshimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041593306816376911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "押见修造老师你为什么让ano演仲村佐和不让我演？@shuzo_oshimi 你该让我和我的狗演恶之华知道吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "现实失败的中年女人 有狗狗了 @takanashi110998  不混任何圈子 健全人别关注 不加墙内联系方式",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "空洞です",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2040870595441873290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008168512376938496/7L5l0fWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 276,
+          "like_count": 4400,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2338
+        },
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-01T13:15:37.000Z",
+        "description": "漫画家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shuzooshimi/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shuzooshimi/",
+                "start": 0,
+                "url": "https://t.co/rbcMfj2pJO"
+              }
+            ]
+          }
+        },
+        "id": "760101680029380608",
+        "name": "押見修造",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925731687113076736/ITU9hyJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126880,
+          "following_count": 146,
+          "like_count": 161,
+          "listed_count": 686,
+          "media_count": 1089,
+          "tweet_count": 2129
+        },
+        "url": "https://t.co/rbcMfj2pJO",
+        "username": "shuzo_oshimi",
+        "verified": true
+      }
+    ]
+  }
+}
