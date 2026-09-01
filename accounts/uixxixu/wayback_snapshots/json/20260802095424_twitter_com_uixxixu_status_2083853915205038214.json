@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083436811217690764",
+    "created_at": "2026-08-02T09:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083853915205038214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "star27810544557"
+        },
+        {
+          "end": 32,
+          "id": "1491134477162008576",
+          "start": 17,
+          "username": "InnocentB1tch_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083853915205038214",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083814383445287167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@star27810544557 @InnocentB1tch_ 口才分我一半！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-02T09:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083853915205038214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "star27810544557"
+            },
+            {
+              "end": 32,
+              "id": "1491134477162008576",
+              "start": 17,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083853915205038214",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083814383445287167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@star27810544557 @InnocentB1tch_ 口才分我一半！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2083436811217690764",
+        "created_at": "2026-08-02T07:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083814383445287167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491134477162008576",
+              "start": 0,
+              "username": "InnocentB1tch_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083814383445287167",
+        "in_reply_to_user_id": "1491134477162008576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InnocentB1tch_ 宝贝从各方面都能看出来你是一个精神错乱的自我阉割者，上赶着给别人贞洁私生活打分结果自己也是个网络卖淫逼，一个母的连鸡巴都没有还搞个这种网名，又开始生殖崇拜了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 525,
+          "like_count": 6753,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 4365
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "右 反共 友LGBTQ 如果立场不同请不要关注我 随时销号",
+        "id": "1947765957658873860",
+        "name": "爱国者8964(爱吃逼)",
+        "pinned_tweet_id": "2083571963524690387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082348386540503040/YBhcS1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 48,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 765
+        },
+        "url": "",
+        "username": "star27810544557",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T19:39:15.000Z",
+        "description": "想你真的太痛甚至超过一把刀",
+        "id": "1491134477162008576",
+        "name": "你们都是我的杯子",
+        "pinned_tweet_id": "2065131670140043570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073854250128384000/Q_04-h1K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3425,
+          "following_count": 24,
+          "like_count": 4513,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "InnocentB1tch_",
+        "verified": false
+      }
+    ]
+  }
+}

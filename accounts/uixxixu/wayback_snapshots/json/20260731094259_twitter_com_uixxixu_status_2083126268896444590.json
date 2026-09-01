@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083126268896444590",
+    "created_at": "2026-07-31T09:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083126268896444590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057729979677548544",
+          "start": 3,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083126268896444590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083004315342647464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Numiouoo: 我身边很多毒虫包括17也都跟我一样 支持毒品也支持禁毒 ，如果你完全100%站在两极之一我反而觉得不对劲，100%绝对支持毒品证明你根本看不到毒品对于个体或群体的危害性你看不到自己或他人的失控混乱，100%反对毒品证明你根本身在茧房之中未曾了解过精神…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083126268896444590",
+        "created_at": "2026-07-31T09:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083126268896444590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057729979677548544",
+              "start": 3,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083126268896444590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083004315342647464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Numiouoo: 我身边很多毒虫包括17也都跟我一样 支持毒品也支持禁毒 ，如果你完全100%站在两极之一我反而觉得不对劲，100%绝对支持毒品证明你根本看不到毒品对于个体或群体的危害性你看不到自己或他人的失控混乱，100%反对毒品证明你根本身在茧房之中未曾了解过精神…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2083002311094485219",
+        "created_at": "2026-07-31T01:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083004315342647464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083004315342647464",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083002311094485219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我身边很多毒虫包括17也都跟我一样 支持毒品也支持禁毒 ，如果你完全100%站在两极之一我反而觉得不对劲，100%绝对支持毒品证明你根本看不到毒品对于个体或群体的危害性你看不到自己或他人的失控混乱，100%反对毒品证明你根本身在茧房之中未曾了解过精神活性物质是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 522,
+          "like_count": 6721,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 4337
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@fanwei_17\n疯狗神经病绝赞黄毒虫🩵Sex&Drug&Harm激推🩵评论互动会查主页感兴趣回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵⚠️⚠️⚠️请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 975,
+          "like_count": 3858,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 2919
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true
+      }
+    ]
+  }
+}

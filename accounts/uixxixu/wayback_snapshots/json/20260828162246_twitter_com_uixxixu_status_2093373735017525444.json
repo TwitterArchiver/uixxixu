@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2093301475430773091",
+    "created_at": "2026-08-28T16:22:46.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T17:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093373735017525444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1786808816832589825",
+          "start": 0,
+          "username": "ZuJian40966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093373735017525444",
+    "in_reply_to_user_id": "1786808816832589825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093321003560804705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZuJian40966 孩子回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2093301475430773091",
+        "created_at": "2026-08-28T16:22:46.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T17:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093373735017525444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1786808816832589825",
+              "start": 0,
+              "username": "ZuJian40966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093373735017525444",
+        "in_reply_to_user_id": "1786808816832589825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093321003560804705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZuJian40966 孩子回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786808816832589825",
+        "conversation_id": "2093301475430773091",
+        "created_at": "2026-08-28T12:53:13.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093321003560804705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093321003560804705",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093301475430773091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2093373735017525444",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 531,
+          "like_count": 6954,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 4669
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T17:23:25.000Z",
+        "description": "我喜欢交朋友萌妹子扩列大欢迎！",
+        "id": "1786808816832589825",
+        "is_identity_verified": false,
+        "location": "长沙",
+        "most_recent_tweet_id": "2093321003560804705",
+        "name": "もや",
+        "pinned_tweet_id": "2014216330426409178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786808816832589825/1767109277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005745497886404608/OC7SmHyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 99,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "ZuJian40966",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2086503321771360722",
+    "created_at": "2026-08-10T08:14:44.000Z",
+    "display_text_range": [
+      11,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086727936334541049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1549340020200247297",
+          "start": 0,
+          "username": "kkakakaww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086727936334541049",
+    "in_reply_to_user_id": "1549340020200247297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086702007872892938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkakakaww 确实我也从不会这么叫 一开始感觉怪怪的后面看大家这么叫看习惯了 不过真的也有很多人把酒喊乙醇的-.-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2086503321771360722",
+        "created_at": "2026-08-10T08:14:44.000Z",
+        "display_text_range": [
+          11,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086727936334541049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1549340020200247297",
+              "start": 0,
+              "username": "kkakakaww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086727936334541049",
+        "in_reply_to_user_id": "1549340020200247297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086702007872892938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkakakaww 确实我也从不会这么叫 一开始感觉怪怪的后面看大家这么叫看习惯了 不过真的也有很多人把酒喊乙醇的-.-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549340020200247297",
+        "conversation_id": "2086503321771360722",
+        "created_at": "2026-08-10T06:31:42.000Z",
+        "display_text_range": [
+          9,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086702007872892938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086702007872892938",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086696379364376832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 就是比喻一下没有说thc是化学式呀😭tetrahydrocannabinol是主要活性成分 但也只是大麻含有的其中一种成分 大麻里不只有这一种cannabinoid 并且每种细分的cannabinoids都可以单独提取做成浓缩物 一般讨论具体剂量或大麻中thc含量的时候才会特指thc呢😣有种把啤酒叫乙醇的感觉🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2086727936334541049",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 532,
+          "like_count": 6915,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 4522
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-19T10:27:08.000Z",
+        "description": "#drugtwt #weedtwt 蓝带法餐厨子\n社交电量时高时低 欢迎私信找我聊天\n免费提供大麻/药/毒相关咨询: 提问箱https://t.co/XCL3QhVP5r\n生命是由呼吸產生的幻覺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "weedtwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/mona66723",
+                "end": 85,
+                "expanded_url": "https://ngl.link/mona66723",
+                "start": 62,
+                "url": "https://t.co/XCL3QhVP5r"
+              }
+            ]
+          }
+        },
+        "id": "1549340020200247297",
+        "is_identity_verified": false,
+        "location": "North America",
+        "most_recent_tweet_id": "2086707579196183035",
+        "name": "桃奈^_-☆",
+        "pinned_tweet_id": "1592822586127552512",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1549340020200247297/1766844303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072438945481404416/tFuBDJyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 548,
+          "like_count": 1770,
+          "listed_count": 3,
+          "media_count": 315,
+          "tweet_count": 1338
+        },
+        "url": "",
+        "username": "kkakakaww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

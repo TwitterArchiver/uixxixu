@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2089026162936906070",
+    "created_at": "2026-08-16T16:30:19.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089026981690216740"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089026981690216740",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089026162936906070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不敢想我要是贴了来这会是什么感觉。实际上不用任何物质了。这是自然的美，纯粹。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089026129797738497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP22MmkacAEpRst.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089026129822973953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP22MmqbgAE1iMU.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2089026129806159872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP22Mmma8AATf_a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2089026162936906070",
+        "created_at": "2026-08-16T16:30:19.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089026981690216740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089026981690216740",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089026162936906070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不敢想我要是贴了来这会是什么感觉。实际上不用任何物质了。这是自然的美，纯粹。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089026129797738497",
+            "3_2089026129822973953",
+            "3_2089026129806159872"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2089026162936906070",
+        "created_at": "2026-08-16T16:27:04.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089026162936906070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRwokmBJbv",
+              "end": 85,
+              "expanded_url": "https://x.com/uixxixu/status/2089026162936906070/photo/1",
+              "media_key": "3_2089026129797738497",
+              "start": 62,
+              "url": "https://t.co/zRwokmBJbv"
+            },
+            {
+              "display_url": "pic.x.com/zRwokmBJbv",
+              "end": 85,
+              "expanded_url": "https://x.com/uixxixu/status/2089026162936906070/photo/1",
+              "media_key": "3_2089026129822973953",
+              "start": 62,
+              "url": "https://t.co/zRwokmBJbv"
+            },
+            {
+              "display_url": "pic.x.com/zRwokmBJbv",
+              "end": 85,
+              "expanded_url": "https://x.com/uixxixu/status/2089026162936906070/photo/1",
+              "media_key": "3_2089026129806159872",
+              "start": 62,
+              "url": "https://t.co/zRwokmBJbv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089026162936906070",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089026129797738497"
+          },
+          {
+            "media_key": "3_2089026129822973953"
+          },
+          {
+            "media_key": "3_2089026129806159872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宫殿之上\n茎\n我的好tl还放了苹果女王的《茎》\n后来和她们聊天了解到这次画展的灵感也是来源于椎名林檎的《茎》\n我当场流泪了 https://t.co/zRwokmBJbv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2089026981690216740",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 521,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 4594
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

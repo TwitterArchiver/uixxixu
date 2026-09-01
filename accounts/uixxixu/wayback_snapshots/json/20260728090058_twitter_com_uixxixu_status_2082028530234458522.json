@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2081898509910073839",
+    "created_at": "2026-07-28T09:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082028530234458522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423594963422547969",
+          "start": 0,
+          "username": "maru_Rema_maru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082028530234458522",
+    "in_reply_to_user_id": "1423594963422547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081898509910073839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maru_Rema_maru 不要唔！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2081898509910073839",
+        "created_at": "2026-07-28T09:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082028530234458522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423594963422547969",
+              "start": 0,
+              "username": "maru_Rema_maru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082028530234458522",
+        "in_reply_to_user_id": "1423594963422547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081898509910073839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maru_Rema_maru 不要唔！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423594963422547969",
+        "conversation_id": "2081898509910073839",
+        "created_at": "2026-07-28T00:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081898509910073839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081898509910073839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爹让我要死就死干净点🥰我还有26t烷胺和10t美金刚 祝我好运"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 530,
+          "like_count": 6675,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 4316
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T10:41:13.000Z",
+        "description": "＝川川/20↑/病み垢/前世@chuan_0123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "chuan_0123"
+              }
+            ]
+          }
+        },
+        "id": "1423594963422547969",
+        "name": "虚空薯条大教主2.0",
+        "pinned_tweet_id": "2074369844997464232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064003232154951681/HwdMvkLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 325,
+          "like_count": 4630,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "maru_Rema_maru",
+        "verified": false
+      }
+    ]
+  }
+}

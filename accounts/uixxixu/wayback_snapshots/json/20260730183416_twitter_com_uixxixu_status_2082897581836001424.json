@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082897567009161216"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2082897581836001424",
+    "created_at": "2026-07-30T18:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082897581836001424"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hr1tw0C8vi",
+          "end": 29,
+          "expanded_url": "https://x.com/uixxixu/status/2082897581836001424/photo/1",
+          "media_key": "3_2082897567009161216",
+          "start": 6,
+          "url": "https://t.co/Hr1tw0C8vi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082897581836001424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "9年前的我 https://t.co/Hr1tw0C8vi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_2082897567009161216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfwTTEbQAATTqe.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082897567009161216"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2082897581836001424",
+        "created_at": "2026-07-30T18:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082897581836001424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hr1tw0C8vi",
+              "end": 29,
+              "expanded_url": "https://x.com/uixxixu/status/2082897581836001424/photo/1",
+              "media_key": "3_2082897567009161216",
+              "start": 6,
+              "url": "https://t.co/Hr1tw0C8vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082897581836001424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "9年前的我 https://t.co/Hr1tw0C8vi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 522,
+          "like_count": 6702,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 4329
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

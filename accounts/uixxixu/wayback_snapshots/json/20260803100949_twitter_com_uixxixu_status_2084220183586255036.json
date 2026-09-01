@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2084193673596531125",
+    "created_at": "2026-08-03T10:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084220183586255036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Drug_wuming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084220183586255036",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084193673596531125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drug_wuming 神经"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2084193673596531125",
+        "created_at": "2026-08-03T10:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084220183586255036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Drug_wuming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084220183586255036",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084193673596531125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drug_wuming 神经"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2084193673596531125",
+        "created_at": "2026-08-03T08:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084193673596531125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084193673596531125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃避是没有用的\n不如想想怎么重开\n一个地雷妹死了，将会有无数个地雷妹在此重生\n有牺牲的地方就有革命的存在\n无人能打断生命的孕育\n有些人一出生就注定一事无成\n鄙人无名，正是极乐百科的编写者，在我这里我看到太多案例了，无论发生什么，看的多了，我也不会震惊了\n无人在意年轻女孩的死活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 526,
+          "like_count": 6787,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 4387
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 833,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false
+      }
+    ]
+  }
+}

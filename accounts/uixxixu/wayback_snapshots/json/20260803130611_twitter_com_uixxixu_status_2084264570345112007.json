@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "1898230834030952846",
+    "created_at": "2026-08-03T13:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084264570345112007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084264570345112007",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898230834030952846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 嘴替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "1898230834030952846",
+        "created_at": "2026-08-03T13:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084264570345112007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084264570345112007",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898230834030952846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 嘴替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1898230834030952846",
+        "created_at": "2025-03-08T04:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T05:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898230834030952846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898230834030952846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13091,
+          "like_count": 189,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "超天酱头像➕mtf➕咱➕发了一万次尝试自杀的推文，这种是不是什么邪教组织"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 526,
+          "like_count": 6793,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 4396
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "揍你哦，说真的｜绘画账号：@QY_art7｜只会过信任的人的账号@whxsa11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "QY_art7"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "username": "whxsa11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qy717171qy?_r…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@qy717171qy?_r=1&_t=ZS-98VsPjvZfYQ",
+                "start": 0,
+                "url": "https://t.co/sALtHZo6yL"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2078350301376180727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6731,
+          "following_count": 747,
+          "like_count": 25720,
+          "listed_count": 20,
+          "media_count": 1201,
+          "tweet_count": 17211
+        },
+        "url": "https://t.co/sALtHZo6yL",
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083870167755567104"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083870174856540199",
+    "created_at": "2026-08-02T10:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083870174856540199"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O46cG0UgxD",
+          "end": 40,
+          "expanded_url": "https://x.com/uixxixu/status/2083870174856540199/photo/1",
+          "media_key": "3_2083870167755567104",
+          "start": 17,
+          "url": "https://t.co/O46cG0UgxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083870174856540199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你听我说 我真的神经痛！就一次吧 https://t.co/O46cG0UgxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2083870167755567104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtk4HMasAAnR-g.jpg",
+        "width": 993
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083870167755567104"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083870174856540199",
+        "created_at": "2026-08-02T10:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083870174856540199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O46cG0UgxD",
+              "end": 40,
+              "expanded_url": "https://x.com/uixxixu/status/2083870174856540199/photo/1",
+              "media_key": "3_2083870167755567104",
+              "start": 17,
+              "url": "https://t.co/O46cG0UgxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083870174856540199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你听我说 我真的神经痛！就一次吧 https://t.co/O46cG0UgxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 525,
+          "like_count": 6753,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 4369
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

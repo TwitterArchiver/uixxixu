@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2086813577785344496",
+    "created_at": "2026-08-10T17:21:32.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086865545392160811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053435734737186816",
+          "start": 0,
+          "username": "xingstaro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086865545392160811",
+    "in_reply_to_user_id": "2053435734737186816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086835558366826545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingstaro 摸摸糯米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2086813577785344496",
+        "created_at": "2026-08-10T17:21:32.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086865545392160811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053435734737186816",
+              "start": 0,
+              "username": "xingstaro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086865545392160811",
+        "in_reply_to_user_id": "2053435734737186816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086835558366826545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingstaro 摸摸糯米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053435734737186816",
+        "conversation_id": "2086813577785344496",
+        "created_at": "2026-08-10T15:22:23.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086835558366826545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086835558366826545",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086813577785344496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 抱抱未来QAQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2086865545392160811",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 532,
+          "like_count": 6915,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 4530
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-10T11:25:59.000Z",
+        "description": "糯米炸号中附身星星账号玩\n互fo查成分回 回得慢请戳我\n100%pyscho/💊/ 🔪/🩸",
+        "id": "2053435734737186816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086837154752393631",
+        "name": "星星⭐(糯米附身版",
+        "pinned_tweet_id": "2054203632053338154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053435734737186816/1778413446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053501608462331905/x3e1fQHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 518,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "xingstaro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

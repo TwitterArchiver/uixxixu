@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2089832503121269029",
+    "created_at": "2026-08-19T16:25:15.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090112870172529100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1991025043359608833",
+          "start": 0,
+          "username": "Qingxuntlrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090112870172529100",
+    "in_reply_to_user_id": "1991025043359608833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090083413613322630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qingxuntlrr 比口服来的快 我感觉效果也更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2089832503121269029",
+        "created_at": "2026-08-19T16:25:15.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090112870172529100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1991025043359608833",
+              "start": 0,
+              "username": "Qingxuntlrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090112870172529100",
+        "in_reply_to_user_id": "1991025043359608833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090083413613322630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qingxuntlrr 比口服来的快 我感觉效果也更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991025043359608833",
+        "conversation_id": "2089832503121269029",
+        "created_at": "2026-08-19T14:28:12.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090083413613322630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090083413613322630",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089832503121269029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 😽下回试试！和口服一个感觉吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2090112870172529100",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 526,
+          "like_count": 6986,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 4650
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-19T06:06:33.000Z",
+        "description": "-naki\nлаванда：（\n不营业了，专心唐氏😂\n*来找我互fo吧",
+        "id": "1991025043359608833",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090083413613322630",
+        "name": "Nakinin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991025043359608833/1785623188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060735081757675520/Geeba8ml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 757,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "Qingxuntlrr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

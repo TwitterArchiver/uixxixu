@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083885687854731555",
+    "created_at": "2026-08-02T12:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083885687854731555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1212s1212bs124…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/1212s1212bs1242/status/2083802843404755421",
+          "start": 11,
+          "url": "https://t.co/oNpGivpAhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083885687854731555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083802843404755421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "买🚬找这个12就对了 https://t.co/oNpGivpAhP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083885687854731555",
+        "created_at": "2026-08-02T12:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083885687854731555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2083802843404755421",
+              "start": 11,
+              "url": "https://t.co/oNpGivpAhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083885687854731555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083802843404755421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买🚬找这个12就对了 https://t.co/oNpGivpAhP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684269091849404416",
+        "conversation_id": "2083802843404755421",
+        "created_at": "2026-08-02T06:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083802843404755421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083802843404755421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子烟滞销，帮帮我们！\n香烟滞销，帮帮我们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 526,
+          "like_count": 6760,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 4376
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 913,
+          "like_count": 17127,
+          "listed_count": 1,
+          "media_count": 1079,
+          "tweet_count": 10404
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2086116258865676381",
+    "created_at": "2026-08-10T17:24:28.000Z",
+    "display_text_range": [
+      30,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086866284374093955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1391060113646096390",
+          "start": 0,
+          "username": "C0COBU"
+        },
+        {
+          "end": 15,
+          "id": "1773028213138292736",
+          "start": 8,
+          "username": "wydwdf"
+        },
+        {
+          "end": 29,
+          "id": "1687683090133778432",
+          "start": 16,
+          "username": "nonsense_778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086866284374093955",
+    "in_reply_to_user_id": "1391060113646096390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086783744954830874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C0COBU @wydwdf @nonsense_778 其实都tm是人 分什么底层高层 被社会规则玩弄累不累？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2086116258865676381",
+        "created_at": "2026-08-10T17:24:28.000Z",
+        "display_text_range": [
+          30,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086866284374093955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1391060113646096390",
+              "start": 0,
+              "username": "C0COBU"
+            },
+            {
+              "end": 15,
+              "id": "1773028213138292736",
+              "start": 8,
+              "username": "wydwdf"
+            },
+            {
+              "end": 29,
+              "id": "1687683090133778432",
+              "start": 16,
+              "username": "nonsense_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086866284374093955",
+        "in_reply_to_user_id": "1391060113646096390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086783744954830874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C0COBU @wydwdf @nonsense_778 其实都tm是人 分什么底层高层 被社会规则玩弄累不累？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1391060113646096390",
+        "conversation_id": "2086116258865676381",
+        "created_at": "2026-08-10T11:56:30.000Z",
+        "display_text_range": [
+          31,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086783744954830874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 16,
+              "id": "1773028213138292736",
+              "start": 9,
+              "username": "wydwdf"
+            },
+            {
+              "end": 30,
+              "id": "1687683090133778432",
+              "start": 17,
+              "username": "nonsense_778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086783744954830874",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086291457447698538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @wydwdf @nonsense_778 玩乐队的再差也比门槛鸡好点，卖淫女鸡是最底层的职业"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2086866284374093955",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 532,
+          "like_count": 6915,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 4534
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-08T15:59:18.000Z",
+        "description": "",
+        "id": "1391060113646096390",
+        "is_identity_verified": false,
+        "location": "England, United Kingdom",
+        "most_recent_tweet_id": "2086783744954830874",
+        "name": "XUYoy",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794002196482375680/KLy-bMPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 257,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "C0COBU",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T16:44:11.000Z",
+        "description": "",
+        "id": "1773028213138292736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086758805136986118",
+        "name": "2022",
+        "pinned_tweet_id": "2053255979320619325",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773028213138292736/1725654440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083798395794358273/WVRXFBx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 62,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "wydwdf",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-05T04:33:43.000Z",
+        "description": "翻开一本名叫小浮的书\n 🫧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "a4.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://a4.xn--hv1a41u.com/#/register?code=tEHEouWf",
+                "start": 0,
+                "url": "https://t.co/X4NTG2Xs5g"
+              }
+            ]
+          }
+        },
+        "id": "1687683090133778432",
+        "is_identity_verified": false,
+        "location": "自用🪜👉🏻",
+        "most_recent_tweet_id": "2086635207978029143",
+        "name": "floating ice🐾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1687683090133778432/1744452443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910967605361336320/A4fpw_S-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32185,
+          "following_count": 90,
+          "like_count": 24344,
+          "listed_count": 80,
+          "media_count": 263,
+          "tweet_count": 5087
+        },
+        "url": "https://t.co/X4NTG2Xs5g",
+        "username": "nonsense_778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083518713786179732",
+    "created_at": "2026-08-02T11:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083877265243533582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077713332812083200",
+          "start": 0,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083877265243533582",
+    "in_reply_to_user_id": "2077713332812083200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083518713786179732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fries420cn 20分钟（？！）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22531,
+        "height": 1280,
+        "media_key": "13_2083518652872376320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083518652872376320/img/6_U3OqtNHNLvvsJq.jpg",
+        "public_metrics": {
+          "view_count": 9147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/vid/avc1/320x568/b7i3QRpWd_u4aEuh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/vid/avc1/480x852/8IqR8xZ_ZcRWcEV3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/vid/avc1/720x1280/FTrApoyK4ZF3Gkfl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083518652872376320/pl/bjUJk6aMChuxv3tE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083518713786179732",
+        "created_at": "2026-08-02T11:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083877265243533582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077713332812083200",
+              "start": 0,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083877265243533582",
+        "in_reply_to_user_id": "2077713332812083200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083518713786179732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fries420cn 20分钟（？！）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083518652872376320"
+          ]
+        },
+        "author_id": "2077713332812083200",
+        "conversation_id": "2083518713786179732",
+        "created_at": "2026-08-01T11:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083518713786179732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0UYgqynuP",
+              "end": 170,
+              "expanded_url": "https://x.com/fries420cn/status/2083518713786179732/video/1",
+              "media_key": "13_2083518652872376320",
+              "start": 147,
+              "url": "https://t.co/r0UYgqynuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083518713786179732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一次新手飞行指南 ✈️\n1. 提前准备（非常重要 💡）\n水和饮料 🥤：嘴巴容易干，提前准备好冰水或果汁。如果感觉状态不对、有点头晕焦虑，喝一杯甜牛奶 🥛 能帮身体快速代谢。\n\n吃的 🍕：提前点好外卖或备好零食，因为过程中很容易饿，别到时候饿得慌。（强烈推荐芒果、车厘子、汉堡、炸鸡）\n\n环境 🛋️：老老实实呆在室内（家里或安全熟悉的地方），把灯光调暗，千万别临时起意出门逛街或去人多嘈杂的地方 🚶‍♂️❌。\n\n2. 正确的吸食方法 🌬️\n克制用量 🤏：第一次的新手，绝对不要超过三口。\n\n 💨：吸一小口，在口腔里稍微过一下，再吸进肺里，憋气几秒秒慢慢吐出来。\n\n等待 20 分钟 ⏳：这东西上头有延迟。抽完如果觉得「怎么没感觉」，千万别接着抽！给身体 15 到 20 分钟的反应时间，很多新手翻车都是因为这期间补刀过量 ⚠️。\n\n3. 遇到不舒服怎么办？🧘‍♀️\n身体变沉、感觉时间变慢、或者稍微有点心慌焦虑 🌀，都是正常的生理反应。\n\n自救方法 🛌：闭上眼睛休息，喝点甜牛奶，换一首放松的音乐，或者直接躺下睡一觉 💤"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 20133,
+          "like_count": 166,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "第一次新手飞行指南 ✈️\n1. 提前准备（非常重要 💡）\n水和饮料 🥤：嘴巴容易干，提前准备好冰水或果汁。如果感觉状态不对、有点头晕焦虑，喝一杯甜牛奶 🥛 能帮身体快速代谢。\n\n吃的 🍕：提前点好外卖或备好零食，因为过程中很容易饿，别到时候饿得慌。（强烈推荐芒果、车厘子、汉堡、炸鸡）\n\n环境 https://t.co/r0UYgqynuP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 526,
+          "like_count": 6757,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 4370
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "支持亚洲大麻合法化｜大麻除罪化｜正视医疗用途｜大麻/ Vape爱好者  🏳️‍⚧️🏳️‍🌈LGBTQ友好\n私信会回｜\r禁止未成年🚫｜平台网站开发中",
+        "id": "2077713332812083200",
+        "name": "薯条🍟(大麻\\電子煙)",
+        "pinned_tweet_id": "2083175269524017656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079675187579252736/n1no54_m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 285,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 164
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true
+      }
+    ]
+  }
+}

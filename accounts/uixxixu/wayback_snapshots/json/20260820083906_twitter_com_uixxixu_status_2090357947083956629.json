@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2090329648878223593",
+    "created_at": "2026-08-20T08:39:06.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090357947083956629"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2090357947083956629",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090329648878223593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好热🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2090329648878223593",
+        "created_at": "2026-08-20T08:39:06.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090357947083956629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090357947083956629",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090329648878223593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好热🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2090329648878223593",
+        "created_at": "2026-08-20T06:46:39.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090329648878223593"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090329648878223593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃下了iso 什么药都没准备"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2090357947083956629",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2340,
+          "following_count": 527,
+          "like_count": 6995,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 4667
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

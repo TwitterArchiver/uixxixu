@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2087094723081302155",
+    "created_at": "2026-08-11T09:09:48.000Z",
+    "display_text_range": [
+      10,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087104184294531553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087104184294531553",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087094723081302155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 对对对我就这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 347,
+        "media_key": "3_2087094714894098432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbZldXboAAHTi2.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2087094723081302155",
+        "created_at": "2026-08-11T09:09:48.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087104184294531553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087104184294531553",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087094723081302155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 对对对我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087094714894098432"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "conversation_id": "2087094723081302155",
+        "created_at": "2026-08-11T08:32:12.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T09:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087094723081302155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7UPsarcjBO",
+              "end": 100,
+              "expanded_url": "https://x.com/Numiouoo/status/2087094723081302155/photo/1",
+              "media_key": "3_2087094714894098432",
+              "start": 77,
+              "url": "https://t.co/7UPsarcjBO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087094723081302155",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087094714894098432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对对对我就这样\n\n古早糯米：我爱你，你是自由的\n近代糯米：我爱你，我们必须是对方非常重要特别的存在\n现代糯米：我爱你，你要是不爱我了我就爬到你面前捅思你 https://t.co/7UPsarcjBO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2087104184294531553",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2086517436782928040",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 531,
+          "like_count": 6923,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 4547
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱@fanwei_17\n疯狗但温良🩵成分请看置顶🩵评论互动查主页掉落回fo(互关重生请直接d我!)🩵我素non-binary友跨友全部🩵ND社交过载⚠️⚠️请勿私信⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "fanwei_17"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087098943125799051",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057729979677548544/1779436201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 966,
+          "like_count": 3934,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 3006
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

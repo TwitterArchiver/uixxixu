@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2082975987940405476",
+    "created_at": "2026-07-31T00:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082983745863516655"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082983745863516655",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082975987940405476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那曾经是我唯一的快乐🙂我早就不玩手游版了为什么这么难受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2082975987940405476",
+        "created_at": "2026-07-31T00:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082983745863516655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082983745863516655",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082975987940405476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那曾经是我唯一的快乐🙂我早就不玩手游版了为什么这么难受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2082975987940405476",
+        "created_at": "2026-07-30T23:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082975987940405476"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082975987940405476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才知道qq14要关服了 虽然这是注定的 不过如果没这个我也不会去玩端游也不会遇到小白 有点怀念以前每周打巴哈姆特的高难 还有上班摸鱼时候挖矿（我不怀念上班 那时候我还总居家办公边工作边打本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 524,
+          "like_count": 6718,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 4334
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

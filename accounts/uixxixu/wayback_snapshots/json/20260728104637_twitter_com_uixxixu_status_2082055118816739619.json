@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2082055118816739619",
+    "created_at": "2026-07-28T10:46:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:46:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082055118816739619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1684145754343096321",
+          "start": 3,
+          "username": "feifei1247546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082055118816739619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082023162934595653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @feifei1247546: 我打算进一批4ho，一个人吃不掉，有人想要的话跟我说一声，或者关注我一下，我看人多就去进货了，现在市面上普遍是160一颗/25mg，我不会比这个价格高，多买多优惠，或者有想大量收，拼团的可以找我私聊议价。麻烦看到的帮我转一下谢谢，人多我就开…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2082055118816739619",
+        "created_at": "2026-07-28T10:46:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:46:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082055118816739619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1684145754343096321",
+              "start": 3,
+              "username": "feifei1247546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082055118816739619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082023162934595653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @feifei1247546: 我打算进一批4ho，一个人吃不掉，有人想要的话跟我说一声，或者关注我一下，我看人多就去进货了，现在市面上普遍是160一颗/25mg，我不会比这个价格高，多买多优惠，或者有想大量收，拼团的可以找我私聊议价。麻烦看到的帮我转一下谢谢，人多我就开…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684145754343096321",
+        "conversation_id": "2082023162934595653",
+        "created_at": "2026-07-28T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082023162934595653"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082023162934595653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我打算进一批4ho，一个人吃不掉，有人想要的话跟我说一声，或者关注我一下，我看人多就去进货了，现在市面上普遍是160一颗/25mg，我不会比这个价格高，多买多优惠，或者有想大量收，拼团的可以找我私聊议价。麻烦看到的帮我转一下谢谢，人多我就开团了，货大概一个月左右就能到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242,
+          "following_count": 530,
+          "like_count": 6677,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 4319
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T10:17:02.000Z",
+        "description": "最近准备进一批4ho出，有需要的关注我谢谢\n私聊+✈️ https://t.co/eLRujvQQzQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/feifeidedian",
+                "end": 51,
+                "expanded_url": "http://t.me/feifeidedian",
+                "start": 28,
+                "url": "https://t.co/eLRujvQQzQ"
+              }
+            ]
+          }
+        },
+        "id": "1684145754343096321",
+        "name": "fei",
+        "pinned_tweet_id": "2082023162934595653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684145934194872322/Rny3stop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 95,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 795
+        },
+        "url": "",
+        "username": "feifei1247546",
+        "verified": false
+      }
+    ]
+  }
+}

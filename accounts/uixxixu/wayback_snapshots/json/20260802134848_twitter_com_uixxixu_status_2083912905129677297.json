@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083902191337914681",
+    "created_at": "2026-08-02T13:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083912905129677297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1518404201168007168",
+          "start": 0,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083912905129677297",
+    "in_reply_to_user_id": "1518404201168007168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083912679744573654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@godspeedyou50 上班呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083902191337914681",
+        "created_at": "2026-08-02T13:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083912905129677297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1518404201168007168",
+              "start": 0,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083912905129677297",
+        "in_reply_to_user_id": "1518404201168007168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083912679744573654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@godspeedyou50 上班呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "2083902191337914681",
+        "created_at": "2026-08-02T13:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083912679744573654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083912679744573654",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083902191337914681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 小白呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 526,
+          "like_count": 6769,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 4380
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。\n魔界入口💊🎫@Pharmakon14138",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "Pharmakon14138"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2069223594711011526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 644,
+          "like_count": 1303,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 3000
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

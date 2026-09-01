@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084323951313055746",
+        "3_2084323951308943360",
+        "3_2084323951266942976"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2084323969256288586",
+    "created_at": "2026-08-03T17:02:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:02:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084323969256288586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDjE5TuKL6",
+          "end": 45,
+          "expanded_url": "https://x.com/uixxixu/status/2084323969256288586/photo/1",
+          "media_key": "3_2084323951313055746",
+          "start": 22,
+          "url": "https://t.co/hDjE5TuKL6"
+        },
+        {
+          "display_url": "pic.x.com/hDjE5TuKL6",
+          "end": 45,
+          "expanded_url": "https://x.com/uixxixu/status/2084323969256288586/photo/1",
+          "media_key": "3_2084323951308943360",
+          "start": 22,
+          "url": "https://t.co/hDjE5TuKL6"
+        },
+        {
+          "display_url": "pic.x.com/hDjE5TuKL6",
+          "end": 45,
+          "expanded_url": "https://x.com/uixxixu/status/2084323969256288586/photo/1",
+          "media_key": "3_2084323951266942976",
+          "start": 22,
+          "url": "https://t.co/hDjE5TuKL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084323969256288586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于把广告视频拍了 这个马赛克有点奇怪咳咳 https://t.co/hDjE5TuKL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_2084323951313055746",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0BlyracAIBvxy.jpg",
+        "width": 976
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084323951308943360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0BlyqbsAASudA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084323951266942976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0Blyga0AAOxPM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084323951313055746",
+            "3_2084323951308943360",
+            "3_2084323951266942976"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2084323969256288586",
+        "created_at": "2026-08-03T17:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084323969256288586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDjE5TuKL6",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2084323969256288586/photo/1",
+              "media_key": "3_2084323951313055746",
+              "start": 22,
+              "url": "https://t.co/hDjE5TuKL6"
+            },
+            {
+              "display_url": "pic.x.com/hDjE5TuKL6",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2084323969256288586/photo/1",
+              "media_key": "3_2084323951308943360",
+              "start": 22,
+              "url": "https://t.co/hDjE5TuKL6"
+            },
+            {
+              "display_url": "pic.x.com/hDjE5TuKL6",
+              "end": 45,
+              "expanded_url": "https://x.com/uixxixu/status/2084323969256288586/photo/1",
+              "media_key": "3_2084323951266942976",
+              "start": 22,
+              "url": "https://t.co/hDjE5TuKL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084323969256288586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于把广告视频拍了 这个马赛克有点奇怪咳咳 https://t.co/hDjE5TuKL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 527,
+          "like_count": 6801,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 4401
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

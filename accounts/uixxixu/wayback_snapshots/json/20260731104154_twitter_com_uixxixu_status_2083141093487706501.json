@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083141093487706501",
+    "created_at": "2026-07-31T10:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083141093487706501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nonentity_xxx1…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/nonentity_xxx17/status/2083136308868939877",
+          "start": 8,
+          "url": "https://t.co/XxTXSPMW96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083141093487706501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083136308868939877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安 奈奈…… https://t.co/XxTXSPMW96"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083141093487706501",
+        "created_at": "2026-07-31T10:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083141093487706501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nonentity_xxx1…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/nonentity_xxx17/status/2083136308868939877",
+              "start": 8,
+              "url": "https://t.co/XxTXSPMW96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083141093487706501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083136308868939877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安 奈奈…… https://t.co/XxTXSPMW96"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919465517829783552",
+        "conversation_id": "2083136308868939877",
+        "created_at": "2026-07-31T10:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083136308868939877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oksana222rc/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/oksana222rc/status/2083133026352120136",
+              "start": 82,
+              "url": "https://t.co/aFYVs8S5jI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083136308868939877",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083133026352120136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奈奈  \n往黄泉比良坡时想一些快乐的瞬间吧 记得把汤喝干净 那些令你痛苦的 令你失望的全部忘掉吧 有什么想说的就托梦给兴子 兴子还是港湾呢 . \nおやすみ 奈々. https://t.co/aFYVs8S5jI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 522,
+          "like_count": 6724,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 4339
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T18:53:44.000Z",
+        "description": "忍辱士 还阳十九\n双相I型/低能量/欣赏躯体/皮囊无罪\n金童@godspeedyou50 玉女@Jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "godspeedyou50"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "Jinggebiezhuaw"
+              }
+            ]
+          }
+        },
+        "id": "1919465517829783552",
+        "location": "來世",
+        "name": "優.（Oksana💊附身版）",
+        "pinned_tweet_id": "2064926614115504357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081007903071490048/e7lN9ZAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 95,
+          "like_count": 3962,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "Nonentity_xxx17",
+        "verified": false
+      }
+    ]
+  }
+}

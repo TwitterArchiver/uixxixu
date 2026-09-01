@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2082376716228718633",
+    "created_at": "2026-07-29T08:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082376716228718633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2022874915012333568",
+          "start": 3,
+          "username": "liyfn130024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082376716228718633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082277904197746787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liyfn130024: 麻烦大家关注下我新号。。。感谢了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2082376716228718633",
+        "created_at": "2026-07-29T08:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082376716228718633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2022874915012333568",
+              "start": 3,
+              "username": "liyfn130024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082376716228718633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082277904197746787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liyfn130024: 麻烦大家关注下我新号。。。感谢了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022874915012333568",
+        "conversation_id": "2082277904197746787",
+        "created_at": "2026-07-29T01:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082277904197746787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mercyxvx1/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/mercyxvx1/status/2082277282551628100",
+              "start": 18,
+              "url": "https://t.co/ODM6o3gHF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082277904197746787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082277282551628100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麻烦大家关注下我新号。。。感谢了😭 https://t.co/ODM6o3gHF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 528,
+          "like_count": 6678,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 4322
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T03:25:57.000Z",
+        "description": "不要再醒来了 可互fo",
+        "id": "2022874915012333568",
+        "name": "我们重头来过好不好",
+        "pinned_tweet_id": "2074328318997090507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022890661759062020/OwSmsAtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 38,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "liyfn130024",
+        "verified": false
+      }
+    ]
+  }
+}

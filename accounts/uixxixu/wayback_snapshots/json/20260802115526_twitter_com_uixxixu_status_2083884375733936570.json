@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083763468042383837",
+    "created_at": "2026-08-02T11:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083884375733936570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891848716023422976",
+          "start": 0,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083884375733936570",
+    "in_reply_to_user_id": "1891848716023422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083763468042383837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AORINGO_nemuru 好骂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083763468042383837",
+        "created_at": "2026-08-02T11:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083884375733936570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891848716023422976",
+              "start": 0,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083884375733936570",
+        "in_reply_to_user_id": "1891848716023422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083763468042383837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AORINGO_nemuru 好骂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891848716023422976",
+        "conversation_id": "2083763468042383837",
+        "created_at": "2026-08-02T03:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T04:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083763468042383837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/innocentb1tch_…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/innocentb1tch_/status/2083436811217690764",
+              "start": 132,
+              "url": "https://t.co/aYNEPbKSlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083763468042383837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3457,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083436811217690764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己在这儿擦边软色情还评上别人od了，以为自己多高贵一样实则是因为无人在意自己的死活，所以对死掉的一具尸体破防了。把自己放在高位瞧不起别人的人，其实恰恰是平时生活中最被人瞧不起的。说真的你既然这么正常就别对着一个死掉的人乱开腔，小心别人入梦给你鬼压身操的哇哇乱叫 https://t.co/aYNEPbKSlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 526,
+          "like_count": 6760,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 4375
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 神堕｜欲望,暴力,自由｜神聖かまってちゃん♡｜*裏垢 @uni_wwwww｜视奸的全家死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "uni_wwwww"
+              }
+            ]
+          }
+        },
+        "id": "1891848716023422976",
+        "location": "🚪50/88",
+        "name": "青林檎",
+        "pinned_tweet_id": "2020529733109223531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 235,
+          "like_count": 13770,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1366
+        },
+        "url": "",
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

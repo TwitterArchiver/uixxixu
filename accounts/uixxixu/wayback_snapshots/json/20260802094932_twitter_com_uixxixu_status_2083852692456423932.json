@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      }
+    ],
+    "conversation_id": "2083591776934436972",
+    "created_at": "2026-08-02T09:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T10:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083852692456423932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771182467128635392",
+          "start": 0,
+          "username": "PP_Konig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083852692456423932",
+    "in_reply_to_user_id": "1771182467128635392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083601925967352001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PP_Konig 没事！手游还能玩两个月"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          }
+        ],
+        "conversation_id": "2083591776934436972",
+        "created_at": "2026-08-02T09:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083852692456423932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771182467128635392",
+              "start": 0,
+              "username": "PP_Konig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083852692456423932",
+        "in_reply_to_user_id": "1771182467128635392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083601925967352001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PP_Konig 没事！手游还能玩两个月"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771182467128635392",
+        "conversation_id": "2083591776934436972",
+        "created_at": "2026-08-01T17:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083601925967352001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083601925967352001",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083591776934436972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 525,
+          "like_count": 6748,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 4361
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 201,
+          "like_count": 1166,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 3029
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false
+      }
+    ]
+  }
+}

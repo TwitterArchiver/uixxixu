@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2086191546978750939",
+    "created_at": "2026-08-09T13:27:49.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086444340994568530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084973651229626368",
+          "start": 0,
+          "username": "Yuki132831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086444340994568530",
+    "in_reply_to_user_id": "2084973651229626368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086191546978750939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki132831 G吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2086191546978750939",
+        "created_at": "2026-08-09T13:27:49.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086444340994568530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084973651229626368",
+              "start": 0,
+              "username": "Yuki132831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086444340994568530",
+        "in_reply_to_user_id": "2084973651229626368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086191546978750939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki132831 G吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084973651229626368",
+        "conversation_id": "2086191546978750939",
+        "created_at": "2026-08-08T20:43:19.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T21:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086191546978750939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086191546978750939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1016,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.2g阿普试试"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2086444340994568530",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 528,
+          "like_count": 6902,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 4503
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n防炸回fo较慢对不起\n前世@Yuki312813 @Yuki281331 \n备用@Yuki283113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "Yuki312813"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Yuki281331"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "Yuki283113"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2086432151243751555",
+        "name": "岐哥，梦想吐了。3.0。",
+        "pinned_tweet_id": "2084982871211585741",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084973651229626368/1785932825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 257,
+          "like_count": 469,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 339
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2086443707730211216",
+    "created_at": "2026-08-09T13:51:59.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T14:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086450421959463217"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086450421959463217",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086443707730211216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "都是道具或化妆）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086443678944665600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSJeLdbIAAr92m.jpg",
+        "width": 1146
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086443678923657216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSJeLYakAAld4n.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086443678940499968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSJeLcbkAABTbR.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2086443707730211216",
+        "created_at": "2026-08-09T13:51:59.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086450421959463217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086450421959463217",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086443707730211216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都是道具或化妆）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086443678944665600",
+            "3_2086443678923657216",
+            "3_2086443678940499968"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2086443707730211216",
+        "created_at": "2026-08-09T13:25:18.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086443707730211216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVcwQVJGvt",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2086443707730211216/photo/1",
+              "media_key": "3_2086443678944665600",
+              "start": 4,
+              "url": "https://t.co/xVcwQVJGvt"
+            },
+            {
+              "display_url": "pic.x.com/xVcwQVJGvt",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2086443707730211216/photo/1",
+              "media_key": "3_2086443678923657216",
+              "start": 4,
+              "url": "https://t.co/xVcwQVJGvt"
+            },
+            {
+              "display_url": "pic.x.com/xVcwQVJGvt",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2086443707730211216/photo/1",
+              "media_key": "3_2086443678940499968",
+              "start": 4,
+              "url": "https://t.co/xVcwQVJGvt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086443707730211216",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086443678944665600"
+          },
+          {
+            "media_key": "3_2086443678923657216"
+          },
+          {
+            "media_key": "3_2086443678940499968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发狠了 https://t.co/xVcwQVJGvt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2086450421959463217",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 528,
+          "like_count": 6904,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 4506
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

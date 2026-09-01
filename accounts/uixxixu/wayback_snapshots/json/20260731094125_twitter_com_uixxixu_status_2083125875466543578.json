@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2083044254985966035",
+    "created_at": "2026-07-31T09:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T10:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083125875466543578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Sakura8964666"
+        },
+        {
+          "end": 24,
+          "id": "1525486795265294337",
+          "start": 15,
+          "username": "fuyo0928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083125875466543578",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083044254985966035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura8964666 @fuyo0928 神经啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2083044254985966035",
+        "created_at": "2026-07-31T09:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083125875466543578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Sakura8964666"
+            },
+            {
+              "end": 24,
+              "id": "1525486795265294337",
+              "start": 15,
+              "username": "fuyo0928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083125875466543578",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083044254985966035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura8964666 @fuyo0928 神经啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916974498903166978",
+        "conversation_id": "2083044254985966035",
+        "created_at": "2026-07-31T04:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083044254985966035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083044254985966035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2036,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药圈死了1000个地雷妹就像街上死了两只没人要的流浪狗一样，没什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2076785763099070650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 522,
+          "like_count": 6720,
+          "listed_count": 0,
+          "media_count": 360,
+          "tweet_count": 4336
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n精神药物科普：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 692,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Sakura8964666",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T14:43:04.000Z",
+        "description": "关关￤雜多垢 ￤♀\n🕯限时营业\nShe/Her | Aro",
+        "id": "1525486795265294337",
+        "location": "東京、雑踏、せつなの夢。",
+        "name": "21g",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055291096641781761/tddYQ5CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 291,
+          "like_count": 2288,
+          "listed_count": 5,
+          "media_count": 2,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "fuyo0928",
+        "verified": false
+      }
+    ]
+  }
+}
