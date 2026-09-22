@@ -1,7 +1,7 @@
 {
   "name": "镇静药物全是梦",
   "username": "@uixxixu",
-  "bio": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+  "bio": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
   "location": "拓麻歌子星球",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,8 +10,13 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 48,
-        "start": 32,
+        "end": 40,
+        "start": 31,
+        "username": "PP_Konig"
+      },
+      {
+        "end": 60,
+        "start": 44,
         "username": "takanashi110998"
       }
     ]
