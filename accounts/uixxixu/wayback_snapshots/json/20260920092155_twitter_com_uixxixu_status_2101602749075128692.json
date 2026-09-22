@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2101357355619492060",
+    "created_at": "2026-09-20T09:21:55.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101602749075128692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1708672427163852800",
+          "start": 0,
+          "username": "xnlll_Roi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101602749075128692",
+    "in_reply_to_user_id": "1708672427163852800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101435074516599269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnlll_Roi 太多了 换药吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2101357355619492060",
+        "created_at": "2026-09-20T09:21:55.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101602749075128692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1708672427163852800",
+              "start": 0,
+              "username": "xnlll_Roi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101602749075128692",
+        "in_reply_to_user_id": "1708672427163852800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101435074516599269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnlll_Roi 太多了 换药吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708672427163852800",
+        "conversation_id": "2101357355619492060",
+        "created_at": "2026-09-19T22:15:39.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T23:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101435074516599269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101435074516599269",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101357355619492060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 吃两盒都对我不管用了，耐药太可怕……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2101602749075128692",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 558,
+          "like_count": 7168,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 4951
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-02T02:37:19.000Z",
+        "description": "🚪88/188（絵垢→@nagasawa825530 \n07｜病み垢｜DM◎｜メンヘラ｜躁鬱｜ptsd ｜ADHD ｜中文/日本語🇨🇳🇯🇵ok｜リスカ｜od ｜精神状態が不安定である⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "nagasawa825530"
+              }
+            ]
+          }
+        },
+        "id": "1708672427163852800",
+        "is_identity_verified": false,
+        "location": "冥界",
+        "most_recent_tweet_id": "2101560216911503666",
+        "name": "🍓ろい🍓",
+        "pinned_tweet_id": "2051177095884378582",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708672427163852800/1755673286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101531666544259072/u9RJKtmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 115,
+          "like_count": 1994,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "xnlll_Roi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

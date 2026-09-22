@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097310526045143040"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2097310535620710685",
+    "created_at": "2026-09-08T13:06:12.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T14:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097310535620710685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/atlVLUUOqA",
+          "end": 53,
+          "expanded_url": "https://x.com/uixxixu/status/2097310535620710685/photo/1",
+          "media_key": "3_2097310526045143040",
+          "start": 30,
+          "url": "https://t.co/atlVLUUOqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097310535620710685",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097310526045143040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "反正上次另一个医生就说“本来要给你打电话给你叫跑腿送过来” https://t.co/atlVLUUOqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 392,
+        "media_key": "3_2097310526045143040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRskz7ibwAAXNz0.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097310526045143040"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2097310535620710685",
+        "created_at": "2026-09-08T13:06:12.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097310535620710685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/atlVLUUOqA",
+              "end": 53,
+              "expanded_url": "https://x.com/uixxixu/status/2097310535620710685/photo/1",
+              "media_key": "3_2097310526045143040",
+              "start": 30,
+              "url": "https://t.co/atlVLUUOqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097310535620710685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097310526045143040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "反正上次另一个医生就说“本来要给你打电话给你叫跑腿送过来” https://t.co/atlVLUUOqA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2097310535620710685",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 547,
+          "like_count": 7034,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 4743
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

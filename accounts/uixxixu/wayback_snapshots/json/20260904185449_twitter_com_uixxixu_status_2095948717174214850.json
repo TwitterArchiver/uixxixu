@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2095948717174214850",
+    "created_at": "2026-09-04T18:54:49.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T19:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095948717174214850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pp_konig/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/pp_konig/status/2095947900018930006",
+          "start": 7,
+          "url": "https://t.co/R2oLhR1cOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095948717174214850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095947900018930006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "夺舍进度…… https://t.co/R2oLhR1cOx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2095948717174214850",
+        "created_at": "2026-09-04T18:54:49.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095948717174214850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pp_konig/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/pp_konig/status/2095947900018930006",
+              "start": 7,
+              "url": "https://t.co/R2oLhR1cOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095948717174214850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095947900018930006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夺舍进度…… https://t.co/R2oLhR1cOx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771182467128635392",
+        "conversation_id": "2095947900018930006",
+        "created_at": "2026-09-04T18:51:34.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T19:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095947900018930006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1128010587089264640",
+              "start": 40,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095947900018930006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok 我交给姐姐接管我的账户 我们俩个一起乱发东西 我不怎么上线了😽谢谢你们大家@uixxixu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2095948717174214850",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 532,
+          "like_count": 7009,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 4695
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以 我看到了电子未来姐姐@uixxixu装在玻璃碗的布丁女儿@Ace_purin飞向天空歌唱的ro友@qngshu988723424 妹妹@Rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 76,
+                "username": "uixxixu"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Ace_purin"
+              },
+              {
+                "end": 130,
+                "start": 114,
+                "username": "qngshu988723424"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "Rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095948301531283533",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771182467128635392/1756391074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091083541866336257/TSlO_YLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 229,
+          "like_count": 1468,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 3326
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

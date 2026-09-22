@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2095154946232779015",
+    "created_at": "2026-09-02T17:24:30.000Z",
+    "display_text_range": [
+      7,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095201211603730637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2092893995341131776",
+          "start": 0,
+          "username": "2dkqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095201211603730637",
+    "in_reply_to_user_id": "2092893995341131776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095198449939685654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2dkqd 我也无趣 没人理你可能是因为互动不多 一开始我也没人理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2095154946232779015",
+        "created_at": "2026-09-02T17:24:30.000Z",
+        "display_text_range": [
+          7,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095201211603730637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2092893995341131776",
+              "start": 0,
+              "username": "2dkqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095201211603730637",
+        "in_reply_to_user_id": "2092893995341131776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095198449939685654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2dkqd 我也无趣 没人理你可能是因为互动不多 一开始我也没人理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092893995341131776",
+        "conversation_id": "2095154946232779015",
+        "created_at": "2026-09-02T17:13:32.000Z",
+        "display_text_range": [
+          9,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095198449939685654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095198449939685654",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095195056877797458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 谢谢你谢谢你！你是很好的人！帮我解除了焦虑  原来不是看不见  只是我太无趣了  没有人会理我  但你是好好的人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2095201211603730637",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 534,
+          "like_count": 6991,
+          "listed_count": 0,
+          "media_count": 411,
+          "tweet_count": 4671
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T08:40:53.000Z",
+        "description": "痛苦的享乐  痛快的堕落",
+        "id": "2092893995341131776",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095200189556642255",
+        "name": "lain",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092893995341131776/1788089855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094156180532936704/0I68qrPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 64,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "2dkqd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

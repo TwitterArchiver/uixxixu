@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2096986724559880251",
+    "created_at": "2026-09-09T07:49:18.000Z",
+    "display_text_range": [
+      35,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097593174718107702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1721208231509495808",
+          "start": 0,
+          "username": "zuo369"
+        },
+        {
+          "end": 19,
+          "id": "1754774517594181632",
+          "start": 8,
+          "username": "ValenceLab"
+        },
+        {
+          "end": 34,
+          "id": "1518404201168007168",
+          "start": 20,
+          "username": "godspeedyou50"
+        },
+        {
+          "end": 56,
+          "id": "1518404201168007168",
+          "start": 42,
+          "username": "godspeedyou50"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097593174718107702",
+    "in_reply_to_user_id": "1721208231509495808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097592062459998650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuo369 @ValenceLab @godspeedyou50 我艾特出来了呀@godspeedyou50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2096986724559880251",
+        "created_at": "2026-09-09T07:49:18.000Z",
+        "display_text_range": [
+          35,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097593174718107702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1721208231509495808",
+              "start": 0,
+              "username": "zuo369"
+            },
+            {
+              "end": 19,
+              "id": "1754774517594181632",
+              "start": 8,
+              "username": "ValenceLab"
+            },
+            {
+              "end": 34,
+              "id": "1518404201168007168",
+              "start": 20,
+              "username": "godspeedyou50"
+            },
+            {
+              "end": 56,
+              "id": "1518404201168007168",
+              "start": 42,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097593174718107702",
+        "in_reply_to_user_id": "1721208231509495808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097592062459998650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuo369 @ValenceLab @godspeedyou50 我艾特出来了呀@godspeedyou50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721208231509495808",
+        "conversation_id": "2096986724559880251",
+        "created_at": "2026-09-09T07:44:53.000Z",
+        "display_text_range": [
+          36,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097592062459998650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 20,
+              "id": "1754774517594181632",
+              "start": 9,
+              "username": "ValenceLab"
+            },
+            {
+              "end": 35,
+              "id": "1518404201168007168",
+              "start": 21,
+              "username": "godspeedyou50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097592062459998650",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096986724559880251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @ValenceLab @godspeedyou50 在哪里买的！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2097593174718107702",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2097316380194587112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 550,
+          "like_count": 7058,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 4781
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-05T16:50:05.000Z",
+        "description": "为幻而幻/极乐成仙//精神人格分裂/欢迎互粉/",
+        "id": "1721208231509495808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097592062459998650",
+        "name": "無戒禁の玄牝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721208231509495808/1772303614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063973040250335232/vyLkgiXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 114,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "zuo369",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Sph…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Sphere",
+                "start": 0,
+                "url": "https://t.co/e7TrTwWJEE"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "is_identity_verified": false,
+        "location": "本栖湖",
+        "most_recent_tweet_id": "2097272549532913780",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754774517594181632/1773760887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 236,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/e7TrTwWJEE",
+        "username": "ValenceLab",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "一个违背了大众良知od喝大酒的神棍。\n☯️算命后付不怕跑单｜代请符箓、祈福请私讯\n传统宗教现代哲学文化传播者，又称中式廉价心理医生。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "https://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/AdoFGQJldT"
+              }
+            ]
+          }
+        },
+        "id": "1518404201168007168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097423382526689697",
+        "name": "Jahseh",
+        "pinned_tweet_id": "2096142160496328763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1518404201168007168/1777353629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995041133718806528/w9GwOku2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 699,
+          "like_count": 1386,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/AdoFGQJldT",
+        "username": "godspeedyou50",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

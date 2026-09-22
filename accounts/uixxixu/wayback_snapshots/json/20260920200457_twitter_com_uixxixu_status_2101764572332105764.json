@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2101552567885107251",
+    "created_at": "2026-09-20T20:04:57.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T21:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101764572332105764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2093261032005287936",
+          "start": 0,
+          "username": "Archer3td"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101764572332105764",
+    "in_reply_to_user_id": "2093261032005287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101552567885107251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Archer3td 盒子好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101552556938014720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSo26oEasAAR1Ti.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2101552567885107251",
+        "created_at": "2026-09-20T20:04:57.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T21:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101764572332105764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2093261032005287936",
+              "start": 0,
+              "username": "Archer3td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101764572332105764",
+        "in_reply_to_user_id": "2093261032005287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101552567885107251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Archer3td 盒子好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101552556938014720"
+          ]
+        },
+        "author_id": "2093261032005287936",
+        "conversation_id": "2101552567885107251",
+        "created_at": "2026-09-20T06:02:31.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101552567885107251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN73lWMiph",
+              "end": 60,
+              "expanded_url": "https://x.com/Archer3td/status/2101552567885107251/photo/1",
+              "media_key": "3_2101552556938014720",
+              "start": 37,
+              "url": "https://t.co/rN73lWMiph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101552567885107251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101552556938014720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卷了一个超级mini的weeeeeed！超可爱啊៷&gt;ᴗ&lt;៷ಣ https://t.co/rN73lWMiph"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2101764572332105764",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 561,
+          "like_count": 7189,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 4972
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T08:56:11.000Z",
+        "description": "你在看我的同时我也在看你\n互fo请私",
+        "id": "2093261032005287936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101644990795673765",
+        "name": "Archer3.0复活版",
+        "pinned_tweet_id": "2093262594811261186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093261032005287936/1787907549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093262000893591552/5AGfjuRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 18,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "Archer3td",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

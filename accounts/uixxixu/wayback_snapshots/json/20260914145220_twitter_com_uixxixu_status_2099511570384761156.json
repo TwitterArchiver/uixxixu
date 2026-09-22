@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2099499731458384131",
+    "created_at": "2026-09-14T14:52:20.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T15:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099511570384761156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845786359082135552",
+          "start": 0,
+          "username": "Fluttermori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099511570384761156",
+    "in_reply_to_user_id": "1845786359082135552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099499731458384131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fluttermori 老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2099499699543900160",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSLr2mVagAAt6jW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSLr2mVagAAt6jW.mp4"
+          }
+        ],
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2099499731458384131",
+        "created_at": "2026-09-14T14:52:20.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099511570384761156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845786359082135552",
+              "start": 0,
+              "username": "Fluttermori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099511570384761156",
+        "in_reply_to_user_id": "1845786359082135552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099499731458384131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fluttermori 老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2099499699543900160"
+          ]
+        },
+        "author_id": "1845786359082135552",
+        "conversation_id": "2099499731458384131",
+        "created_at": "2026-09-14T14:05:17.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099499731458384131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDOjTcET0d",
+              "end": 25,
+              "expanded_url": "https://x.com/Fluttermori/status/2099499731458384131/photo/1",
+              "media_key": "16_2099499699543900160",
+              "start": 2,
+              "url": "https://t.co/YDOjTcET0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099499731458384131",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "16_2099499699543900160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🪞 https://t.co/YDOjTcET0d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2099511570384761156",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 552,
+          "like_count": 7130,
+          "listed_count": 0,
+          "media_count": 448,
+          "tweet_count": 4875
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T11:19:12.000Z",
+        "description": "碎碎念=ᗜωᗜ= /对你有兴趣会互fo /现生刷到请保持边界感/不线下/不礼貌拉黑/分身@phyuyomore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "phyuyomore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/puyo23953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/puyo23953",
+                "start": 0,
+                "url": "https://t.co/7vIC1YhHkG"
+              }
+            ]
+          }
+        },
+        "id": "1845786359082135552",
+        "is_identity_verified": false,
+        "location": "🚪好友位52",
+        "most_recent_tweet_id": "2099499731458384131",
+        "name": "ぷよ",
+        "pinned_tweet_id": "2010715318365348314",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845786359082135552/1766930514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005284831522127872/Zk63-t7w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 180,
+          "like_count": 4541,
+          "listed_count": 4,
+          "media_count": 379,
+          "tweet_count": 2989
+        },
+        "url": "https://t.co/7vIC1YhHkG",
+        "username": "Fluttermori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

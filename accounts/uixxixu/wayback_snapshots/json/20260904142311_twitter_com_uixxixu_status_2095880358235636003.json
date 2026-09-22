@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2095880311859191808"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2095880358235636003",
+    "created_at": "2026-09-04T14:23:11.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095880358235636003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gfJxlfWvwU",
+          "end": 32,
+          "expanded_url": "https://x.com/uixxixu/status/2095880358235636003/video/1",
+          "media_key": "13_2095880311859191808",
+          "start": 9,
+          "url": "https://t.co/gfJxlfWvwU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095880358235636003",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2095880311859191808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁能看懂这段运镜 https://t.co/gfJxlfWvwU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20573,
+        "height": 1280,
+        "media_key": "13_2095880311859191808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095880311859191808/img/9Pm9S21gvexUOVxc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095880311859191808/vid/avc1/320x568/SQuL3K0KwAozGvuk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095880311859191808/vid/avc1/480x852/Qenb__t_llwg7uzU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095880311859191808/vid/avc1/720x1280/jXrxAMiq9QSHo5kp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095880311859191808/pl/wp1SZvPEzCoGcKEZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095880311859191808"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2095880358235636003",
+        "created_at": "2026-09-04T14:23:11.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095880358235636003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfJxlfWvwU",
+              "end": 32,
+              "expanded_url": "https://x.com/uixxixu/status/2095880358235636003/video/1",
+              "media_key": "13_2095880311859191808",
+              "start": 9,
+              "url": "https://t.co/gfJxlfWvwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095880358235636003",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2095880311859191808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能看懂这段运镜 https://t.co/gfJxlfWvwU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2095880358235636003",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 533,
+          "like_count": 7004,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 4676
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

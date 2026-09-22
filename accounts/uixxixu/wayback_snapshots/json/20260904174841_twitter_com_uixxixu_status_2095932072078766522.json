@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095932063870533633"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2095932072078766522",
+    "created_at": "2026-09-04T17:48:41.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T18:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095932072078766522"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yNJkeA3wVZ",
+          "end": 50,
+          "expanded_url": "https://x.com/uixxixu/status/2095932072078766522/photo/1",
+          "media_key": "3_2095932063870533633",
+          "start": 27,
+          "url": "https://t.co/yNJkeA3wVZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095932072078766522",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095932063870533633"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "总之 我现在的红心歌单是这样的\n很他妈诡异对吧。。！ https://t.co/yNJkeA3wVZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095932063870533633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRY_G3xawAEUNKI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095932063870533633"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2095932072078766522",
+        "created_at": "2026-09-04T17:48:41.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T18:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095932072078766522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yNJkeA3wVZ",
+              "end": 50,
+              "expanded_url": "https://x.com/uixxixu/status/2095932072078766522/photo/1",
+              "media_key": "3_2095932063870533633",
+              "start": 27,
+              "url": "https://t.co/yNJkeA3wVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095932072078766522",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095932063870533633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总之 我现在的红心歌单是这样的\n很他妈诡异对吧。。！ https://t.co/yNJkeA3wVZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2095932072078766522",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 532,
+          "like_count": 7006,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 4688
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

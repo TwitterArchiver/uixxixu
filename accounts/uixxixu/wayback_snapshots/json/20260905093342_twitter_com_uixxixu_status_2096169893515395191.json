@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096169883054886912"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2096169893515395191",
+    "created_at": "2026-09-05T09:33:42.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096169893515395191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1124790071314587648",
+          "start": 4,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iojYeoNKNV",
+          "end": 41,
+          "expanded_url": "https://x.com/uixxixu/status/2096169893515395191/photo/1",
+          "media_key": "3_2096169883054886912",
+          "start": 18,
+          "url": "https://t.co/iojYeoNKNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096169893515395191",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096169883054886912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有赠品@LanwujiDrink https://t.co/iojYeoNKNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096169883054886912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcXZxRb0AAmEHC.jpg",
+        "width": 1914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096169883054886912"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2096169893515395191",
+        "created_at": "2026-09-05T09:33:42.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096169893515395191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1124790071314587648",
+              "start": 4,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iojYeoNKNV",
+              "end": 41,
+              "expanded_url": "https://x.com/uixxixu/status/2096169893515395191/photo/1",
+              "media_key": "3_2096169883054886912",
+              "start": 18,
+              "url": "https://t.co/iojYeoNKNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096169893515395191",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096169883054886912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有赠品@LanwujiDrink https://t.co/iojYeoNKNV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2096169893515395191",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 535,
+          "like_count": 7019,
+          "listed_count": 0,
+          "media_count": 417,
+          "tweet_count": 4717
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096167639827591677",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 98,
+          "like_count": 3523,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1918
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

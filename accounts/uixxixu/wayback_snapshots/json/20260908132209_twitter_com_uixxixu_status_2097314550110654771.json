@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2097298205096722820",
+    "created_at": "2026-09-08T13:22:09.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T14:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097314550110654771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870825698744836096",
+          "start": 0,
+          "username": "ifiwereamoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097314550110654771",
+    "in_reply_to_user_id": "1870825698744836096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097298205096722820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifiwereamoth 美丽的哥特。生日快乐yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097298196565569536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsZmQpbsAAf53h.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097298196565549057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsZmQpbYAE8mYf.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2097298205096722820",
+        "created_at": "2026-09-08T13:22:09.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097314550110654771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870825698744836096",
+              "start": 0,
+              "username": "ifiwereamoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097314550110654771",
+        "in_reply_to_user_id": "1870825698744836096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097298205096722820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifiwereamoth 美丽的哥特。生日快乐yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097298196565569536",
+            "3_2097298196565549057"
+          ]
+        },
+        "author_id": "1870825698744836096",
+        "conversation_id": "2097298205096722820",
+        "created_at": "2026-09-08T12:17:12.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T13:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097298205096722820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nx4LcFzPEr",
+              "end": 33,
+              "expanded_url": "https://x.com/ifiwereamoth/status/2097298205096722820/photo/1",
+              "media_key": "3_2097298196565569536",
+              "start": 10,
+              "url": "https://t.co/Nx4LcFzPEr"
+            },
+            {
+              "display_url": "pic.x.com/Nx4LcFzPEr",
+              "end": 33,
+              "expanded_url": "https://x.com/ifiwereamoth/status/2097298205096722820/photo/1",
+              "media_key": "3_2097298196565549057",
+              "start": 10,
+              "url": "https://t.co/Nx4LcFzPEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097298205096722820",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097298196565569536"
+          },
+          {
+            "media_key": "3_2097298196565549057"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 717,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我明天就要20歲了 https://t.co/Nx4LcFzPEr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2097314550110654771",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 547,
+          "like_count": 7036,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 4744
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "邊界之物",
+        "id": "1870825698744836096",
+        "is_identity_verified": false,
+        "location": "🚪88好处只有認識我",
+        "most_recent_tweet_id": "2097298205096722820",
+        "name": "s!xpence",
+        "pinned_tweet_id": "2093647269765714330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870825698744836096/1766285102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002570935380160516/-yco8Owh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2714,
+          "following_count": 140,
+          "like_count": 4927,
+          "listed_count": 8,
+          "media_count": 233,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "ifiwereamoth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
