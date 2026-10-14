@@ -1,7 +1,7 @@
 {
   "name": "镇静药物全是梦",
   "username": "@uixxixu",
-  "bio": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+  "bio": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://valence.top/ask/gvu8cyxt3",
   "location": "拓麻歌子星球",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,14 +10,23 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 40,
-        "start": 31,
-        "username": "PP_Konig"
+        "end": 33,
+        "start": 23,
+        "username": "Xxnay0621"
       },
       {
-        "end": 60,
-        "start": 44,
+        "end": 53,
+        "start": 37,
         "username": "takanashi110998"
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "valence.top/ask/gvu8cyxt3",
+        "end": 104,
+        "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+        "start": 81,
+        "url": "https://t.co/zxDVG8QqTP"
       }
     ]
   },
