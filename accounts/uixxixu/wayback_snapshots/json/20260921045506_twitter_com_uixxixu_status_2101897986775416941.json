@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2101760326421328330",
+    "created_at": "2026-09-21T04:55:06.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T05:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101897986775416941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982750046216196096",
+          "start": 0,
+          "username": "driewtac1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101897986775416941",
+    "in_reply_to_user_id": "1982750046216196096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101889433041846412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@driewtac1 我喝咖啡也发抖哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2101760326421328330",
+        "created_at": "2026-09-21T04:55:06.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101897986775416941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982750046216196096",
+              "start": 0,
+              "username": "driewtac1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101897986775416941",
+        "in_reply_to_user_id": "1982750046216196096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101889433041846412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@driewtac1 我喝咖啡也发抖哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982750046216196096",
+        "conversation_id": "2101760326421328330",
+        "created_at": "2026-09-21T04:21:06.000Z",
+        "display_text_range": [
+          9,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T05:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101889433041846412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101889433041846412",
+        "in_reply_to_user_id": "1982750046216196096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101888449615962623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 咖啡了我还有发抖什么的，再吃劳拉…没这些根本上不了班"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2101897986775416941",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 562,
+          "like_count": 7190,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 4981
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-27T10:03:57.000Z",
+        "description": "うみとさかな",
+        "id": "1982750046216196096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101889433041846412",
+        "name": "umi",
+        "pinned_tweet_id": "2060549913369571647",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982750046216196096/1770875807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068456789822287873/CGO9F3_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 146,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "driewtac1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

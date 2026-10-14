@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108615924345622673",
+    "created_at": "2026-10-10T11:55:07.000Z",
+    "display_text_range": [
+      17,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T12:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108889057275346956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "841966833179615234",
+          "start": 0,
+          "username": "bigrockbigshoot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108889057275346956",
+    "in_reply_to_user_id": "841966833179615234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108755383376621971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigrockbigshoot 十元最近出新剧了 有点喜欢她 就想再看看非自然死亡 因为之前一直没看进去这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108615924345622673",
+        "created_at": "2026-10-10T11:55:07.000Z",
+        "display_text_range": [
+          17,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108889057275346956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "841966833179615234",
+              "start": 0,
+              "username": "bigrockbigshoot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108889057275346956",
+        "in_reply_to_user_id": "841966833179615234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108755383376621971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigrockbigshoot 十元最近出新剧了 有点喜欢她 就想再看看非自然死亡 因为之前一直没看进去这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841966833179615234",
+        "conversation_id": "2108615924345622673",
+        "created_at": "2026-10-10T03:03:56.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T04:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108755383376621971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108755383376621971",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108615924345622673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 居然還能看到十元，這劇感覺有十年了…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108889057275346956",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 597,
+          "like_count": 7491,
+          "listed_count": 0,
+          "media_count": 517,
+          "tweet_count": 5384
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-15T10:58:30.000Z",
+        "description": "静静过这天，慢慢度这年",
+        "id": "841966833179615234",
+        "is_identity_verified": false,
+        "location": "freeland",
+        "most_recent_tweet_id": "2108756872232923493",
+        "name": "小翠翠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/841966833179615234/1679688572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639356245848252416/nYG5DARY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 57,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 6676
+        },
+        "url": "",
+        "username": "bigrockbigshoot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107584517116776448",
+        "3_2107584517125132288",
+        "3_2107584517125099520",
+        "3_2107584517133488128"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107584528458064115",
+    "created_at": "2026-10-06T21:31:23.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T22:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107584528458064115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jVmAi5vvSb",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+          "media_key": "3_2107584517116776448",
+          "start": 7,
+          "url": "https://t.co/jVmAi5vvSb"
+        },
+        {
+          "display_url": "pic.x.com/jVmAi5vvSb",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+          "media_key": "3_2107584517125132288",
+          "start": 7,
+          "url": "https://t.co/jVmAi5vvSb"
+        },
+        {
+          "display_url": "pic.x.com/jVmAi5vvSb",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+          "media_key": "3_2107584517125099520",
+          "start": 7,
+          "url": "https://t.co/jVmAi5vvSb"
+        },
+        {
+          "display_url": "pic.x.com/jVmAi5vvSb",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+          "media_key": "3_2107584517133488128",
+          "start": 7,
+          "url": "https://t.co/jVmAi5vvSb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107584528458064115",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107584517116776448"
+      },
+      {
+        "media_key": "3_2107584517125132288"
+      },
+      {
+        "media_key": "3_2107584517125099520"
+      },
+      {
+        "media_key": "3_2107584517133488128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小画板更新了 https://t.co/jVmAi5vvSb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107584517116776448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-k86zb0AALHBa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107584517125132288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-k861bUAAtlK5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1734,
+        "media_key": "3_2107584517125099520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-k861a0AAKVoo.jpg",
+        "width": 1301
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2107584517133488128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-k863a0AAVkxe.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107584517116776448",
+            "3_2107584517125132288",
+            "3_2107584517125099520",
+            "3_2107584517133488128"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107584528458064115",
+        "created_at": "2026-10-06T21:31:23.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T22:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107584528458064115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVmAi5vvSb",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+              "media_key": "3_2107584517116776448",
+              "start": 7,
+              "url": "https://t.co/jVmAi5vvSb"
+            },
+            {
+              "display_url": "pic.x.com/jVmAi5vvSb",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+              "media_key": "3_2107584517125132288",
+              "start": 7,
+              "url": "https://t.co/jVmAi5vvSb"
+            },
+            {
+              "display_url": "pic.x.com/jVmAi5vvSb",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+              "media_key": "3_2107584517125099520",
+              "start": 7,
+              "url": "https://t.co/jVmAi5vvSb"
+            },
+            {
+              "display_url": "pic.x.com/jVmAi5vvSb",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2107584528458064115/photo/1",
+              "media_key": "3_2107584517133488128",
+              "start": 7,
+              "url": "https://t.co/jVmAi5vvSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107584528458064115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107584517116776448"
+          },
+          {
+            "media_key": "3_2107584517125132288"
+          },
+          {
+            "media_key": "3_2107584517125099520"
+          },
+          {
+            "media_key": "3_2107584517133488128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小画板更新了 https://t.co/jVmAi5vvSb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2107584528458064115",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 588,
+          "like_count": 7388,
+          "listed_count": 0,
+          "media_count": 508,
+          "tweet_count": 5263
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

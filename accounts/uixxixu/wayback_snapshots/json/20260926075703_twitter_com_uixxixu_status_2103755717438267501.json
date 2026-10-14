@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2103755717438267501",
+    "created_at": "2026-09-26T07:57:03.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103755717438267501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/valencelab/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/valencelab/status/2103724938427339049",
+          "start": 4,
+          "url": "https://t.co/n2wgSe49jV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103755717438267501",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103724938427339049",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很好的 https://t.co/n2wgSe49jV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 729,
+        "media_key": "3_2103724931687337984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTHurepbUAAJU_N.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2103755717438267501",
+        "created_at": "2026-09-26T07:57:03.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103755717438267501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valencelab/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/valencelab/status/2103724938427339049",
+              "start": 4,
+              "url": "https://t.co/n2wgSe49jV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103755717438267501",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103724938427339049",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很好的 https://t.co/n2wgSe49jV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103724931687337984"
+          ]
+        },
+        "author_id": "1754774517594181632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103724938427339049",
+        "created_at": "2026-09-26T05:54:45.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T06:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103724938427339049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "valence.top",
+              "end": 28,
+              "expanded_url": "https://valence.top",
+              "start": 5,
+              "unwound_url": "https://valence.top",
+              "url": "https://t.co/1egz4P6m1L"
+            },
+            {
+              "display_url": "pic.x.com/z8i7oDHU8h",
+              "end": 81,
+              "expanded_url": "https://x.com/ValenceLab/status/2103724938427339049/photo/1",
+              "media_key": "3_2103724931687337984",
+              "start": 58,
+              "url": "https://t.co/z8i7oDHU8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103724938427339049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103724931687337984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 534,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎来到 https://t.co/1egz4P6m1L。\n\n这里刚刚开始。\n\n谢谢你，愿意成为第一批看见它的人。 https://t.co/z8i7oDHU8h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2103755717438267501",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 567,
+          "like_count": 7254,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 5118
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥官方论坛 https://t.co/I7gx0T63Cd∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "valence.top",
+                "end": 39,
+                "expanded_url": "http://valence.top",
+                "start": 16,
+                "url": "https://t.co/I7gx0T63Cd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Sph…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Sphere",
+                "start": 0,
+                "url": "https://t.co/e7TrTwWJEE"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "is_identity_verified": false,
+        "location": "本栖湖",
+        "most_recent_tweet_id": "2103748628112437468",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2103724938427339049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754774517594181632/1773760887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 236,
+          "like_count": 514,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/e7TrTwWJEE",
+        "username": "ValenceLab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

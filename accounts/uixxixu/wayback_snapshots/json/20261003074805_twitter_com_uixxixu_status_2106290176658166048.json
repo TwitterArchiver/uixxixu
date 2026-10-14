@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2106275079655198955",
+    "created_at": "2026-10-03T07:48:05.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106290176658166048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2103590351080771584",
+          "start": 0,
+          "username": "uwu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106290176658166048",
+    "in_reply_to_user_id": "2103590351080771584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106279972306640974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwu8964 我也要亲镇静药物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2106275079655198955",
+        "created_at": "2026-10-03T07:48:05.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106290176658166048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2103590351080771584",
+              "start": 0,
+              "username": "uwu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106290176658166048",
+        "in_reply_to_user_id": "2103590351080771584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106279972306640974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwu8964 我也要亲镇静药物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103590351080771584",
+        "conversation_id": "2106275079655198955",
+        "created_at": "2026-10-03T07:07:32.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106279972306640974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106279972306640974",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106279761953874273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 親親鎮靜藥物👁️〰️👁️"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 118,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 95,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2106290176658166048",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 573,
+          "like_count": 7350,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 5212
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T21:01:40.000Z",
+        "description": "最愛的杯子@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2103590351080771584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106290037986070651",
+        "name": "番茄操蛋🏳️‍⚧️",
+        "pinned_tweet_id": "2105370737829916693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103590351080771584/1790794541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105368005270228993/ORHAOaDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 122,
+          "like_count": 338,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "uwu8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102373610874904576"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2102318185794130133",
+    "created_at": "2026-09-22T12:25:05.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T13:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102373619372601476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T8beYyvuHt",
+          "end": 53,
+          "expanded_url": "https://x.com/uixxixu/status/2102373619372601476/photo/1",
+          "media_key": "3_2102373610874904576",
+          "start": 30,
+          "url": "https://t.co/T8beYyvuHt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102373619372601476",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102373610874904576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102318185794130133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大姐姐最好了！！！！我又在上班期间交到了一个可以处人好朋友 https://t.co/T8beYyvuHt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1630,
+        "media_key": "3_2102373610874904576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0hqQVaoAAn3Ep.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102373610874904576"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102318185794130133",
+        "created_at": "2026-09-22T12:25:05.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T13:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102373619372601476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T8beYyvuHt",
+              "end": 53,
+              "expanded_url": "https://x.com/uixxixu/status/2102373619372601476/photo/1",
+              "media_key": "3_2102373610874904576",
+              "start": 30,
+              "url": "https://t.co/T8beYyvuHt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102373619372601476",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102373610874904576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102318185794130133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大姐姐最好了！！！！我又在上班期间交到了一个可以处人好朋友 https://t.co/T8beYyvuHt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2102318185794130133",
+        "created_at": "2026-09-22T08:44:49.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102318185794130133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102318185794130133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和这个大姐姐聊了很多 她很有趣 一个人带着孩子 帮儿子解决被霸凌的问题 很强大  她是我的岗位竞争对手 真想能两个都留下啊……就算是我留下了 一个人也挺无聊的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2102373619372601476",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 564,
+          "like_count": 7179,
+          "listed_count": 0,
+          "media_count": 461,
+          "tweet_count": 5010
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

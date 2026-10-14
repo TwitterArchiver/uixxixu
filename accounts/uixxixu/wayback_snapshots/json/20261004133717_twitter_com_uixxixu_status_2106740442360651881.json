@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2106703126380392541",
+    "created_at": "2026-10-04T13:37:17.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:37:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106740442360651881"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2106740442360651881",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106703126380392541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欢迎提问 问渠道的、不礼貌的别来"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106703113055043585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyDUczbAAEJUwZ.jpg",
+        "width": 1638
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106703113046638592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTyDUcxawAAMhCx.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2106703126380392541",
+        "created_at": "2026-10-04T13:37:17.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106740442360651881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106740442360651881",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703126380392541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎提问 问渠道的、不礼貌的别来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106703113055043585",
+            "3_2106703113046638592"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2106703126380392541",
+        "created_at": "2026-10-04T11:09:00.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106703126380392541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "valence.top/ask/gvu8cyxt3",
+              "end": 58,
+              "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+              "start": 35,
+              "unwound_url": "https://valence.top/ask/gvu8cyxt3",
+              "url": "https://t.co/GXlHBzVMVX"
+            },
+            {
+              "display_url": "pic.x.com/gWkmegyXMS",
+              "end": 82,
+              "expanded_url": "https://x.com/uixxixu/status/2106703126380392541/photo/1",
+              "media_key": "3_2106703113055043585",
+              "start": 59,
+              "url": "https://t.co/gWkmegyXMS"
+            },
+            {
+              "display_url": "pic.x.com/gWkmegyXMS",
+              "end": 82,
+              "expanded_url": "https://x.com/uixxixu/status/2106703126380392541/photo/1",
+              "media_key": "3_2106703113046638592",
+              "start": 59,
+              "url": "https://t.co/gWkmegyXMS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106703126380392541",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106703113055043585"
+          },
+          {
+            "media_key": "3_2106703113046638592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回答来啦……我可能忘记了很多事，这是我大脑内存里能提取到的最好的回答。https://t.co/GXlHBzVMVX https://t.co/gWkmegyXMS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2106740442360651881",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 575,
+          "like_count": 7364,
+          "listed_count": 0,
+          "media_count": 499,
+          "tweet_count": 5228
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

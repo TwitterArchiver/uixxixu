@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2107908788061884905",
+    "created_at": "2026-10-08T08:43:35.000Z",
+    "display_text_range": [
+      11,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108116080602616295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1960418391325339648",
+          "start": 0,
+          "username": "PopCelebz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108116080602616295",
+    "in_reply_to_user_id": "1960418391325339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107908788061884905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PopCelebz 这位在我小时候就是我妈妈了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_2107908771968397312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUDL3CQbMAAQcW7.jpg",
+        "width": 670
+      },
+      {
+        "height": 977,
+        "media_key": "3_2107908780096942080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUDL3gia8AAKqhl.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2107908788061884905",
+        "created_at": "2026-10-08T08:43:35.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108116080602616295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1960418391325339648",
+              "start": 0,
+              "username": "PopCelebz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108116080602616295",
+        "in_reply_to_user_id": "1960418391325339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107908788061884905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PopCelebz 这位在我小时候就是我妈妈了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107908771968397312",
+            "3_2107908780096942080"
+          ]
+        },
+        "author_id": "1960418391325339648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Anne Hathaway",
+              "id": "943141146108162048",
+              "name": "Anne Hathaway"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Anne Hathaway",
+              "id": "943141146108162048",
+              "name": "Anne Hathaway"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anne Hathaway",
+              "id": "943141146108162048",
+              "name": "Anne Hathaway"
+            }
+          }
+        ],
+        "conversation_id": "2107908788061884905",
+        "created_at": "2026-10-07T18:59:52.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T19:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107908788061884905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFLiSSJpiN",
+              "end": 85,
+              "expanded_url": "https://x.com/PopCelebz/status/2107908788061884905/photo/1",
+              "media_key": "3_2107908771968397312",
+              "start": 62,
+              "url": "https://t.co/pFLiSSJpiN"
+            },
+            {
+              "display_url": "pic.x.com/pFLiSSJpiN",
+              "end": 85,
+              "expanded_url": "https://x.com/PopCelebz/status/2107908788061884905/photo/1",
+              "media_key": "3_2107908780096942080",
+              "start": 62,
+              "url": "https://t.co/pFLiSSJpiN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107908788061884905",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2107908771968397312"
+          },
+          {
+            "media_key": "3_2107908780096942080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1479,
+          "impression_count": 472452,
+          "like_count": 18464,
+          "quote_count": 60,
+          "reply_count": 63,
+          "retweet_count": 769
+        },
+        "reply_settings": "everyone",
+        "text": "Anne Hathaway looking absolutely breathtaking at 43 years old https://t.co/pFLiSSJpiN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108116080602616295",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 588,
+          "like_count": 7410,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 5285
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-26T19:06:02.000Z",
+        "description": "Daily Hollywood celebs & movie updates  | Fan page • Not affiliated | DM for collab",
+        "id": "1960418391325339648",
+        "is_identity_verified": false,
+        "location": " Globe ",
+        "most_recent_tweet_id": "2108062027206000741",
+        "name": "Celebz Addiction",
+        "pinned_tweet_id": "2069974554257330544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1960418391325339648/1781336572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080578833661693952/vxU2wo1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28829,
+          "following_count": 1593,
+          "like_count": 6723,
+          "listed_count": 51,
+          "media_count": 1501,
+          "tweet_count": 3474
+        },
+        "url": "",
+        "username": "PopCelebz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

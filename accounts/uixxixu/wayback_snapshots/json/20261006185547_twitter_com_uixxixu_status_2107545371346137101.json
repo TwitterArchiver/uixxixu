@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107545314127458304"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2107545371346137101",
+    "created_at": "2026-10-06T18:55:47.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T19:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107545371346137101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bwAbwUyFIr",
+          "end": 31,
+          "expanded_url": "https://x.com/uixxixu/status/2107545371346137101/video/1",
+          "media_key": "13_2107545314127458304",
+          "start": 8,
+          "url": "https://t.co/bwAbwUyFIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107545371346137101",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2107545314127458304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真他妈可爱啊！ https://t.co/bwAbwUyFIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11706,
+        "height": 1920,
+        "media_key": "13_2107545314127458304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107545314127458304/img/9u6YZGm3fGHl-LA5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107545314127458304/vid/avc1/320x568/8IK3J4XFJaabBHKG.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107545314127458304/vid/avc1/1080x1920/VevmEFJde7Vn-m1j.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107545314127458304/vid/avc1/480x852/5Bywk-6xj_WQIQ86.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107545314127458304/pl/rXRbagc3OZCKMYZ5.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107545314127458304/vid/avc1/720x1280/rfow6StZoObzgt3g.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107545314127458304"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2107545371346137101",
+        "created_at": "2026-10-06T18:55:47.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T19:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107545371346137101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwAbwUyFIr",
+              "end": 31,
+              "expanded_url": "https://x.com/uixxixu/status/2107545371346137101/video/1",
+              "media_key": "13_2107545314127458304",
+              "start": 8,
+              "url": "https://t.co/bwAbwUyFIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107545371346137101",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107545314127458304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真他妈可爱啊！ https://t.co/bwAbwUyFIr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2107545371346137101",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 587,
+          "like_count": 7387,
+          "listed_count": 0,
+          "media_count": 506,
+          "tweet_count": 5259
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

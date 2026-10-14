@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2103619937667633220",
+    "created_at": "2026-09-25T22:57:31.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T23:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103619937667633220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1701474166392905729",
+          "start": 3,
+          "username": "NanaNana_os"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103619937667633220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103431585232228596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NanaNana_os: 看到了糟糕的事情\n我建议任何爱着亲密关系的人都好好学习对方使用的任何（注意是任何 包括hrt/精神科/超说明书/止痛止吐）等的药物的常规使用剂量和常见红色搭配……."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2103619937667633220",
+        "created_at": "2026-09-25T22:57:31.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103619937667633220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1701474166392905729",
+              "start": 3,
+              "username": "NanaNana_os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103619937667633220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103431585232228596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NanaNana_os: 看到了糟糕的事情\n我建议任何爱着亲密关系的人都好好学习对方使用的任何（注意是任何 包括hrt/精神科/超说明书/止痛止吐）等的药物的常规使用剂量和常见红色搭配……."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701474166392905729",
+        "conversation_id": "2103431585232228596",
+        "created_at": "2026-09-25T10:29:04.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103431585232228596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103431585232228596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1024,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看到了糟糕的事情\n我建议任何爱着亲密关系的人都好好学习对方使用的任何（注意是任何 包括hrt/精神科/超说明书/止痛止吐）等的药物的常规使用剂量和常见红色搭配……."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2103619937667633220",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 568,
+          "like_count": 7240,
+          "listed_count": 0,
+          "media_count": 475,
+          "tweet_count": 5103
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T05:54:01.000Z",
+        "description": "enby｜💕@yuwilmeaning｜❤️‍🩹@_sharkee1024 ｜EE +BME+ Psypharm｜Beijing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "yuwilmeaning"
+              },
+              {
+                "end": 37,
+                "start": 24,
+                "username": "_sharkee1024"
+              }
+            ]
+          }
+        },
+        "id": "1701474166392905729",
+        "is_identity_verified": false,
+        "location": "DLPFC",
+        "most_recent_tweet_id": "2103612347676049492",
+        "name": "7Na7Na",
+        "pinned_tweet_id": "2101256554389627053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701474166392905729/1744998704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947780376044425216/KXTmmUpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 751,
+          "like_count": 31963,
+          "listed_count": 1,
+          "media_count": 497,
+          "tweet_count": 4090
+        },
+        "url": "",
+        "username": "NanaNana_os",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

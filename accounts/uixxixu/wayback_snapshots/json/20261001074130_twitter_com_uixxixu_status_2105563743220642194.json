@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105563720294580224",
+        "3_2105563720294514688"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2105563743220642194",
+    "created_at": "2026-10-01T07:41:30.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105563743220642194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "1684269091849404416",
+          "start": 16,
+          "username": "1212s1212bs1242"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/guO7qJJkdl",
+          "end": 56,
+          "expanded_url": "https://x.com/uixxixu/status/2105563743220642194/photo/1",
+          "media_key": "3_2105563720294580224",
+          "start": 33,
+          "url": "https://t.co/guO7qJJkdl"
+        },
+        {
+          "display_url": "pic.x.com/guO7qJJkdl",
+          "end": 56,
+          "expanded_url": "https://x.com/uixxixu/status/2105563743220642194/photo/1",
+          "media_key": "3_2105563720294514688",
+          "start": 33,
+          "url": "https://t.co/guO7qJJkdl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105563743220642194",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105563720294580224"
+      },
+      {
+        "media_key": "3_2105563720294514688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次不要掉厕所里了好吗\n买🚬找他@1212s1212bs1242 https://t.co/guO7qJJkdl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105563720294580224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh3DEAbwAAOVGt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105563720294514688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTh3DEAawAABF-B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105563720294580224",
+            "3_2105563720294514688"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2105563743220642194",
+        "created_at": "2026-10-01T07:41:30.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105563743220642194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1684269091849404416",
+              "start": 16,
+              "username": "1212s1212bs1242"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/guO7qJJkdl",
+              "end": 56,
+              "expanded_url": "https://x.com/uixxixu/status/2105563743220642194/photo/1",
+              "media_key": "3_2105563720294580224",
+              "start": 33,
+              "url": "https://t.co/guO7qJJkdl"
+            },
+            {
+              "display_url": "pic.x.com/guO7qJJkdl",
+              "end": 56,
+              "expanded_url": "https://x.com/uixxixu/status/2105563743220642194/photo/1",
+              "media_key": "3_2105563720294514688",
+              "start": 33,
+              "url": "https://t.co/guO7qJJkdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105563743220642194",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105563720294580224"
+          },
+          {
+            "media_key": "3_2105563720294514688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次不要掉厕所里了好吗\n买🚬找他@1212s1212bs1242 https://t.co/guO7qJJkdl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2105563743220642194",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 571,
+          "like_count": 7295,
+          "listed_count": 0,
+          "media_count": 487,
+          "tweet_count": 5171
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I/烟代/主人@Repeta8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Repeta8964"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2105519222667497950",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 932,
+          "like_count": 16989,
+          "listed_count": 0,
+          "media_count": 1157,
+          "tweet_count": 10510
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

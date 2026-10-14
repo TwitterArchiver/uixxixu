@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108230646648995868",
+    "created_at": "2026-10-08T16:18:49.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T17:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108230646648995868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seagulllll_/st…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/seagulllll_/status/2107077144463728713",
+          "start": 54,
+          "url": "https://t.co/sTqF80HKbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108230646648995868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107077144463728713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我也好想和很早进入社会的小女孩一起玩啊，如果会有可能被备注“大妈”，这种人一开始我也不会想要一起玩呀。 https://t.co/sTqF80HKbL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108230646648995868",
+        "created_at": "2026-10-08T16:18:49.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108230646648995868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seagulllll_/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/seagulllll_/status/2107077144463728713",
+              "start": 54,
+              "url": "https://t.co/sTqF80HKbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108230646648995868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107077144463728713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我也好想和很早进入社会的小女孩一起玩啊，如果会有可能被备注“大妈”，这种人一开始我也不会想要一起玩呀。 https://t.co/sTqF80HKbL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055919858106376192",
+        "conversation_id": "2107077144463728713",
+        "created_at": "2026-10-05T11:55:13.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107077144463728713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107077144463728713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉，其实我也好想和天使降临人间电波系未成年一起玩啊，只不过我担心背地里被备注“大妈”，也不是没前车之鉴。求开解吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108230646648995868",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 588,
+          "like_count": 7433,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 5314
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T07:55:57.000Z",
+        "description": "😋自己骂人的时候想到了这一天没？",
+        "id": "2055919858106376192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108157222392107321",
+        "name": "6772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055919858106376192/1784464588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078655800990724096/Htf5AeDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 89
+        },
+        "url": "",
+        "username": "Seagulllll_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108953704896536576"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108953719039820130",
+    "created_at": "2026-10-10T16:12:03.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T17:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108953719039820130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FwN2DwD6QI",
+          "end": 50,
+          "expanded_url": "https://x.com/uixxixu/status/2108953719039820130/photo/1",
+          "media_key": "3_2108953704896536576",
+          "start": 27,
+          "url": "https://t.co/FwN2DwD6QI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108953719039820130",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108953704896536576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "要是ns2真会出狒狒的国服就好了 麻吉麻吉麻吉？？！ https://t.co/FwN2DwD6QI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1703,
+        "media_key": "3_2108953704896536576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUSCOIwaIAA-YTc.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108953704896536576"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108953719039820130",
+        "created_at": "2026-10-10T16:12:03.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108953719039820130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FwN2DwD6QI",
+              "end": 50,
+              "expanded_url": "https://x.com/uixxixu/status/2108953719039820130/photo/1",
+              "media_key": "3_2108953704896536576",
+              "start": 27,
+              "url": "https://t.co/FwN2DwD6QI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108953719039820130",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108953704896536576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是ns2真会出狒狒的国服就好了 麻吉麻吉麻吉？？！ https://t.co/FwN2DwD6QI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108953719039820130",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 600,
+          "like_count": 7510,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 5407
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

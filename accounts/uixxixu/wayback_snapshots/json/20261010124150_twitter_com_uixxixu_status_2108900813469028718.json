@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108900803838906368",
+        "3_2108900803763458049"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2108900813469028718",
+    "created_at": "2026-10-10T12:41:50.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T13:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108900813469028718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3T1J7Jvfw",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2108900813469028718/photo/1",
+          "media_key": "3_2108900803838906368",
+          "start": 7,
+          "url": "https://t.co/I3T1J7Jvfw"
+        },
+        {
+          "display_url": "pic.x.com/I3T1J7Jvfw",
+          "end": 30,
+          "expanded_url": "https://x.com/uixxixu/status/2108900813469028718/photo/1",
+          "media_key": "3_2108900803763458049",
+          "start": 7,
+          "url": "https://t.co/I3T1J7Jvfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108900813469028718",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2108900803838906368"
+      },
+      {
+        "media_key": "3_2108900803763458049"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未来……哭哭 https://t.co/I3T1J7Jvfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1429,
+        "media_key": "3_2108900803838906368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HURSG49akAAK0yj.jpg",
+        "width": 1009
+      },
+      {
+        "height": 270,
+        "media_key": "3_2108900803763458049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HURSG4rbUAEXsCt.jpg",
+        "width": 1142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108900803838906368",
+            "3_2108900803763458049"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2108900813469028718",
+        "created_at": "2026-10-10T12:41:50.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108900813469028718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3T1J7Jvfw",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2108900813469028718/photo/1",
+              "media_key": "3_2108900803838906368",
+              "start": 7,
+              "url": "https://t.co/I3T1J7Jvfw"
+            },
+            {
+              "display_url": "pic.x.com/I3T1J7Jvfw",
+              "end": 30,
+              "expanded_url": "https://x.com/uixxixu/status/2108900813469028718/photo/1",
+              "media_key": "3_2108900803763458049",
+              "start": 7,
+              "url": "https://t.co/I3T1J7Jvfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108900813469028718",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108900803838906368"
+          },
+          {
+            "media_key": "3_2108900803763458049"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来……哭哭 https://t.co/I3T1J7Jvfw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108900813469028718",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 598,
+          "like_count": 7494,
+          "listed_count": 0,
+          "media_count": 518,
+          "tweet_count": 5389
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

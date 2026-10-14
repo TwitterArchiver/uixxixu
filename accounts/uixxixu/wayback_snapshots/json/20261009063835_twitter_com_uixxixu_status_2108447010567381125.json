@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2108409868537536589",
+    "created_at": "2026-10-09T06:38:35.000Z",
+    "display_text_range": [
+      7,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T07:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108447010567381125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1906605092612227072",
+          "start": 0,
+          "username": "N9qHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108447010567381125",
+    "in_reply_to_user_id": "1906605092612227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108409868537536589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N9qHy 国外消费高 其实如果经济条件一般 好像出国会过得挺苦的 虽然我是羡慕能留学的家庭的 还有你磕什么我也好想嗑药但只有pr80😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2108409671128383489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUKTbNCbAAEO5fR.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2108409868537536589",
+        "created_at": "2026-10-09T06:38:35.000Z",
+        "display_text_range": [
+          7,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T07:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108447010567381125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1906605092612227072",
+              "start": 0,
+              "username": "N9qHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108447010567381125",
+        "in_reply_to_user_id": "1906605092612227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108409868537536589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N9qHy 国外消费高 其实如果经济条件一般 好像出国会过得挺苦的 虽然我是羡慕能留学的家庭的 还有你磕什么我也好想嗑药但只有pr80😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108409671128383489"
+          ]
+        },
+        "author_id": "1906605092612227072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2108409868537536589",
+        "created_at": "2026-10-09T04:10:59.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T05:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108409868537536589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fo1i3JLQ8g",
+              "end": 90,
+              "expanded_url": "https://x.com/N9qHy/status/2108409868537536589/photo/1",
+              "media_key": "3_2108409671128383489",
+              "start": 67,
+              "url": "https://t.co/Fo1i3JLQ8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108409868537536589",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108409671128383489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我受不了了我要嗑药\n凭什么他妈的在国内升本升硕又不好考和在国外专升硕费用都一样而且国外的时间还短凭什么这么犟看见留学就吓得屁滚尿流的 https://t.co/Fo1i3JLQ8g"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108447010567381125",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 589,
+          "like_count": 7444,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 5324
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108409868537536589",
+        "name": "明前",
+        "pinned_tweet_id": "2077445551428341961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906605092612227072/1783880665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 2100,
+          "like_count": 7382,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 2711
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2109103420720496806",
+    "created_at": "2026-10-11T02:06:55.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T03:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109103420720496806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miyarah_/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/miyarah_/status/2109008079165812998",
+          "start": 3,
+          "url": "https://t.co/xttlc3HFh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109103420720496806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109008079165812998",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日常 https://t.co/xttlc3HFh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14431,
+        "height": 684,
+        "media_key": "13_2109008030935273472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109008030935273472/img/uN8KkhARrrfVzzqs.jpg",
+        "public_metrics": {
+          "view_count": 93353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109008030935273472/vid/avc1/468x270/u8WHhhHBcjFU5pcK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109008030935273472/vid/avc1/624x360/_3GQt_sKHPYzaKCq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109008030935273472/vid/avc1/1186x684/nX1bbciZXw_Qgdht.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109008030935273472/pl/xNdRqGblyardMLDL.m3u8?v=cfc"
+          }
+        ],
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2109103420720496806",
+        "created_at": "2026-10-11T02:06:55.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T03:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109103420720496806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miyarah_/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/miyarah_/status/2109008079165812998",
+              "start": 3,
+              "url": "https://t.co/xttlc3HFh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109103420720496806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109008079165812998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日常 https://t.co/xttlc3HFh2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109008030935273472"
+          ]
+        },
+        "author_id": "1750468126972559360",
+        "conversation_id": "2109008079165812998",
+        "created_at": "2026-10-10T19:48:04.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T20:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109008079165812998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8OCPK2biq",
+              "end": 97,
+              "expanded_url": "https://x.com/miyarah_/status/2109008079165812998/video/1",
+              "media_key": "13_2109008030935273472",
+              "start": 74,
+              "url": "https://t.co/L8OCPK2biq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109008079165812998",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2109008030935273472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 990,
+          "impression_count": 170679,
+          "like_count": 32799,
+          "quote_count": 115,
+          "reply_count": 31,
+          "retweet_count": 5278
+        },
+        "reply_settings": "everyone",
+        "text": "así se siente cuando sales del cine y ya es de noche y todo parece irreal https://t.co/L8OCPK2biq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2109103420720496806",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 604,
+          "like_count": 7536,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 5427
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-25T10:41:08.000Z",
+        "description": "a ver pélame una mandarina",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "karl.♡",
+                "end": 23,
+                "expanded_url": "https://karl.xn--c6h",
+                "start": 0,
+                "url": "https://t.co/r6yCv7TJUw"
+              }
+            ]
+          }
+        },
+        "id": "1750468126972559360",
+        "is_identity_verified": false,
+        "location": "˚ ʚ 22:22 ɞ ˚",
+        "most_recent_tweet_id": "2109008079165812998",
+        "name": "miya",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1750468126972559360/1790805670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105421493211471872/XyDrfF6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22004,
+          "following_count": 2117,
+          "like_count": 192383,
+          "listed_count": 150,
+          "media_count": 6552,
+          "tweet_count": 158120
+        },
+        "url": "https://t.co/r6yCv7TJUw",
+        "username": "miyarah_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

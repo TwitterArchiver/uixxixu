@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105009673741230081"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2105009688807170544",
+    "created_at": "2026-09-29T18:59:53.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T19:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105009688807170544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "2093261032005287936",
+          "start": 21,
+          "username": "Archer3td"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K5P3E6wQLS",
+          "end": 55,
+          "expanded_url": "https://x.com/uixxixu/status/2105009688807170544/photo/1",
+          "media_key": "3_2105009673741230081",
+          "start": 32,
+          "url": "https://t.co/K5P3E6wQLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105009688807170544",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105009673741230081"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面基 ❍⩊❍ 很开心 ar特别好啊！！！\n@Archer3td https://t.co/K5P3E6wQLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2105009673741230081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZ_JTwbYAEy5om.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105009673741230081"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2105009688807170544",
+        "created_at": "2026-09-29T18:59:53.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105009688807170544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "2093261032005287936",
+              "start": 21,
+              "username": "Archer3td"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K5P3E6wQLS",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2105009688807170544/photo/1",
+              "media_key": "3_2105009673741230081",
+              "start": 32,
+              "url": "https://t.co/K5P3E6wQLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105009688807170544",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105009673741230081"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面基 ❍⩊❍ 很开心 ar特别好啊！！！\n@Archer3td https://t.co/K5P3E6wQLS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2105009688807170544",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2447,
+          "following_count": 569,
+          "like_count": 7277,
+          "listed_count": 0,
+          "media_count": 485,
+          "tweet_count": 5163
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T08:56:11.000Z",
+        "description": "你在看我的同时我也在看你\n互fo请私",
+        "id": "2093261032005287936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104919437421998252",
+        "name": "Archer3.0复活版",
+        "pinned_tweet_id": "2093262594811261186",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093261032005287936/1787907549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093262000893591552/5AGfjuRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 20,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Archer3td",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

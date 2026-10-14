@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2105563743220642194",
+    "created_at": "2026-10-02T10:54:03.000Z",
+    "display_text_range": [
+      47,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:54:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105974589792862295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775973560605089792",
+          "start": 0,
+          "username": "TWILIGHT196818"
+        },
+        {
+          "end": 29,
+          "id": "1870825698744836096",
+          "start": 16,
+          "username": "ifiwereamoth"
+        },
+        {
+          "end": 46,
+          "id": "1684269091849404416",
+          "start": 30,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105974589792862295",
+    "in_reply_to_user_id": "1775973560605089792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105911952820330539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TWILIGHT196818 @ifiwereamoth @1212s1212bs1242 下次试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2105563743220642194",
+        "created_at": "2026-10-02T10:54:03.000Z",
+        "display_text_range": [
+          47,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105974589792862295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775973560605089792",
+              "start": 0,
+              "username": "TWILIGHT196818"
+            },
+            {
+              "end": 29,
+              "id": "1870825698744836096",
+              "start": 16,
+              "username": "ifiwereamoth"
+            },
+            {
+              "end": 46,
+              "id": "1684269091849404416",
+              "start": 30,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105974589792862295",
+        "in_reply_to_user_id": "1775973560605089792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105911952820330539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TWILIGHT196818 @ifiwereamoth @1212s1212bs1242 下次试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775973560605089792",
+        "conversation_id": "2105563743220642194",
+        "created_at": "2026-10-02T06:45:10.000Z",
+        "display_text_range": [
+          40,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105911952820330539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            },
+            {
+              "end": 22,
+              "id": "1870825698744836096",
+              "start": 9,
+              "username": "ifiwereamoth"
+            },
+            {
+              "end": 39,
+              "id": "1684269091849404416",
+              "start": 23,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105911952820330539",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105612419498393960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu @ifiwereamoth @1212s1212bs1242 高维的杨梅还可以"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 35,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 65,
+                "start": 49,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2105974589792862295",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 572,
+          "like_count": 7324,
+          "listed_count": 0,
+          "media_count": 493,
+          "tweet_count": 5194
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T19:47:55.000Z",
+        "description": "🚪30，🉑抵穿孔定金，常驻南京，水烟师，想抽水烟欢迎来找我！接线下陪玩！我需要很多很多钱",
+        "id": "1775973560605089792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105911952820330539",
+        "name": "TWILIGHT",
+        "pinned_tweet_id": "2029619966866247926",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016749135492489216/BGmdutqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 267,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 353
+        },
+        "url": "",
+        "username": "TWILIGHT196818",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "邊界之物",
+        "id": "1870825698744836096",
+        "is_identity_verified": false,
+        "location": "🚪88好处只有認識我",
+        "most_recent_tweet_id": "2105906490515374378",
+        "name": "s!xpence",
+        "pinned_tweet_id": "2093647269765714330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870825698744836096/1766285102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002570935380160516/-yco8Owh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 142,
+          "like_count": 5735,
+          "listed_count": 8,
+          "media_count": 307,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "ifiwereamoth",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "4I/烟代/主人@Repeta8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Repeta8964"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "is_identity_verified": false,
+        "location": "我爱你",
+        "most_recent_tweet_id": "2105519222667497950",
+        "name": "12",
+        "pinned_tweet_id": "2101701179524976916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684269091849404416/1775462503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098702769708503040/JYBMlxoD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 933,
+          "like_count": 16989,
+          "listed_count": 0,
+          "media_count": 1157,
+          "tweet_count": 10510
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

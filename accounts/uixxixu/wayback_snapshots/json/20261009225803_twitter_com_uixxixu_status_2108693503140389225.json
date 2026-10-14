@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108674794455728252",
+    "created_at": "2026-10-09T22:58:03.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T23:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108693503140389225"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2108693503140389225",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108674794455728252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这剧里的年上男和年下男都好靠谱吼！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1777,
+        "media_key": "3_2108674775308791808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUOEiTEbcAANpuf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1557,
+        "media_key": "3_2108674775304577025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUOEiTDbIAEZM86.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108674794455728252",
+        "created_at": "2026-10-09T22:58:03.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T23:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108693503140389225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108693503140389225",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108674794455728252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这剧里的年上男和年下男都好靠谱吼！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108674775308791808",
+            "3_2108674775304577025"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108674794455728252",
+        "created_at": "2026-10-09T21:43:42.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T22:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108674794455728252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4bYDTOR53",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2108674794455728252/photo/1",
+              "media_key": "3_2108674775308791808",
+              "start": 4,
+              "url": "https://t.co/A4bYDTOR53"
+            },
+            {
+              "display_url": "pic.x.com/A4bYDTOR53",
+              "end": 27,
+              "expanded_url": "https://x.com/uixxixu/status/2108674794455728252/photo/1",
+              "media_key": "3_2108674775304577025",
+              "start": 4,
+              "url": "https://t.co/A4bYDTOR53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108674794455728252",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2108674775308791808"
+          },
+          {
+            "media_key": "3_2108674775304577025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甜…… https://t.co/A4bYDTOR53"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108693503140389225",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 596,
+          "like_count": 7479,
+          "listed_count": 0,
+          "media_count": 516,
+          "tweet_count": 5374
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

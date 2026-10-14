@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108886450255311050",
+    "created_at": "2026-10-10T20:24:46.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T21:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109017317946568796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2103931868261568512",
+          "start": 0,
+          "username": "Beatrice3Mint5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109017317946568796",
+    "in_reply_to_user_id": "2103931868261568512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109012556216164726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beatrice3Mint5 爱你宝宝w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108886450255311050",
+        "created_at": "2026-10-10T20:24:46.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T21:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109017317946568796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2103931868261568512",
+              "start": 0,
+              "username": "Beatrice3Mint5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109017317946568796",
+        "in_reply_to_user_id": "2103931868261568512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109012556216164726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beatrice3Mint5 爱你宝宝w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103931868261568512",
+        "conversation_id": "2108886450255311050",
+        "created_at": "2026-10-10T20:05:51.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T21:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109012556216164726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109012556216164726",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108886450255311050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 好美"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2109017317946568796",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2520,
+          "following_count": 602,
+          "like_count": 7520,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 5415
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-26T19:39:31.000Z",
+        "description": "前世@Mintink4以及@Mintink3\n166cm/40kg/重度焦虑➕重度睡眠障碍治疗中 互fo私",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Mintink4"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Mintink3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+GWs1Kp_yEDAyY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+GWs1Kp_yEDAyYzc9",
+                "start": 0,
+                "url": "https://t.co/XEbGZfBiDY"
+              }
+            ]
+          }
+        },
+        "id": "2103931868261568512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109017020394246187",
+        "name": "Beatrice三世",
+        "pinned_tweet_id": "2103941496517099586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103931868261568512/1790453767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103941661198008320/kFBWbLRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3424,
+          "following_count": 189,
+          "like_count": 864,
+          "listed_count": 3,
+          "media_count": 31,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/XEbGZfBiDY",
+        "username": "Beatrice3Mint5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

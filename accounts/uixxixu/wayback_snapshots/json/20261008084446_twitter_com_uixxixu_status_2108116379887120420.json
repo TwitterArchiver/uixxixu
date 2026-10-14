@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074500272890753025"
+      ],
+      "media_source_tweet_id": [
+        "2074500354616795617"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108116379887120420",
+    "created_at": "2026-10-08T08:44:46.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T09:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108116379887120420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1337902475609690113",
+          "start": 3,
+          "username": "killmyaffairs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ifU8pkC2jz",
+          "end": 120,
+          "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+          "media_key": "13_2074500272890753025",
+          "start": 97,
+          "url": "https://t.co/ifU8pkC2jz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108116379887120420",
+    "lang": "es",
+    "media_metadata": [
+      {
+        "media_key": "13_2074500272890753025"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21840
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107487361885966435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @killmyaffairs: lo q quiero hacer cuando m preguntan algo estupido mientras estoy d mal humor\nhttps://t.co/ifU8pkC2jz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7871,
+        "height": 692,
+        "media_key": "13_2074500272890753025",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074500272890753025/img/92VZ8aWHESStCoF_.jpg",
+        "public_metrics": {
+          "view_count": 2888219
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/346x270/Yc7XmMe8FGwbd3h7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/460x360/IAGaJ05LY3aT4sn6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/vid/avc1/888x692/ZhUyBm83YXRYGL5k.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074500272890753025/pl/WxD0lG0pe4H4nKVM.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074500272890753025"
+          ],
+          "media_source_tweet_id": [
+            "2074500354616795617"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108116379887120420",
+        "created_at": "2026-10-08T08:44:46.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T09:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108116379887120420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1337902475609690113",
+              "start": 3,
+              "username": "killmyaffairs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifU8pkC2jz",
+              "end": 120,
+              "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+              "media_key": "13_2074500272890753025",
+              "start": 97,
+              "url": "https://t.co/ifU8pkC2jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108116379887120420",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2074500272890753025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21840
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107487361885966435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @killmyaffairs: lo q quiero hacer cuando m preguntan algo estupido mientras estoy d mal humor\nhttps://t.co/ifU8pkC2jz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074500272890753025"
+          ],
+          "media_source_tweet_id": [
+            "2074500354616795617"
+          ]
+        },
+        "author_id": "1337902475609690113",
+        "conversation_id": "2107487361885966435",
+        "created_at": "2026-10-06T15:05:16.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107487361885966435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifU8pkC2jz",
+              "end": 101,
+              "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+              "media_key": "13_2074500272890753025",
+              "start": 78,
+              "url": "https://t.co/ifU8pkC2jz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107487361885966435",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "13_2074500272890753025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4229,
+          "impression_count": 893171,
+          "like_count": 64514,
+          "quote_count": 444,
+          "reply_count": 99,
+          "retweet_count": 21840
+        },
+        "reply_settings": "everyone",
+        "text": "lo q quiero hacer cuando m preguntan algo estupido mientras estoy d mal humor\nhttps://t.co/ifU8pkC2jz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074500272890753025"
+          ]
+        },
+        "author_id": "1957777378417209346",
+        "conversation_id": "2074500354616795617",
+        "created_at": "2026-07-07T14:26:41.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074500354616795617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wg0YS29t3j",
+              "end": 47,
+              "expanded_url": "https://x.com/michin_saekki1/status/2074500354616795617/video/1",
+              "media_key": "13_2074500272890753025",
+              "start": 24,
+              "url": "https://t.co/Wg0YS29t3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074500354616795617",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2074500272890753025"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5657,
+          "impression_count": 4751737,
+          "like_count": 45006,
+          "quote_count": 1650,
+          "reply_count": 0,
+          "retweet_count": 17013
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "지금 누구하나 걸리면 이렇게 패버리고 싶음 https://t.co/Wg0YS29t3j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108116379887120420",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 588,
+          "like_count": 7410,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 5286
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-12T23:29:54.000Z",
+        "description": "mi vida por el satosugu",
+        "id": "1337902475609690113",
+        "is_identity_verified": false,
+        "location": "she/her ",
+        "most_recent_tweet_id": "2108076605079691675",
+        "name": "karen novia d ale",
+        "pinned_tweet_id": "1819448945611100167",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1337902475609690113/1778556850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105422716329160705/81g0m4mM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28254,
+          "following_count": 13623,
+          "like_count": 45665,
+          "listed_count": 332,
+          "media_count": 7197,
+          "tweet_count": 253383
+        },
+        "url": "",
+        "username": "killmyaffairs",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2109098932857127364",
+    "created_at": "2026-10-11T02:43:05.000Z",
+    "display_text_range": [
+      15,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T03:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109112522301391051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626209229542666240",
+          "start": 0,
+          "username": "Himenoskyland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109112522301391051",
+    "in_reply_to_user_id": "1626209229542666240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109098932857127364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Himenoskyland 好吧！知道惹！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29700,
+        "height": 720,
+        "media_key": "13_2109098800849760256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109098800849760256/img/LNYE6dMV2HImXwY_.jpg",
+        "public_metrics": {
+          "view_count": 57
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109098800849760256/vid/avc1/480x270/_KlqmEEsncpNwN9L.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109098800849760256/vid/avc1/640x360/l7YnWp71BNmxb6Mq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109098800849760256/vid/avc1/1280x720/jT8-D7ymkPxLgzw6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109098800849760256/pl/mKVMqnaXhVxKvICB.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2109098932857127364",
+        "created_at": "2026-10-11T02:43:05.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T03:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109112522301391051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626209229542666240",
+              "start": 0,
+              "username": "Himenoskyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109112522301391051",
+        "in_reply_to_user_id": "1626209229542666240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109098932857127364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Himenoskyland 好吧！知道惹！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109098800849760256"
+          ]
+        },
+        "author_id": "1626209229542666240",
+        "conversation_id": "2109098932857127364",
+        "created_at": "2026-10-11T01:49:05.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T02:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109098932857127364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FshZTt5U2N",
+              "end": 34,
+              "expanded_url": "https://x.com/Himenoskyland/status/2109098932857127364/video/1",
+              "media_key": "13_2109098800849760256",
+              "start": 11,
+              "url": "https://t.co/FshZTt5U2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109098932857127364",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2109098800849760256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要把狙使当傻子喵！ https://t.co/FshZTt5U2N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2109112522301391051",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 604,
+          "like_count": 7538,
+          "listed_count": 0,
+          "media_count": 520,
+          "tweet_count": 5430
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-16T13:18:24.000Z",
+        "description": "人这种东西什么都能习惯的\n提问箱：https://t.co/xj61wXv6nQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/skyland57437",
+                "end": 40,
+                "expanded_url": "https://ngl.link/skyland57437",
+                "start": 17,
+                "url": "https://t.co/xj61wXv6nQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Y_aYh0eqcfZmY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Y_aYh0eqcfZmYjZl",
+                "start": 0,
+                "url": "https://t.co/SeILV17tKQ"
+              }
+            ]
+          }
+        },
+        "id": "1626209229542666240",
+        "is_identity_verified": false,
+        "location": "🚪52/88/288",
+        "most_recent_tweet_id": "2109099642831151491",
+        "name": "小真",
+        "pinned_tweet_id": "2086063910944415948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626209229542666240/1788787813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087525649556832256/L_NokrLS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 337,
+          "like_count": 1881,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/SeILV17tKQ",
+        "username": "Himenoskyland",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

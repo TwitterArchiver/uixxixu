@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108886450255311050",
+    "created_at": "2026-10-11T17:07:25.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T18:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109330038130921959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489486846211936256",
+          "start": 0,
+          "username": "Splaaaaashivk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109330038130921959",
+    "in_reply_to_user_id": "1489486846211936256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109303718839803951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Splaaaaashivk9 谢谢w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108886450255311050",
+        "created_at": "2026-10-11T17:07:25.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T18:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109330038130921959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489486846211936256",
+              "start": 0,
+              "username": "Splaaaaashivk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109330038130921959",
+        "in_reply_to_user_id": "1489486846211936256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109303718839803951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Splaaaaashivk9 谢谢w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489486846211936256",
+        "conversation_id": "2108886450255311050",
+        "created_at": "2026-10-11T15:22:50.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T16:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109303718839803951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109303718839803951",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108886450255311050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 好呀撒西！！！⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈\n/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QqTP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 104,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 81,
+                "url": "https://t.co/zxDVG8QqTP"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2109330038130921959",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2108886450255311050",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 609,
+          "like_count": 7579,
+          "listed_count": 0,
+          "media_count": 525,
+          "tweet_count": 5455
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T06:32:02.000Z",
+        "description": "我喜欢：🎵：Low Roar/LockedClub/ElectroPunk/HardDance/Industrial\n动漫和喜欢的Gal都剪到视频号里去了 玩的游戏非常杂欢迎来找我玩～\n如果你是小众b或許在短視頻里刷到过我 LGBTQ友好！！！\n我要重新尝试一些类型（哼哼\n#drugtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 152,
+                "start": 146,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1489486846211936256",
+        "is_identity_verified": false,
+        "location": "活在真空里欸",
+        "most_recent_tweet_id": "2109303718839803951",
+        "name": "Splaaaaash!",
+        "pinned_tweet_id": "2100582574347444427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489486846211936256/1775579072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051620660800339968/Ht6ohq57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 498,
+          "like_count": 2252,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 515
+        },
+        "url": "",
+        "username": "Splaaaaashivk9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

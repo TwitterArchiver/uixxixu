@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108509777110401161",
+    "created_at": "2026-10-09T11:31:32.000Z",
+    "display_text_range": [
+      17,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108520735077765449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431992822",
+          "start": 0,
+          "username": "lianyu_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108520735077765449",
+    "in_reply_to_user_id": "1431992822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108514318836777389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyu_official 金钱很好啊。解决了大部分人的主要烦恼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108509777110401161",
+        "created_at": "2026-10-09T11:31:32.000Z",
+        "display_text_range": [
+          17,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108520735077765449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431992822",
+              "start": 0,
+              "username": "lianyu_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108520735077765449",
+        "in_reply_to_user_id": "1431992822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108514318836777389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyu_official 金钱很好啊。解决了大部分人的主要烦恼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431992822",
+        "conversation_id": "2108509777110401161",
+        "created_at": "2026-10-09T11:06:02.000Z",
+        "display_text_range": [
+          9,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108514318836777389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108514318836777389",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108513847049138619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 金钱只是让我有了能做自己想做事情的自由，比如我可以全心全意读我想读的专业，未来去搞研究，也不用考虑工资，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108520735077765449",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 588,
+          "like_count": 7457,
+          "listed_count": 0,
+          "media_count": 511,
+          "tweet_count": 5342
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-16T02:37:16.000Z",
+        "description": "是来自B站的vtuber怜雨_official，希望能在这里带大家找到每一个人的幸福喵|CityU BME本科在读|English/中文 is ok|green hand with 日本语 but I'm trying to learn it!",
+        "id": "1431992822",
+        "is_identity_verified": false,
+        "location": "HONG KONG China",
+        "most_recent_tweet_id": "2108518632536117633",
+        "name": "怜雨_official",
+        "pinned_tweet_id": "2084098359850303693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431992822/1785678820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083914069132886016/h7rLDcBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 567,
+          "like_count": 13891,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "lianyu_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

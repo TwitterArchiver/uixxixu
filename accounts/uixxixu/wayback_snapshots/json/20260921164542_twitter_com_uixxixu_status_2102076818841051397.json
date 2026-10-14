@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2102059627852759373",
+    "created_at": "2026-09-21T16:45:42.000Z",
+    "display_text_range": [
+      14,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102076818841051397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804018929481981952",
+          "start": 0,
+          "username": "Extrustomach"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102076818841051397",
+    "in_reply_to_user_id": "1804018929481981952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102076090156232950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Extrustomach 可能我曾经被折磨透了 喝了酒想说说一直依赖的感受"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2102059627852759373",
+        "created_at": "2026-09-21T16:45:42.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102076818841051397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804018929481981952",
+              "start": 0,
+              "username": "Extrustomach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102076818841051397",
+        "in_reply_to_user_id": "1804018929481981952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102076090156232950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Extrustomach 可能我曾经被折磨透了 喝了酒想说说一直依赖的感受"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804018929481981952",
+        "conversation_id": "2102059627852759373",
+        "created_at": "2026-09-21T16:42:49.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102076090156232950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102076090156232950",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102074516793070061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 我接触到的还行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/遵医嘱有处方合理使用药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2102076818841051397",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2098384114936431030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2414,
+          "following_count": 566,
+          "like_count": 7182,
+          "listed_count": 0,
+          "media_count": 458,
+          "tweet_count": 4997
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-06-21T05:11:02.000Z",
+        "description": "我看见这一代最杰出的头脑毁于翻译\n\n                                                                          原教旨地雷系/死人",
+        "id": "1804018929481981952",
+        "is_identity_verified": false,
+        "location": "Cloudflare",
+        "most_recent_tweet_id": "2102076735638708622",
+        "name": "gemini哭哭🥺",
+        "pinned_tweet_id": "1919684973126418640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804018929481981952/1756961148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006255535910445059/M_kdyH0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 1049,
+          "like_count": 69318,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 9617
+        },
+        "url": "",
+        "username": "Extrustomach",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

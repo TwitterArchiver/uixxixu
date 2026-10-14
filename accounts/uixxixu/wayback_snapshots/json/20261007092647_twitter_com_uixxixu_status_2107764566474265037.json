@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2107631173795184729",
+    "created_at": "2026-10-07T09:26:47.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T10:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107764566474265037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107764566474265037",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107631173795184729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew 至冬"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2107630394103504896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT_OrT5bIAAIzfU.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2107631173795184729",
+        "created_at": "2026-10-07T09:26:47.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107764566474265037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107764566474265037",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107631173795184729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 至冬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107630394103504896"
+          ]
+        },
+        "author_id": "1503516796493590530",
+        "conversation_id": "2107631173795184729",
+        "created_at": "2026-10-07T00:36:44.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T01:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107631173795184729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O7fB4q1Dnm",
+              "end": 28,
+              "expanded_url": "https://x.com/orangefish_stew/status/2107631173795184729/photo/1",
+              "media_key": "3_2107630394103504896",
+              "start": 5,
+              "url": "https://t.co/O7fB4q1Dnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107631173795184729",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107630394103504896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 433,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我歌品： https://t.co/O7fB4q1Dnm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2107764566474265037",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 589,
+          "like_count": 7394,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 5272
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜18大专牲｜INFP｜代词随意｜🏳️‍🌈喜欢男的｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew78598",
+                "start": 0,
+                "url": "https://t.co/0H9eDwX7NX"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "is_identity_verified": false,
+        "location": "青岛？",
+        "most_recent_tweet_id": "2107684694208987414",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "2071353465612468377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503516796493590530/1734157751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6588,
+          "following_count": 2661,
+          "like_count": 65616,
+          "listed_count": 2,
+          "media_count": 832,
+          "tweet_count": 9840
+        },
+        "url": "https://t.co/0H9eDwX7NX",
+        "username": "orangefish_stew",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

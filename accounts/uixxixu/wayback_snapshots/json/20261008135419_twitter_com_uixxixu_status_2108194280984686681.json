@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108191208371822592"
+      ],
+      "media_source_tweet_id": [
+        "2108191220908605558"
+      ]
+    },
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108194280984686681",
+    "created_at": "2026-10-08T13:54:19.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T14:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108194280984686681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745165412441206784",
+          "start": 3,
+          "username": "KIKOBABY90s"
+        },
+        {
+          "end": 38,
+          "id": "1128010587089264640",
+          "start": 30,
+          "username": "uixxixu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2KsHIIFs4s",
+          "end": 62,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2108191220908605558/photo/1",
+          "media_key": "3_2108191208371822592",
+          "start": 39,
+          "url": "https://t.co/2KsHIIFs4s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108194280984686681",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108191208371822592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108191220908605558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KIKOBABY90s: 萌萌的未来送的萌萌的kt～@uixxixu https://t.co/2KsHIIFs4s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108191208371822592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUHMu_2aoAAVrbA.jpg",
+        "width": 1802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108191208371822592"
+          ],
+          "media_source_tweet_id": [
+            "2108191220908605558"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108194280984686681",
+        "created_at": "2026-10-08T13:54:19.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108194280984686681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745165412441206784",
+              "start": 3,
+              "username": "KIKOBABY90s"
+            },
+            {
+              "end": 38,
+              "id": "1128010587089264640",
+              "start": 30,
+              "username": "uixxixu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KsHIIFs4s",
+              "end": 62,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2108191220908605558/photo/1",
+              "media_key": "3_2108191208371822592",
+              "start": 39,
+              "url": "https://t.co/2KsHIIFs4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108194280984686681",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108191208371822592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108191220908605558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KIKOBABY90s: 萌萌的未来送的萌萌的kt～@uixxixu https://t.co/2KsHIIFs4s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108191208371822592"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2108191220908605558",
+        "created_at": "2026-10-08T13:42:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108191220908605558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1128010587089264640",
+              "start": 13,
+              "username": "uixxixu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2KsHIIFs4s",
+              "end": 45,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2108191220908605558/photo/1",
+              "media_key": "3_2108191208371822592",
+              "start": 22,
+              "url": "https://t.co/2KsHIIFs4s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108191220908605558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108191208371822592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "萌萌的未来送的萌萌的kt～@uixxixu https://t.co/2KsHIIFs4s"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108194280984686681",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 588,
+          "like_count": 7423,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 5295
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2108191220908605558",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 135,
+          "like_count": 1733,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

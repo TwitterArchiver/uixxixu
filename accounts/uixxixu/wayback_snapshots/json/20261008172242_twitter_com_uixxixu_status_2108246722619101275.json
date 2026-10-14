@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108240354486988974",
+    "created_at": "2026-10-08T17:22:42.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T18:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108246722619101275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700762210035748864",
+          "start": 0,
+          "username": "takanashi110998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108246722619101275",
+    "in_reply_to_user_id": "1700762210035748864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108241146594079204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takanashi110998 不用吧。我说的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2108241146594079204].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2108241146594079204",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2108241146594079204"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108240354486988974",
+        "created_at": "2026-10-08T17:22:42.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T18:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108246722619101275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700762210035748864",
+              "start": 0,
+              "username": "takanashi110998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108246722619101275",
+        "in_reply_to_user_id": "1700762210035748864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108241146594079204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takanashi110998 不用吧。我说的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108246722619101275",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 588,
+          "like_count": 7434,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 5316
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-10T06:44:54.000Z",
+        "description": "哈哈\nhttps://t.co/ventaKOcKj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bangumi.tv/user/akanolain…",
+                "end": 26,
+                "expanded_url": "https://bangumi.tv/user/akanolain11037",
+                "start": 3,
+                "url": "https://t.co/ventaKOcKj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinolov.com",
+                "end": 23,
+                "expanded_url": "http://yukinolov.com",
+                "start": 0,
+                "url": "https://t.co/VD7b9X5i6i"
+              }
+            ]
+          }
+        },
+        "id": "1700762210035748864",
+        "is_identity_verified": false,
+        "location": "白樺",
+        "most_recent_tweet_id": "2091131146897957146",
+        "name": "藤原破坏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700762210035748864/1766764986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025447924319100928/mM1jAGBs_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 39,
+          "like_count": 4433,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/VD7b9X5i6i",
+        "username": "takanashi110998",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

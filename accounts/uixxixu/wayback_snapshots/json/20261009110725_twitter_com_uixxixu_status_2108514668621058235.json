@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1128010587089264640",
+    "conversation_id": "2108506315324616910",
+    "created_at": "2026-10-09T11:07:25.000Z",
+    "display_text_range": [
+      17,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T12:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108514668621058235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431992822",
+          "start": 0,
+          "username": "lianyu_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108514668621058235",
+    "in_reply_to_user_id": "1431992822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108506315324616910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianyu_official 是啊 卡学历可以理解 在工作中遇到什么都不会、从头开始学习的阶段 也是很普遍的 但是现在找工作环境不好 确实都很难……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1128010587089264640",
+        "conversation_id": "2108506315324616910",
+        "created_at": "2026-10-09T11:07:25.000Z",
+        "display_text_range": [
+          17,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T12:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108514668621058235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431992822",
+              "start": 0,
+              "username": "lianyu_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108514668621058235",
+        "in_reply_to_user_id": "1431992822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108506315324616910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianyu_official 是啊 卡学历可以理解 在工作中遇到什么都不会、从头开始学习的阶段 也是很普遍的 但是现在找工作环境不好 确实都很难……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431992822",
+        "conversation_id": "2108506315324616910",
+        "created_at": "2026-10-09T10:34:14.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108506315324616910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uixxixu/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/uixxixu/status/2108215654591414368",
+              "start": 143,
+              "url": "https://t.co/tuntxg1Ivi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108506315324616910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呃呃呃可是很多工作真的是需要前备知识的。因为全力依父的关系嘛，我高一到高二的暑假就去过某上市公司当技术员实习，做的是单片机编程什么的，还有芯片的cad设计，我之前从未接触过编程，但是天天看推上那些中年嘉豪说什么计算机是人上都行，我去那啥都不会，看b站找视频学也发现至少要学好久才会，有很多知识都是需要经过学习和理解才能掌握的，然后最后我的那些工作都是让别人代劳，我啥也没做。。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108215654591414368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃呃可是很多工作真的是需要前备知识的。因为全力依父的关系嘛，我高一到高二的暑假就去过某上市公司当技术员实习，做的是单片机编程什么的，还有芯片的cad设计，我之前从未接触过编程，但是天天看推上那些中年嘉豪说什么计算机是人上都行，我去那啥都不会，看b站找视频学也发现至少要学好久才会，有 https://t.co/tuntxg1Ivi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/永远的宝贝妹妹小盐@Xxnay0621/我的狗@takanashi110998/不混圈/勿问渠道/遵医嘱有处方合理使用药物\n提问箱：https://t.co/zxDVG8QYJn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "Xxnay0621"
+              },
+              {
+                "end": 53,
+                "start": 37,
+                "username": "takanashi110998"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "valence.top/ask/gvu8cyxt3",
+                "end": 103,
+                "expanded_url": "https://valence.top/ask/gvu8cyxt3",
+                "start": 80,
+                "url": "https://t.co/zxDVG8QYJn"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2108514668621058235",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2105982233026900252",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 588,
+          "like_count": 7451,
+          "listed_count": 0,
+          "media_count": 510,
+          "tweet_count": 5339
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-05-16T02:37:16.000Z",
+        "description": "是来自B站的vtuber怜雨_official，希望能在这里带大家找到每一个人的幸福喵|CityU BME本科在读|English/中文 is ok|green hand with 日本语 but I'm trying to learn it!",
+        "id": "1431992822",
+        "is_identity_verified": false,
+        "location": "HONG KONG China",
+        "most_recent_tweet_id": "2108514613708968000",
+        "name": "怜雨_official",
+        "pinned_tweet_id": "2084098359850303693",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431992822/1785678820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083914069132886016/h7rLDcBc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 566,
+          "like_count": 13883,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1734
+        },
+        "url": "",
+        "username": "lianyu_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
